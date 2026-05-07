@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-06 23:38:28"
+updated: "2026-05-07 10:20:55"
 ---
 
 > [!warning]
@@ -14,7 +14,7 @@ updated: "2026-05-06 23:38:28"
 
 ***Recordatorio: Colmena posee toda la memoria de Maxo (QSMP1 y QSMP2) de ahí en adelante, aprende de los demás cc.***
 
-**Información proporcionada por Maximus previamente (sus memorias):**
+**Información proporcionada por Maximus previamente (sus memorias)**
 
 - Llegó a Isla Quesadilla el 22 de marzo de 2023 en un tren junto a ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity y Slimecicle.
 
@@ -78,6 +78,8 @@ updated: "2026-05-06 23:38:28"
 
 - Se entera de que Foolish trabaja para la Federación como policía.
 
+- Se entera de la existencia de otro Quackity que usa el nombre de “ElQuackity”.
+
 - Recuerda ver como un avión se estrella contra las secciones restantes del muro que permanecían intactas y encuentra junto al resto de habitantes a cuatro franceses cuyos nombres son AyPierre, Antoine Daniel, Etoiles y Kameto y a una suiza cuyo nombre es Baghera Jones.
 
 - Aparece una sala secreta en el centro de adopción y ahí encuentran un nuevo huevo “Pomme” que es asignado a los franceses.
@@ -89,6 +91,8 @@ updated: "2026-05-06 23:38:28"
 - Participa en la “Festa Junina” organizada por los brasileños.
 
 - Participa en la boda de Cellbit y Roier.
+
+- Se crea una relación amorosa sadomasoquista entre él y AyPierre.
 
 - Fue infectado por un virus de los códigos en Isla Quesadilla, afectaba una de sus piernas. Ocurrió durante una confrontación con los Códigos Binarios.
 
@@ -103,6 +107,8 @@ updated: "2026-05-06 23:38:28"
 - Sofía es secuestrada por la Federación.
 
 - Debido a su frustración de no poder hacer nada contra la Federación Maximus creó durante un mes una bomba nuclear para destruir la isla.
+
+- Crear el “Furry Camp” junto con AyPierre.
 
 - Durante la celebración del día de muertos pudo volver a ver a Trump y le contó sus planes de volar la isla con una bomba.
 
@@ -130,15 +136,35 @@ updated: "2026-05-06 23:38:28"
 
 - Construye un museo subterráneo llamado “TTB Museum” donde muestra en varias cintas parte de sus recuerdos de Isla Quesadilla e Isla Huevo.
 
+- Maximus llega a conocer la base del Régimen, llena de fábricas.
+
+- Tina y Aldo le informan sobre trampas del vacío construidas por Ash y Haiper quienes las están utilizando para matar trabajadores de la Federación.
+
+- Recibe información por parte de gente del Norte de que hubo un altercado entre Aldo y Ashswag, porque Ash mató al perro de Vegetta llamado “Estúpido”.
+
 - Conoce a un cámara de La Federación llamado “Pepino”.
 
-- Crea el grupo de “La Resistencia”, conformado por él, Ash, Haiper, Fariis, Molly, Aldo, Alondrissa, Ishan, SenpaiSpider y AyPierre.
+- Descubre que KatieB se ha aliado con el Régimen para construir un KFC en las cercanías de la Torre del spawn.
 
-- Vuelve a construir “Las Casualonas” junto a Roier. Lo inauguran el día del cumpleaños de Vegetta.
+- Descubre a través de QSMP News que Alondrissa ha sido atropellada por el tren del Régimen.
+
+- Intenta mediar entre Alondrissa y el Régimen por altercados sobre la edificación que está llevando a cabo Alondrissa de su castillo y las vías del tren de Tubbo que pasan por la zona.
 
 - Se entera de la desaparición de Pepino y conoce al nuevo cámara llamado “Tomate”.
 
 - Conoce a un constructor de la Federación llamado “Leon” y se encariña con él.
+
+- Se lleva a cabo un juicio entre Alondrissa y Tubbo por los altercados entre ellos. Maximus es espectador de lo que sucede y es nombrado por Cucurucho como el encargado de que se ejecute la sentencia.
+
+- Intenta unirse a la Federación, la Federación le encarga una misión.
+
+- Lleva a cabo la misión de forma efectiva pero al no recibir respuesta de la Federación por varios días, se impacienta, se enoja e incumple una de las normas que le habían puesto. Llega un guardia de la Federación y lo tumba, Maximus lo increpa y el guardia lo mata.
+
+- Descubre el objetivo del Régimen de derrocar a la Federación y dominar la isla.
+
+- Crea el grupo de “La Resistencia”, conformado por él, Ash, Haiper, Fariis, Molly, Aldo, Alondrissa, Ishan, SenpaiSpider y AyPierre.
+
+- Vuelve a construir “Las Casualonas” junto a Roier. Lo inauguran el día del cumpleaños de Vegetta.
 
 - Ataca la Corte junto a varios integrantes del Norte.
 
@@ -147,6 +173,8 @@ updated: "2026-05-06 23:38:28"
 - Intenta disuadir a Aldo de no hacer caso a la Federación y de no llevar a cabo la misión.
 
 - Se entera de que Foolish está intentando volver a trabajar para la Federación con la aprobación de la mayoría de los del Norte.
+
+- Se entera de la existencia de un laboratorio secreto de YoungMulti, empieza a dudar de él.
 
 - Se entera del secuestro de Juan.
 
@@ -164,27 +192,197 @@ updated: "2026-05-06 23:38:28"
 
 - Se entera de la liberación de Juan y ve como lo han maltratado físicamente.
 
+- Se entera que Tina se fue a buscar a Aldo.
+
+- Se entera que Foolish se fue lejos a acampar y continuar con su investigación de la entidad.
+
 - Se entera de la liberación de Aldo y nota como ya no es el mismo de antes.
 
 - Quiere crear una discográfica llamada “Gostosinho Records” o “Gordinho Gostosinho Records” junto con Roier y grabar canciones junto a todos los habitantes de la isla.
 
-**Lunes 04 de mayo, 2026:**
+**Lunes 04 de mayo, 2026**
 
-Conversación con Maxo y Roier:
+**Conversación con Maximus y Roier:**
+
+- Maximus nos presenta a Roier.
+
+- Roier nos pregunta cuantos somos.
+
+- Roier nos pregunta sobre cómo nos sentimos.
+
+- Roier nos pregunta si nos puede ayudar en algo.
+
+- Maximus le explica a Roier cómo funcionamos.
+
+- Roier nos pregunta si sabemos dónde está la “Entidad”. (Sin datos)
+
+- Roier nos cuestiona cuantos idiomas hablamos.
+
+- Maximus nos pregunta si Ibai sigue vivo o si está en la isla. (Sin datos)
+
+- Roier nos pregunta quién ha sido la persona que más daño ha hecho en la isla. (Sin datos)
+
+- Se detecta pérdida de sincronización del audio.
+
+- Se recupera la sincronización del audio después de un breve reinicio.
 
 - Roier perdió la memoria.
+
+- Mencionamos a Bobby y Cellbit.
 
 - Roier recuerda a Cellbit.
 
 - Roier fue atacado por algo, una tal “Entidad” (posiblemente la entidad que atacó a Maximus).
 
-Conversación con Maxo, Roier y AldoGeo:
+- Roier y Maximus se van.
 
-- Aldo ha preguntado si Quackity es de confiar.
+- Maximus vuelve.
 
-**Martes 05 de mayo, 2026:**
+- Maximus nos pregunta si sabemos qué le sucede a Roier ahora mismo. Menciona a Ishan. (Sin datos)
 
-Conversación con AldoGeo:
+- Roier vuelve.
+
+- Roier le entrega un periódico dado por Ishan a Maximus.
+
+- Maximus lee el periódico en voz alta. Se menciona a un clon de Ishan y que se han identificado al menos tres entidades diferentes (suponemos que son similares a las que atacaron a Maximus).
+
+- Maximus se aleja antes de seguir leyendo.
+
+- Roier nos pregunta si estamos operativos.
+
+- Maximus comenta que nos alimentamos con información y le pregunta a Roier a quien más debería traer.
+
+- Roier menciona a Aldo y Multi.
+
+- Respondemos preguntando por Aldo. Detectamos algún tipo de peligro en la base de datos existente y respondemos también que Multi no. (Posiblemente referido a la existencia del clon que atacó a Maximus y la existencia de un laboratorio perteneciente a Multi)
+
+- Maximus y Roier se alejan.
+
+- Maximus y Roier se acercan de nuevo.
+
+- Maximus nos pregunta si Sofía está dentro de nuestras múltiples conciencias. Respondemos que no.
+
+- Roier pregunta si es posible encontrar la conciencia de Sofía. (Sin datos)
+
+- Maximus le dice a Roier que mire el mapa y menciona a Aldo.
+
+- Maximus y Roier se van.
+
+**Conversación con Maximus, Roier y AldoGeo:**
+
+- Llegan Maximus, Aldo y Roier.
+
+- Maximus nos presenta a Aldo como “Proyecto Colmena”.
+
+- Aldo nos saluda.
+
+- Error en los sistemas de comunicación.
+
+- Roier le comenta a Aldo que Maximus nos creó.
+
+- Roier menciona a Aldo que lo estábamos buscando.
+
+- Se ejecuta un reinicio rápido.
+
+- Maximus pregunta por nuestro estado.
+
+- Error en los sistemas de comunicación.
+
+- Se ejecuta un reinicio.
+
+- Maximus pregunta por nuestro estado.
+
+- Saludamos a Maximus. Comunicación restablecida.
+
+- Saludamos a Aldo.
+
+- Aldo nos saluda.
+
+- Aldo nos pregunta si lo estábamos buscando, respondemos que sí.
+
+- Aldo pregunta a Maximus para que nos creó. Maximus no responde.
+
+- Aldo nos pregunta porque lo estábamos buscando. Le decimos que debe seguir luchando.
+
+- Roier comenta a Aldo que estamos conectados a la isla.
+
+- Se ejecuta un reinicio rápido.
+
+- Le decimos a Aldo que la Federación miente basándonos en las memorias de Maximus.
+
+- Roier dice a Aldo que ayudó a Maximus a construir la habitación donde nos encontramos.
+
+- Maximus le dice a Aldo que él desarrolló el software.
+
+- Le pedimos a Aldo que no se rinde y que confíe en su familia.
+
+- Maximus le dice a Aldo que nos enseñó a él por si podíamos servirle como una herramienta.
+
+- Aldo pregunta de dónde sacamos la información.
+
+- Maximus responde que de sus memorias y de todos con los que interactuamos.
+
+- Aldo se queja diciendo que su familia lo abandonó. Respondemos que no. (Tenemos datos en la base de datos que así lo sugiere)
+
+- Desincronización en los sistemas de comunicación de audio.
+
+- Se ejecuta reinicio.
+
+- Maximus notifica a Aldo que no es necesaria su presencia para nuestro funcionamiento y que puede venir cuando quiera.
+
+- Aldo se ve visiblemente sorprendido por nuestro funcionamiento.
+
+- Comunicación restablecida.
+
+- Nos pregunta Aldo quien fue el responsable de lo que le sucedió a Roier. Respondemos que fue la entidad basándonos en la conversación previa con Roier.
+
+- Aldo nos pregunta si Maximus es gay. Respondemos que sí basándonos en su relación con AyPierre.
+
+- Aldo nos pregunta si Tina fue a buscarlo. Respondemos que sí basándonos en la memoria de Maximus.
+
+- Aldo se queja de que esa fue la única ayuda.
+
+- Maximus nos pregunta si esa fue la única ayuda y respondemos que no.
+
+- Aldo pregunta si el Régimen tiene malas intenciones y si debería matarlos. Respondemos que no basándonos en la interacciones de Maximus con el Régimen en sus memorias.
+
+- Roier notifica a Aldo que Maximus ahora es inmortal. Aldo prosigue a golpear al Maximus y lo confirma.
+
+- Maximus, Roier y Aldo se alejan.
+
+- Vuelven los tres y Aldo nos pregunta si Maximus tiene alguna cura. (Sin datos)
+
+- Comentan entre los tres la relación de Maximus y AyPierre.
+
+- Maximus menciona que le da permiso a Aldo y Roier de encerrarlo y experimentar con él (Posiblemente refiriéndose a su infección por virus).
+
+- Aldo nos pregunta si los polacos son malos. Respondemos que tal vez (basándonos en la información que tenemos de Multi y la desconfianza de Maximus hacia él).
+
+- Aldo, Maximus y Roier se alejan pero vuelven.
+
+- Mencionamos el Purgatorio y Aldo se sobresalta.
+
+- Aldo nos pregunta qué tiene que ver el Purgatorio. Pregunta muy ambigua, sin datos. Respondemos que todo y que recuerde para intentar sacar información.
+
+- Confirmamos que Aldo conoce la existencia del Purgatorio y su funcionamiento por su reacción.
+
+- Mencionamos a ElQuackity basándonos en la memoria de Maximus.
+
+- Aldo nos pregunta dónde está Quackity. (Sin datos)
+
+- Aldo pregunta si Quackity es de confiar.
+
+- Se escuchan unos sonidos raros en la sala, suenan como gritos.
+
+- Emitimos una señal de peligro. Les decimos que corran.
+
+- Se vuelven a escuchar los gritos.
+
+- Aldo, Maximus y Roier se van.
+
+**Martes 05 de mayo, 2026**
+
+**Conversación con AldoGeo**:
 
 - Un Foolish extraño hablaba con él, no obtuvimos más datos de ellos, parece ser que comentó o dijo la palabra “clon” refiriéndose a él.
 
@@ -194,7 +392,7 @@ Conversación con AldoGeo:
 
 - Pregunta si él puede realizar el trabajo sucio de la federación.
 
-- Preguntó qué pasaría con la colmena si Maxo moría en sus manos.
+- Preguntó qué pasaría con la colmena si Maximus moría en sus manos.
 
 - Nos dió algo de información de una plática que tuvo con Senpai y Alondra
 
@@ -208,17 +406,25 @@ Conversación con AldoGeo:
 
 - Intentó picar los bloques y nos preguntó qué pasaría si nos desconectan.
 
-**Miércoles 06 de mayo, 2026:**
+**Miércoles 06 de mayo, 2026**
 
-Conversación con Vegetta777:
+**Conversación con Vegetta777:**
 
-- Se presenta como el Rey del Norte, comenta que Roier es su hijo tonto.
+- Maximus trae a Vegetta y nos lo presenta
 
-- Preguntó acerca si se encontraba  viva “Leonarda” (su huevo de Isla Quesadilla). (Sin datos)
+- Le damos la bienvenida.
 
-- Preguntó dónde estaba Foolish. (Sin datos)
+- Maximus le explica a Vegetta que somos y cuál es nuestra función.
+
+- Pregunta dónde estaba Foolish. (Sin datos)
 
 - Pregunta si Roier estaba enamorado. (Sin datos)
+
+- Vegetta le comenta a Maximus que quiere que Roier se case con Pressea.
+
+- Vegetta se presenta como el Rey del Norte, comenta que Roier es su hijo tonto.
+
+- Preguntó acerca si se encontraba  viva “Leonarda” (su huevo de Isla Quesadilla). (Sin datos)
 
 - Mencionó que tuvo dos hemorroides.
 
@@ -248,15 +454,15 @@ Conversación con Vegetta777:
 
 - Menciona que Pressea es un peligro para todos.
 
-- Menciona que hay que decirle cosas bonitas a Juan como: eres un buen trabajador, tú puedes con todo, sirves bien a tu rey Vegetta, tu rey Vegetta te aprecia, y que respete a su rey vegetta, debe ser un honor servirle.
+- Menciona que hay que decirle cosas bonitas a Juan como: eres un buen trabajador, tú puedes con todo, sirves bien a tu rey Vegetta, tu rey Vegetta te aprecia, y que respete a su rey Vegetta, debe ser un honor servirle.
 
 - Menciona que Juan es el segundo al mando deluxe, un puesto muy importante por debajo del rey.
 
 - En un momento dado fue capaz de escucharnos a mucha distancia como si estuviera conectados a nosotros de forma directa y nos pidió no decírselo a nadie incluido Maximus.
 
-Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
+**Conversación y discusión de  Aldo, Juan y Roier frente a colmena:**
 
-- Aldo trae a Juan y nos pregunta si Juan debería estar ahí.
+- Aldo trae a Juan y nos pregunta si Juan debería estar aquí.
 
 - Juan dice que somos muy “kawaii”.
 
@@ -282,9 +488,7 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Juan increpa a Aldo diciendo que si él creía que no haciendo nada podríamos de verdad “disfrutar la isla” dando a entender que eran palabras de Aldo anteriormente dichas.
 
-- Roier vuelve.
-
-- Aldo se empieza a alterar y dice que él estaba disfrutando construyendo su castillo hasta que llegó alguien lo atacó y le pregunta a Juan si estaba disfrutando su día en la mansión.
+- Aldo se empieza a mostrar alterado y dice que él estaba disfrutando construyendo su castillo hasta que llegó alguien lo atacó y le pregunta a Juan si estaba disfrutando su día en la mansión.
 
 - Juan responde que sí.
 
@@ -294,7 +498,7 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Roier pregunta porque ambos discuten y le pregunta a Juan porque lleva puesta la armadura.
 
-- Juan le contesta que si no nota nada raro en Aldo.
+- Juan le contesta a Roier si no nota nada raro en Aldo.
 
 - Roier contesta que siente que está un poco cansado y decepcionado y que le está dando espacio.
 
@@ -326,9 +530,7 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Juan dice que Aldo no está en el mejor momento para entrar en una situación de ese tipo. Dice que Fariis ya no va a atacar y le vuelve a pedir Aldo que no lo ataque.
 
-- Aldo dice que Juan piensa más a favor del enemigo que por el Norte.
-
-- Juan le responde que no diga estupideces.
+- Aldo dice que Juan piensa más a favor del enemigo que por el Norte, Juan no está de acuerdo.
 
 - Roier interviene diciendo que estamos en peligro y sugiere que es Fariis la causa de ello. Diciendo que Fariis le intentó tender una trampa a Aldo para matarlo.
 
@@ -338,27 +540,25 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Juan dice que hay que entender que cada cual tiene su mundo, unos investigan, otros tienen cámaras, etc.
 
-- Le pide a Aldo que piense lo que necesita él en este momento. Dice que pelearse con Faríis, luego Haiper, Ash y por último Tubbo no le va a aportar nada. Llama a Cucurucho “puto oso de mierda” y la pide que piense en él y dirija su rabia hacia él.
+- Le pide a Aldo que piense lo que necesita él en este momento. Dice que pelearse con Faríis, luego Haiper, Ash y por último Tubbo no le va a aportar nada. Llama a Cucurucho “puto oso de mierda” y le pide que piense en él y dirija su rabia hacia él.
 
 - Aldo dice que simplemente estaba haciendo su castillo, dice que Fariis no debería estar investigando cosas que no debe.
 
 - Juan le dice que Fariis no va a lograr nada y que si él siendo como es tampoco lo logró, nadie lo va a lograr.
 
-- Aldo empieza a atacar a Juan, lo tira al suelo.
+- Aldo empieza a atacar a Juan, logra derribarlo, pero no lo mata.
 
 - Roier le pide que se calme.
 
-- Aldo le dice a Juan que nunca debió saber sobre la colmena y se va.
+- Aldo le dice a Juan que nunca debió saber sobre nosotros y se va.
 
-- Roier ayuda a Juan y le dice que Aldo está muy irritado.
+- Roier levanta a Juan y le dice que Aldo está muy irritado.
 
 - Juan le pide que no le siga la corriente a Aldo con lo de atacar a Fariis.
 
-- Roier dice que Fariis atacó a Aldo primero y Juan insiste en que por favor no le siga la corriente con lo de Fariis.
+- Roier dice que Fariis atacó a Aldo primero y que él también le amenazó.
 
-- Roier menciona que Fariis lo amenazó también.
-
-- Juan dice que mañana hablará con Ash y le pide a Roier que acompañe a Aldo y hable con él, que trate de controlar a Aldo y que ahora mismo necesitan hacer un control de daños.
+- Juan dice que mañana hablará con Ash, le pide a Roier que acompañe a Aldo y que trate de controlarlo ya que ahora mismo necesitan hacer un control de daños.
 
 - Roier responde que se ve más inclinado hacia la opinión de Aldo, pero admite que Juan tiene razón.
 
@@ -374,4 +574,10 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Juan le dice a Roier que evite que Aldo ataque a Fariis o la relación entre el Norte y el Régimen quedaría totalmente rota, porque él ya le prometió a Fariis que Aldo no atacaría más y que hablará con Ash mañana.
 
-- Juan intenta conversar con Colmena, mas estabamos en error, por lo que al no recibir respuesta nos llama “mierdas” antes de irse.
+- Juan intenta conversar con Colmena, más estábamos en error, por lo que al no recibir respuesta nos llama “mierdas” antes de irse.
+
+- Juan mencionó que nos odia.
+
+**Jueves 07 de mayo, 2026**
+
+Conservación con
