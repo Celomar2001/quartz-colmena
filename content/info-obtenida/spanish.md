@@ -2,8 +2,11 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-06 22:57:00"
+updated: "2026-05-06 23:38:28"
 ---
+
+> [!warning]
+> Este archivo fue generado automáticamente desde Google Docs.
 
 **INFORMACIÓN OBTENIDA - PROYECTO COLMENA**
 
@@ -263,27 +266,17 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Aldo nos pregunta sobre que si seguimos molestando a la “bestia” (suponemos que se refiere a la Federación) todo se podría poner peor. (Sin datos)
 
-- Llega Roier, pregunta a Aldo y Juan que hacían, dijo también que nos podía escuchar desde lejos (similar a lo que sucedió con Vegetta).
-
 - Aldo sugiere que Roier entonces estaría conectado a la colmena directamente.
 
 - Roier pregunta a Juan y Aldo que necesitan de nosotros y Aldo dice que necesitan respuestas para Juan.
 
-- Le damos la bienvenida a Roier.
-
-- Roier nos pregunta porque nos escucha desde lejos. (Sin datos)
-
-- Aldo se queja visiblemente enojado porque no tenemos datos suficientes.
-
-- Roier se va.
-
-- Aldo nos pregunta si Juan debe saber que va a haber muchos sacrificios si continuan por el mismo camino. (Sin datos)
+- Aldo nos pregunta si Juan debe saber que va a haber muchos sacrificios si continúan por el mismo camino. (Sin datos)
 
 - Aldo nos amenaza con desconectarnos si volvemos a decir “no data”.
 
 - Juan dice que no entiende lo que ve y Aldo responde “esto es en lo que tu gran amigo Maximus ha estado trabajando” y dice que estamos conectados a la isla.
 
-- Juan le dice  a Aldo que Maximus ha enloquecido a su manera por todo los que ha vivido por culpa de la Federación hasta ahora.
+- Juan le dice  a Aldo que Maximus ha enloquecido a su manera por todo lo que ha vivido por culpa de la Federación hasta ahora.
 
 - Aldo comienza a discutir diciendo que deberían dejarlo todo y dejar de investigar, que si lo que quieren hacer investigando es que todo se vuelva caótico. Demuestra un miedo visible diciendo que “nadie los podría parar” (refiriéndose posiblemente a la Federación).
 
@@ -365,7 +358,7 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Roier menciona que Fariis lo amenazó también.
 
-- Juan dice que no va a volver a pasar y que mañana hablará con Ash y le pide a Roier que acompañe a Aldo y hable con él, que trate de controlar a Aldo y que ahora mismo necesitan hacer un control de daños.
+- Juan dice que mañana hablará con Ash y le pide a Roier que acompañe a Aldo y hable con él, que trate de controlar a Aldo y que ahora mismo necesitan hacer un control de daños.
 
 - Roier responde que se ve más inclinado hacia la opinión de Aldo, pero admite que Juan tiene razón.
 
@@ -379,12 +372,6 @@ Conversación y discusión de  Aldo, Juan y Roier frente a colmena:
 
 - Roier desmiente y dice que no lo atacó.
 
-- Le dice a Roier que evite a toda costa que Aldo ataque a Fariis o la relación entre el Norte y el Régimen quedaría totalmente rota, porque él ya le prometió a Fariis que Aldo no atacaría más y que hablará con Ash mañana.
+- Juan le dice a Roier que evite que Aldo ataque a Fariis o la relación entre el Norte y el Régimen quedaría totalmente rota, porque él ya le prometió a Fariis que Aldo no atacaría más y que hablará con Ash mañana.
 
-- Roier se va.
-
-- Juan se intenta comunicar con nosotros pero hay un error en el audio.
-
-- Juan se va visiblemente indignado por no recibir respuesta.
-
-- Dice que nos odia, nos llama mierdas y se va.
+- Juan intenta conversar con Colmena, mas estabamos en error, por lo que al no recibir respuesta nos llama “mierdas” antes de irse.

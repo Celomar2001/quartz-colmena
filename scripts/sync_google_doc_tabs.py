@@ -245,6 +245,9 @@ google_doc_id: "{DOCUMENT_ID}"
 updated: "{updated_at}"
 ---
 
+> [!warning]
+> Este archivo fue generado automáticamente desde Google Docs.
+
 """
 
     return frontmatter + body_md + "\n"
