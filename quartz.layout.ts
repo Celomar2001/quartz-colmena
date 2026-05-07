@@ -38,7 +38,29 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const order = ["SPANISH", "ENGLISH", "FRENCH", "PORTUGUESE", "POLSKI"]
+        const idxA = order.indexOf(a.displayName.toUpperCase())
+        const idxB = order.indexOf(b.displayName.toUpperCase())
+        if (idxA === -1 && idxB === -1) return a.displayName.localeCompare(b.displayName)
+        if (idxA === -1) return 1
+        if (idxB === -1) return -1
+        return idxA - idxB
+      },
+      mapFn: (node) => {
+        const nombres: Record<string, string> = {
+          "SPANISH": "Español",
+          "ENGLISH": "English",
+          "FRENCH": "Français",
+          "PORTUGUESE": "Português",
+          "POLSKI": "Polski",
+        }
+        const traduccion = nombres[node.displayName.toUpperCase()]
+        if (traduccion) node.displayName = traduccion
+      },
+      order: ["sort", "map"],
+    }),
   ],
   right: [
     Component.Graph(),
