@@ -1,6 +1,6 @@
 ---
 title: "Archivo Colmena"
-description: "Repositorio público de información organizada desde Google Docs hacia Obsidian y Quartz."
+description: "Archivo público de conocimiento organizado que posee el Proyecto Colmena."
 ---
 
 # Archivo Colmena
