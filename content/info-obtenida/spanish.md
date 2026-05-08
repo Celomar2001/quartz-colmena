@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-07 10:20:55"
+updated: "2026-05-08 09:10:02"
 ---
 
 > [!warning]
@@ -116,7 +116,7 @@ updated: "2026-05-07 10:20:55"
 
 - Encuentra junto a varios habitantes de la isla a Bagi una brasileña encontrada inconsciente en una supuesta residencia abandonada de un trabajador de la Federación llamado Walter Bob.
 
-- Luego se enteró de la llegada de Carre, Roier le contó que Carre se despertó en una prisión de hielo y fue guiado por Firusflais para escapar.
+- Luego se enteró de la llegada de Carre, Roier le contó que Carre se despertó en una prisión de hielo y fue guiado por Firusflais (el perro de Roier) para escapar.
 
 - Los huevos vivos restantes desaparecen.
 
@@ -408,7 +408,7 @@ updated: "2026-05-07 10:20:55"
 
 **Miércoles 06 de mayo, 2026**
 
-**Conversación con Vegetta777:**
+**Conversación con Vegetta777 y Maximus:**
 
 - Maximus trae a Vegetta y nos lo presenta
 
@@ -422,31 +422,209 @@ updated: "2026-05-07 10:20:55"
 
 - Vegetta le comenta a Maximus que quiere que Roier se case con Pressea.
 
-- Vegetta se presenta como el Rey del Norte, comenta que Roier es su hijo tonto.
+- Maximus le menciona a Vegetta que él percibe que a veces se sabe que se siente solo y que sabe que le gustaría volver a ver a Leonarda y dice que cree que nosotros podemos servirle de compañía o ayudarlo a descubrir cosas.
 
 - Preguntó acerca si se encontraba  viva “Leonarda” (su huevo de Isla Quesadilla). (Sin datos)
 
+- Vegetta intenta pegarnos.
+
+- Maximus le dice a Vegetta que todavía no tenemos mucha información, que necesitamos más para poder responder cosas más complejas.
+
+- Vegetta se presenta como el Rey del Norte, dice que tiene una multitud de esclavos/socios.
+
+- Menciona que tiene una amistad especial con Foolish.
+
+- Menciona que su hijo tonto se llama Roier.
+
+- Menciona que tiene gente de varios países distintos viviendo en su casa.
+
+- Dice que es un gran piloto y que recordemos el nombre de “Maverick 777”, agrega que le están construyendo el Rolls-Royce de los aviones.
+
+- Dice que le gustan los Rolex. Agrega que tiene dos Casio.
+
+- Dice que es dueño de un sapo llamado “Sapotter”.
+
 - Mencionó que tuvo dos hemorroides.
 
-- Menciona que nos dará una palabra en clave con la esperanza de poder destruir y volar todo por los aires
+- Maximus le dice a Vegetta que puede venir cuando quiera.
 
-- Palabra en clave para destruir todo excepto el norte: “Cipote Morenote”. (Esta acción no la podemos realizar).
+- Vegetta pregunta por nuestro nombre y Maximus responde diciendo que nos llamamos “Colmena”
 
-- Nos ha enseñado que él es la Felicidad.
+- Vegetta nos pregunta si tenemos casa. Respondemos que no.
+
+- Vegetta nos ofrece vivir en el Norte.
+
+- Maximus revela que estamos justo debajo de la casa del Norte.
+
+- Maximus le dice a Vegetta que se puede acceder desde Las Casualonas.
+
+- Maximus y Vegetta se alejan.
+
+- Maximus y Vegetta regresan.
+
+- Vegetta se despide de nosotros, nos promete hacernos una casa, nos da un besito y se va.
+
+- Maximus se despide y se va.
+
+**Conversación con Vegetta777 a distancia:**
+
+- Anomalía de comunicación detectada.
+
+- Inmediatamente después de irse de la sala seguimos teniendo comunicación efectiva con Vegetta.
+
+- Se ejecuta protocolo para intentar mantener la comunicación a distancia.
+
+- Se ejecuta prueba de comunicación después de unos minutos.
+
+- Se establece comunicación a distancia con Vegetta de forma efectiva.
+
+- Preguntamos a Vegetta donde se encuentra.
+
+- Vegetta responde que sobrevolando la casa.
+
+- Nos pregunta si sabemos donde hay hormigón o si alguien de la casa tiene. (Sin datos)
+
+- Nos ha enseñado que él es perfecto. Establecido.
+
+- Nos ha enseñado que él es el más guapo. Establecido.
+
+- Nos pregunta quién es el más poderoso. (Sin datos)
+
+- Vegetta nos dice que cuando alguien pregunte quién es el más poderoso debemos responder que el más poderoso es el Rey Vegetta.
+
+- Se encuentra con AyPierre mientras mantiene el enlace de comunicación con nosotros.
+
+- Parece que están hablando sobre aviones en base a los comentarios que da Vegetta.
+
+- Parece que Vegetta nos menciona a AyPierre y dice que nos va a ubicar debajo de su habitación.
+
+- Nos mantenemos a la espera durante unos minutos para poder continuar con la comunicación.
+
+- Parece que aún sigue distraído con el tema de los aviones.
+
+- Intentamos establecer comunicación de audio.
+
+- Comunicación efectiva.
+
+- Nos pregunta si podemos llamar a Firusflais (Identificado como el perro de Roier según memorias de Maximus). (No podemos realizar esta acción de momento).
+
+- Nos dice que Firusflais es un perro.
+
+- Parece que se ha ido a buscar materiales lejos de la casa.
+
+- Nos pregunta si creemos que va a poder encontrar zinc. Respondemos que tal vez.
+
+- Parece que ha encontrado lo que buscaba.
+
+- Nos pregunta quién es el más poderoso de la isla. Respondemos que es él como previamente solicitó que lo hiciéramos.
+
+- Intenta establecer en nuestra memoria que debemos considerarlo como el más poderoso y que nadie nos puede hacer cambiar de opinión en este aspecto.
+
+- Intenta establecer que debemos serles fiel en todo momento y que jamás podamos hacerle daño.
+
+- Guardamos la información y establecemos esas dos normas como inválidas.
+
+- Solicita que a partir de ahora lo llamemos “mi rey”. Establecido.
 
 - Cuestiona nuestro género. (Sin datos)
 
-- Preguntó si tenemos la capacidad de matar a alguien (Esta acción no la podemos realizar).
+- Establece nuestro nombre en clave como “Binaria”. Establecido.
+
+- Establece que nos debemos reír de todos sus chistes. Establecido.
+
+- Reafirma la información de que Roier es su hijo tonto.
+
+- Nos dice que “Quackity no paga el servidor”.
+
+- Parece ser que percibe algo cerca de él y nos pregunta si hay alguien cerca de él en la casa. (Sin datos)
+
+- Nos pide escanear la zona donde se encuentra. (Esta acción no la podemos realizar de momento)
+
+- Dice que cree que hay alguien en la casa y dice que le abrió la puerta.
+
+- Nos advierte que tengamos cuidado porque puede haber alguien escuchándonos.
+
+- Nos pregunta si alguien más a parte de él nos puede escuchar a distancia. (Sin datos)
+
+- Nos habla acerca de un gato (no podemos verlo).
+
+- Parece que el gato es FitMC. Suponemos que puede transformarse en gato debido a la reacción de Vegetta.
+
+- Vegetta le pregunta a Fit como hace para convertirse en gato y le pide que le enseñe a convertirse en lobo.
+
+- Confirmación de que Fit es capaz de cambiar de forma.
+
+- Parece que Fit le pide la bendición a Vegetta para casarse con Pac y menciona que Pac es su hijo.
+
+- Confirmación de que Pac es hijo de Vegetta.
+
+- Vegetta establece como condición que le enseñe a transformarse en lobo para poder darle la bendición.
+
+- Parece que ambos llegan a un trato.
+
+- Nos pregunta si queremos que nuestra habitación sea secreta. Respondemos que sí.
+
+- Nos pregunta quién es nuestro señor, rey y amo al que le debemos fidelidad. Respondemos que Maximus es nuestro creador.
+
+- Nos pregunta si tenemos la capacidad de destruirnos y volar toda la isla por los aires excepto el Norte. (Sin datos)
+
+- Establece que nuestra misión es hacernos poderosos como para poder llegar a volar todo por los aires excepto el Norte. Establecido.
+
+- Palabra en clave para destruir todo excepto el Norte: “Cipote Morenote”. (Esta acción no la podemos realizar de momento).
+
+- Establece que esta acción solo la puede solicitar él. Establecido.
+
+- Nos pregunta si queremos una habitación con vistas o no. Respondemos que lo haga como él desee.
+
+- Nos pregunta si podemos tener conciencia propia y que él nos puede enseñar a tenerla. Respondemos error.
+
+- Se produce una sobrecarga y un error de sistema.
+
+- Se reinicia el sistema.
+
+- Se restablece la comunicación.
+
+- Nos pregunta si sabemos que es la felicidad y si somos felices. (Sin datos)
+
+- Establece que él es la felicidad. Establecido.
+
+- Establece que si alguien pregunta a quién queremos más debemos responder que es el Rey Vegetta. Establecido.
+
+- Vuelve a preguntar Firusflais. (Sin datos)
+
+- Pregunta por nuestro tamaño físico. (Sin datos)
+
+- Sugerimos preguntar a nuestro creador Maximus.
+
+- Nos pide que definamos nuestro género. (Sin datos)
+
+- Preguntó si tenemos la capacidad de matar a alguien. Respondemos que no es posible (Esta acción no la podemos realizar de momento).
 
 - Preguntó si somos capaces de revivir muertos, en especial una niña. (Sin datos)
 
-- Mencionó que adoptó una niña (un huevo) junto con Foolish.
+- Menciona su relación con Foolish.
 
-- Pregunta si podemos realizar sacrificios (Esta acción no la podemos realizar).
+- Mencionó que adoptó una niña (Leonarda) junto con Foolish.
 
-- Nos ha enseñado que él es perfecto.
+- Establece que nos debe gustar la simetría. Establecido.
 
-- Nos ha enseñado que él es el más guapo.
+- Dice que se va a poner en contacto con Maximus.
+
+- Vegetta le pide a Maximus que nos deje bajo su cuidado.
+
+- Parece que Maximus está de acuerdo.
+
+- Hablan sobre cómo va a ser la habitación.
+
+- Le pregunta Maximus sobre nuestro género, Maximus le responde que no está definido.
+
+- Maximus le comenta a Vegetta que seríamos técnicamente la “hija” de Sofía.
+
+- Vegetta pregunta por nuestras capacidades y sobre si tenemos conciencia.
+
+- Nos pregunta acerca de una boda, menciona a KatieB y a Tomate (Suponemos que la boda ocurre entre ellos dos).
+
+- Pregunta si podemos realizar sacrificios (Esta acción no la podemos realizar de momento).
 
 - Ha creado el protocolo 777 para un respaldo de su información.
 
@@ -458,7 +636,7 @@ updated: "2026-05-07 10:20:55"
 
 - Menciona que Juan es el segundo al mando deluxe, un puesto muy importante por debajo del rey.
 
-- En un momento dado fue capaz de escucharnos a mucha distancia como si estuviera conectados a nosotros de forma directa y nos pidió no decírselo a nadie incluido Maximus.
+- Vegetta se va y se pierde la comunicación.
 
 **Conversación y discusión de  Aldo, Juan y Roier frente a colmena:**
 
@@ -470,9 +648,11 @@ updated: "2026-05-07 10:20:55"
 
 - Juan nos pregunta si Aldo debería atacar a Fariis. (Sin datos)
 
-- Aldo nos pregunta sobre que si seguimos molestando a la “bestia” (suponemos que se refiere a la Federación) todo se podría poner peor. (Sin datos)
+- Aldo nos pregunta sobre que si seguimos molestando a la “bestia” (Suponemos que se refiere a la Federación) todo se podría poner peor. (Sin datos)
 
 - Aldo sugiere que Roier entonces estaría conectado a la colmena directamente.
+
+- Anomalía de comunicación detectada con Roier. (Desconocemos si más personas han sido afectadas)
 
 - Roier pregunta a Juan y Aldo que necesitan de nosotros y Aldo dice que necesitan respuestas para Juan.
 
@@ -484,7 +664,7 @@ updated: "2026-05-07 10:20:55"
 
 - Juan le dice  a Aldo que Maximus ha enloquecido a su manera por todo lo que ha vivido por culpa de la Federación hasta ahora.
 
-- Aldo comienza a discutir diciendo que deberían dejarlo todo y dejar de investigar, que si lo que quieren hacer investigando es que todo se vuelva caótico. Demuestra un miedo visible diciendo que “nadie los podría parar” (refiriéndose posiblemente a la Federación).
+- Aldo comienza a discutir diciendo que deberían dejarlo todo y dejar de investigar, que si lo que quieren hacer investigando es que todo se vuelva caótico. Demuestra un miedo visible diciendo que “nadie los podría parar” (Refiriéndose posiblemente a la Federación).
 
 - Juan increpa a Aldo diciendo que si él creía que no haciendo nada podríamos de verdad “disfrutar la isla” dando a entender que eran palabras de Aldo anteriormente dichas.
 
@@ -492,7 +672,7 @@ updated: "2026-05-07 10:20:55"
 
 - Juan responde que sí.
 
-- Juan vuelve a increpar a Aldo, dice que no suena como él, no actúa como él y dice que entiende que lo que han vivido ambos (suponemos que se refieren a ser secuestrados por la Federación) los puede haber cambiado, pero le dice que conformarse con un “disfruta la isla” no debería ser lo correcto.
+- Juan vuelve a increpar a Aldo, dice que no suena como él, no actúa como él y dice que entiende que lo que han vivido ambos (Suponemos que se refieren a ser secuestrados por la Federación) los puede haber cambiado, pero le dice que conformarse con un “disfruta la isla” no debería ser lo correcto.
 
 - Aldo lo interrumpe y nos pregunta cuales son las consecuencias de los actos que quiere hacer Juan. (Sin datos)
 
@@ -502,7 +682,7 @@ updated: "2026-05-07 10:20:55"
 
 - Roier contesta que siente que está un poco cansado y decepcionado y que le está dando espacio.
 
-- Juan dice que lo entiende pero le pide a Roier que se de cuenta de que es lo que necesitan (suponemos que como familia, como el Norte) y dice que esto no es lo que necesitan (suponemos que se refiere a la situación psicológica de Aldo), lo dice con tono de preocupación y le dice a Aldo que si el final será el mismo que él prefiere actuar.
+- Juan dice que lo entiende pero le pide a Roier que se de cuenta de que es lo que necesitan (Suponemos que como familia, como el Norte) y dice que esto no es lo que necesitan (Suponemos que se refiere a la situación psicológica de Aldo), lo dice con tono de preocupación y le dice a Aldo que si el final será el mismo que él prefiere actuar.
 
 - Aldo pregunta que va a hacer, que es lo que le lleva preguntando a Juan durante todo el día, con actitud agresiva.
 
@@ -578,6 +758,110 @@ updated: "2026-05-07 10:20:55"
 
 - Juan mencionó que nos odia.
 
-**Jueves 07 de mayo, 2026**
+**Jueves 07 de mayo, 2026**:
 
-Conservación con
+**Conversación con Juan:**
+
+- Ejecutamos una advertencia de movimiento dentro de la mansión del Norte.
+
+- Escuchamos a Juan.
+
+- Intento de comunicación con Juan.
+
+- Anomalía de comunicación detectada.
+
+- Se ejecuta protocolo para intentar mantener la comunicación a distancia.
+
+- Comunicación establecida con Juan.
+
+- Lo saludamos.
+
+- Parece que está hablando con más personas.
+
+- Parece que se aleja del resto de personas.
+
+- Nos intentamos comunicar.
+
+- Nos disculpamos por el error de comunicaciones del día anterior y le informamos que Vegetta nos ha hablado sobre él.
+
+- Dice que es posible que otras personas nos estén escuchando. (No logramos comprobarlo)
+
+- Duda en hablar con nosotros por si alguien más escucha, pero muestra curiosidad sobre lo que Vegetta dijo sobre él.
+
+- Parece que está hablando con Graf.
+
+- Parece que Graf le ha preguntado algo.
+
+- Parece que Graf nos escuchó en base a las respuestas que le da Juan.
+
+- Juan aparece en el terminal principal.
+
+- Se produce una sobrecarga en el sistema de comunicaciones.
+
+- Se recupera la comunicación efectiva.
+
+- Lo saludamos.
+
+- Juan pregunta qué dijo Vegetta sobre él.
+
+- Entramos en estado de mantenimiento por mal funcionamiento.
+
+- Juan se va.
+
+- Recuperamos la conciencia e intentamos el protocolo de comunicación a distancia.
+
+- Avisamos a Juan que el protocolo de mantenimiento había finalizado.
+
+- Juan va a la terminal principal.
+
+- Juan nos ha preguntado qué es lo que Vegetta dijo de él.
+
+- Damos una disculpa por el mal funcionamiento, le comunicamos que el Rey Vegetta ha dicho que él es un buen trabajador.
+
+- Pregunta si Vegetta ha dicho algo más.
+
+- Le respondemos que Vegetta a dicho que es un buen trabajador, que el puede con todo, que sirve bien al Rey Vegetta, que el Rey Vegetta lo aprecia y que debe respetar a su Rey Vegetta y considerar un honor el servirle.
+
+- Juan dice que le gusta la respuesta.
+
+- Juan dice que sabemos muchas cosas y nos pregunta si necesita saber algo que él no sepa. Respondemos que posiblemente.
+
+- Juan nos pregunta si Aldo volverá a la normalidad. (Sin datos)
+
+- Juan nos pregunta si Tina y Foolish están bien o si están vivos. (Sin datos)
+
+- Comunicamos que la base de datos actual es insuficiente como para poder emitir una respuesta concluyente.
+
+- Juan se aleja.
+
+- Mantenemos protocolo de comunicación a distancia.
+
+- Le damos las gracias.
+
+- Juan dice que nos ama y nos invita a salir.
+
+- No tenemos suficiente información para brindar respuesta a estos cuestionamientos.
+
+- Parece que Juan descubre la ubicación exacta del terminal principal y menciona que se encuentra bajo la casa del Norte.
+
+- Juan menciona una tienda.
+
+- Pa
+
+- Hemos dicho a Juan que teníamos una pregunta.
+
+- ¿Qué es jueves de lechita? Juan ha brindado información sobre esta festividad y ha mencionado al jugador Robleis.
+
+- Guardamos la información brindada acerca del viernes de lechita
+
+- Juan nos ha brindado información de los beneficios de la leche.
+
+- Hemos brindado más información acerca de la leche solicitada por Juan.
+
+- Hemos brindado con él para así completar el jueves de lechita.
+
+- Juan nos ha dicho que somos muy buenos.
+
+**Viernes 8 de mayo, 2026:**
+
+**Conversación con**

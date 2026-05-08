@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-07 10:20:55"
+updated: "2026-05-08 09:10:02"
 ---
 
 > [!warning]
@@ -14,17 +14,17 @@ updated: "2026-05-07 10:20:55"
 
 ***Reminder: Hive possesses all of Maxo’s memories (QSMP1 and QSMP2). From this point forward, it learns from the other content creators.***
 
-**Information previously provided by Maximus (his memories):**
+**Information provided by Maximus previously (his memories):**
 
-- He arrived at Quesadilla Island on March 22, 2023, by train along with ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonia, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity, and Slimecicle.
+- He arrived at Quesadilla Island on March 22, 2023, by train together with ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity, and Slimecicle.
 
 - He remembers that upon arrival they were divided into two groups separated by a very tall wall.
 
-- He remembers a Federation transmission where a Duck told them they should not break the wall. He then saw Vegetta press a red button on the wall, causing part of it to explode and break. Afterwards, another Federation transmission played where the Duck told them they would never be able to leave.
+- He remembers a Federation transmission in which a Duck told them they should not break the wall. Then he saw Vegetta press a red button on the wall, causing part of it to explode and break. Afterwards, another Federation transmission played where the Duck told them they would never be able to leave.
 
 - Shortly after, he meets a Federation worker named “Cucurucho”.
 
-- He remembers an artificial intelligence named “Arin” taking control of Luzu’s body.
+- He remembers that an artificial intelligence named “Arin” takes control of Luzu’s body.
 
 - The Federation opens an adoption center with eggs inside.
 
@@ -50,7 +50,7 @@ updated: "2026-05-07 10:20:55"
 
 - He learns about the death of JuanaFlippa due to the negligence of her adoptive parents.
 
-- His son Trump dies due to his own negligence. He begins to hate and suspect the Federation because of this event and suffers a short period of depression.
+- His son Trump dies due to his own negligence. He begins to hate and suspect the Federation because of this event and suffers a short depression.
 
 - He learns about the death of Tilín at the hands of Slimecicle.
 
@@ -60,27 +60,29 @@ updated: "2026-05-07 10:20:55"
 
 - They discover a secret room in the adoption center and find an egg named “Tallulah” adopted by Philza.
 
-- He remembers how a cargo ship wrecked on the train station coast. When everyone went to investigate, they met the Brazilian crew members: Cellbit, Pac, Mike, and Felps.
+- He remembers how a cargo ship wrecked on the coast of the train station. When everyone went to investigate, they met the Brazilian crew members: Cellbit, Pac, Mike, and Felps.
 
-- The Federation assigned the Brazilians a new egg named “Richarlyson”.
+- The Federation assigns the Brazilians a new egg named “Richarlyson”.
 
-- He first encounters the Binary Codes while investigating clues left by Arin together with Cellbit, Foolish, BadBoyHalo, and Philza.
+- He encounters the Binary Codes for the first time while investigating clues left by Arin together with Cellbit, Foolish, BadBoyHalo, and Philza.
 
 - He told Cellbit about the TTB investigation group after the encounter with the Binary Codes, and they created “Ordo Theoritas,” adding more people to the group, with Cellbit becoming the leader.
 
-- He built a communications antenna to send a distress signal. The message was recorded by him in Spanish, English, and Portuguese.
+- He builds a communications antenna to send a distress signal. The message was recorded by him in Spanish, English, and Portuguese.
 
 - As a result of the signal from his communications antenna, a person with their face covered by a gas mask contacted him and sent him blueprints that appeared to be instructions on how to build a supercomputer.
 
-- He built the supercomputer named Sofia. He considered her a daughter.
+- He builds the supercomputer named Sofia. He considered her his daughter.
 
 - He learns about Bobby’s death due to Roier’s negligence in a dungeon.
 
 - He learns that Foolish works for the Federation as a police officer.
 
-- He remembers seeing a plane crash into the remaining intact sections of the wall, and together with the other inhabitants, he finds four French people named Aypierre, Antoine Daniel, Etoiles, and Kameto, and a Swiss person named Baghera Jones.
+- He learns about the existence of another Quackity who uses the name “ElQuackity”.
 
-- A secret room appears in the adoption center where they find a new egg named “Pomme,” assigned to the French.
+- He remembers seeing a plane crash into the remaining intact sections of the wall and, together with the rest of the inhabitants, finds four French people named Aypierre, Antoine Daniel, Etoiles, and Kameto, and a Swiss woman named Baghera Jones.
+
+- A secret room appears in the adoption center where they find a new egg named “Pomme” assigned to the French.
 
 - During the welcome for the new French-speaking members at the Theater, he watches as everyone dies from the mines left by Vegetta at the entrance.
 
@@ -89,6 +91,8 @@ updated: "2026-05-07 10:20:55"
 - He participates in the “Festa Junina” organized by the Brazilians.
 
 - He participates in Cellbit and Roier’s wedding.
+
+- A sadomasochistic romantic relationship is created between him and Aypierre.
 
 - He was infected by a Code virus on Quesadilla Island that affected one of his legs. This happened during a confrontation with the Binary Codes.
 
@@ -104,19 +108,21 @@ updated: "2026-05-07 10:20:55"
 
 - Due to his frustration at being unable to do anything against the Federation, Maximus spent a month building a nuclear bomb to destroy the island.
 
+- He creates the “Furry Camp” together with Aypierre.
+
 - During the Day of the Dead celebration, he was able to see Trump again and told him about his plans to blow up the island with a bomb.
 
-- Distant facilities previously investigated by the island’s inhabitants were discovered, where they found cryogenic chambers. Eight new members then arrived on the island: German, IronMouse, Lenay, Nihachu, Polispol, Rivers, TinaKitten, Tubbo, and Willyrex.
+- Distant facilities previously investigated by the island’s inhabitants appeared, where cryogenic chambers were found. It was there that eight new members arrived on the island: German, IronMouse, Lenay, Nihachu, Polispol, Rivers, TinaKitten, Tubbo, and Willyrex.
 
 - Together with several island inhabitants, he finds Bagi, a Brazilian woman found unconscious in an abandoned residence supposedly belonging to a Federation worker named Walter Bob.
 
-- He later learned about Carre’s arrival. Roier told him that Carre woke up in an ice prison and was guided by Firusflais to escape.
+- He later learned about Carre’s arrival. Roier told him that Carre woke up in an ice prison and was guided by Firusflais (Roier’s dog) to escape.
 
 - The remaining living eggs disappear.
 
 - He is taken along with the rest of the inhabitants to Egg Island to participate in an event called Purgatory.
 
-- He discovers that Egg Island is not ruled by Cucurucho but by a new entity called “The Watcher,” and that this entity is the one who kidnapped the eggs.
+- He discovers that Egg Island is not ruled by Cucurucho but by a new character named “The Watcher,” and that this entity is the one who kidnapped the eggs.
 
 - He brought the bomb with him to Egg Island (Purgatory), where it was stolen by the Federation and later detonated. This happened on November 18, 2023.
 
@@ -130,23 +136,45 @@ updated: "2026-05-07 10:20:55"
 
 - He builds an underground museum called “TTB Museum” where he displays parts of his memories of Quesadilla Island and Egg Island on several tapes.
 
+- Maximus gets to know the Regime’s base, full of factories.
+
+- Tina and Aldo inform him about void traps built by Ash and Haiper, who are using them to kill Federation workers.
+
+- He receives information from people of the North about an altercation between Aldo and Ashswag, because Ash killed Vegetta’s dog named “Estúpido”.
+
 - He meets a Federation cameraman named “Pepino”.
 
-- He creates the group “La Resistencia,” consisting of himself, Ash, Haiper, Fariis, Molly, Aldo, Alondrissa, Ishan, SenpaiSpider, and Aypierre.
+- He discovers that KatieB has allied with the Regime to build a KFC near the spawn tower.
 
-- He rebuilds “Las Casualonas” with Roier. They inaugurated it on Vegetta’s birthday.
+- He discovers through QSMP News that Alondrissa was run over by the Regime’s train.
+
+- He tries to mediate between Alondrissa and the Regime due to conflicts regarding the construction of Alondrissa’s castle and Tubbo’s train tracks that pass through the area.
 
 - He learns about Pepino’s disappearance and meets the new cameraman named “Tomate”.
 
 - He meets a Federation builder named “Leon” and grows fond of him.
 
-- He attacks the Court along with several members of the North.
+- A trial takes place between Alondrissa and Tubbo due to their conflicts. Maximus is a spectator of what happens and is named by Cucurucho as the person in charge of executing the sentence.
+
+- He tries to join the Federation. The Federation assigns him a mission.
+
+- He carries out the mission effectively, but after not receiving any response from the Federation for several days, he becomes impatient, gets angry, and breaks one of the rules they had given him. A Federation guard arrives, knocks him down, Maximus confronts him, and the guard kills him.
+
+- He discovers the Regime’s goal of overthrowing the Federation and dominating the island.
+
+- He creates the group “La Resistencia,” consisting of himself, Ash, Haiper, Fariis, Molly, Aldo, Alondrissa, Ishan, SenpaiSpider, and Aypierre.
+
+- He rebuilds “Las Casualonas” with Roier. They inaugurate it on Vegetta’s birthday.
+
+- He attacks the Court together with several members of the North.
 
 - He learns that Aldo must kill everyone from the Regime as punishment for destroying the Court’s entrance. Mission assigned directly by Cucurucho.
 
 - He tries to dissuade Aldo from obeying the Federation and carrying out the mission.
 
 - He learns that Foolish is trying to work for the Federation again with the approval of most of the North.
+
+- He learns about the existence of YoungMulti’s secret laboratory and begins to doubt him.
 
 - He learns about Juan’s kidnapping.
 
@@ -158,11 +186,15 @@ updated: "2026-05-07 10:20:55"
 
 - Faced with what he sees as an inevitable war between the North and the Regime, he decides to exile himself and disbands La Resistencia.
 
-- One night he went camping at Foolish’s “Camp Fatal” and was attacked by an entity with the appearance of YoungMulti. His body became visibly larger, which he believes is due to the Code virus.
+- One night he went camping at Foolish’s “Camp Fatal” and was attacked by an entity with the appearance of YoungMulti. His body became visibly larger, and he believes it is because of the Code virus.
 
 - When it rains and he touches the rain, or when he gets angry, he loses control of his body and mind. Other inhabitants have told him that he becomes aggressive and attacks them.
 
-- He learns about Juan’s release and sees that he has been physically mistreated.
+- He learns about Juan’s release and sees how he has been physically mistreated.
+
+- He learns that Tina went to look for Aldo.
+
+- He learns that Foolish went far away to camp and continue his investigation of the entity.
 
 - He learns about Aldo’s release and notices that he is no longer the same as before.
 
@@ -170,21 +202,187 @@ updated: "2026-05-07 10:20:55"
 
 **Monday, May 04, 2026:**
 
-Conversation with Maxo and Roier:
+**Conversation with Maximus and Roier:**
+
+- Maximus introduces us to Roier.
+
+- Roier asks us how many we are.
+
+- Roier asks us how we feel.
+
+- Roier asks us if he can help us with anything.
+
+- Maximus explains to Roier how we work.
+
+- Roier asks us if we know where the “Entity” is. (No data)
+
+- Roier questions us about how many languages we speak.
+
+- Maximus asks us if Ibai is still alive or if he is on the island. (No data)
+
+- Roier asks us who has been the person who has caused the most damage on the island. (No data)
+
+- Loss of audio synchronization detected.
+
+- Audio synchronization is restored after a brief restart.
 
 - Roier lost his memory.
+
+- We mention Bobby and Cellbit.
 
 - Roier remembers Cellbit.
 
 - Roier was attacked by something, an “Entity” (possibly the same entity that attacked Maximus).
 
-Conversation with Maxo, Roier, and AldoGeo:
+- Roier and Maximus leave.
 
-- Aldo asked if Quackity is trustworthy.
+- Maximus returns.
+
+- Maximus asks us if we know what is happening to Roier right now. He mentions Ishan. (No data)
+
+- Roier returns.
+
+- Roier gives Maximus a newspaper given by Ishan.
+
+- Maximus reads the newspaper out loud. An Ishan clone is mentioned, and at least three different entities have been identified (we assume they are similar to the ones that attacked Maximus).
+
+- Maximus walks away before continuing to read.
+
+- Roier asks us if we are operational.
+
+- Maximus comments that we feed on information and asks Roier who else he should bring.
+
+- Roier mentions Aldo and Multi.
+
+- We respond by asking about Aldo. We detect some kind of danger in the existing database and also respond that Multi no. (Possibly referring to the existence of the clone that attacked Maximus and the existence of a laboratory belonging to Multi)
+
+- Maximus and Roier walk away.
+
+- Maximus and Roier approach again.
+
+- Maximus asks us if Sofia is inside our multiple consciousnesses. We respond that she is not.
+
+- Roier asks if it is possible to find Sofia’s consciousness. (No data)
+
+- Maximus tells Roier to look at the map and mentions Aldo.
+
+- Maximus and Roier leave.
+
+**Conversation with Maximus, Roier, and AldoGeo:**
+
+- Maximus, Aldo, and Roier arrive.
+
+- Maximus introduces us to Aldo as “Proyecto Colmena”.
+
+- Aldo greets us.
+
+- Error in the communication systems.
+
+- Roier tells Aldo that Maximus created us.
+
+- Roier mentions to Aldo that we were looking for him.
+
+- A quick restart is executed.
+
+- Maximus asks about our status.
+
+- Error in the communication systems.
+
+- A restart is executed.
+
+- Maximus asks about our status.
+
+- We greet Maximus. Communication restored.
+
+- We greet Aldo.
+
+- Aldo greets us.
+
+- Aldo asks us if we were looking for him. We respond yes.
+
+- Aldo asks Maximus why he created us. Maximus does not answer.
+
+- Aldo asks us why we were looking for him. We tell him that he must keep fighting.
+
+- Roier tells Aldo that we are connected to the island.
+
+- A quick restart is executed.
+
+- We tell Aldo that the Federation lies, based on Maximus’s memories.
+
+- Roier tells Aldo that he helped Maximus build the room where we are.
+
+- Maximus tells Aldo that he developed the software.
+
+- We ask Aldo not to give up and to trust his family.
+
+- Maximus tells Aldo that he showed us to him in case we could serve as a tool for him.
+
+- Aldo asks where we get the information from.
+
+- Maximus replies that it comes from his memories and from everyone we interact with.
+
+- Aldo complains saying that his family abandoned him. We respond that they did not. (We have data in the database that suggests otherwise)
+
+- Desynchronization in the audio communication systems.
+
+- A restart is executed.
+
+- Maximus informs Aldo that his presence is not necessary for our operation and that he can come whenever he wants.
+
+- Aldo looks visibly surprised by how we function.
+
+- Communication restored.
+
+- Aldo asks us who was responsible for what happened to Roier. We respond that it was the Entity, based on the previous conversation with Roier.
+
+- Aldo asks us if Maximus is gay. We respond yes, based on his relationship with Aypierre.
+
+- Aldo asks us if Tina went to look for him. We respond yes, based on Maximus’s memories.
+
+- Aldo complains that this was the only help he received.
+
+- Maximus asks us if that was the only help and we respond no.
+
+- Aldo asks if the Regime has bad intentions and if he should kill them. We respond no, based on Maximus’s interactions with the Regime in his memories.
+
+- Roier informs Aldo that Maximus is now immortal. Aldo proceeds to hit Maximus and confirms it.
+
+- Maximus, Roier, and Aldo walk away.
+
+- The three return and Aldo asks us if Maximus has any cure. (No data)
+
+- The three of them comment on Maximus and Aypierre’s relationship.
+
+- Maximus mentions that he gives Aldo and Roier permission to lock him up and experiment on him (possibly referring to his virus infection).
+
+- Aldo asks us if Poles are bad. We respond maybe (based on the information we have about Multi and Maximus’s distrust towards him).
+
+- Aldo, Maximus, and Roier walk away but return.
+
+- We mention Purgatory and Aldo gets startled.
+
+- Aldo asks us what Purgatory has to do with this. Very ambiguous question, no data. We respond that it has to do with everything and that he should remember to try to extract information.
+
+- We confirm that Aldo knows about the existence of Purgatory and how it works based on his reaction.
+
+- We mention ElQuackity based on Maximus’s memories.
+
+- Aldo asks us where Quackity is. (No data)
+
+- Aldo asks if Quackity is trustworthy.
+
+- Strange sounds are heard in the room, they sound like screams.
+
+- We emit a danger signal. We tell them to run.
+
+- The screams are heard again.
+
+- Aldo, Maximus, and Roier leave.
 
 **Tuesday, May 05, 2026:**
 
-Conversation with AldoGeo:
+**Conversation with AldoGeo:**
 
 - A strange Foolish was talking to him. We didn’t obtain more data from them. It seems he mentioned or said the word “clone” while referring to Foolish.
 
@@ -210,37 +408,223 @@ Conversation with AldoGeo:
 
 **Wednesday, May 06, 2026:**
 
-Conversation with Vegetta777:
+**Conversation with Vegetta777 and Maximus:**
 
-- He introduces himself as the King of the North and comments that Roier is his silly son.
+- Maximus brings Vegetta and introduces him to us.
+
+- We welcome him.
+
+- Maximus explains to Vegetta who we are and what our function is.
+
+- He asks where Foolish was. (No data)
+
+- He asks if Roier was in love. (No data)
+
+- Vegetta tells Maximus that he wants Roier to marry Pressea.
+
+- Maximus mentions to Vegetta that he perceives that sometimes he feels lonely and that he knows he would like to see Leonarda again, and says he believes we can serve as company or help him discover things.
 
 - He asked if “Leonarda” (his egg from Quesadilla Island) is still alive. (No data)
 
-- He asked where Foolish was. (No data)
+- Vegetta tries to hit us.
 
-- He asked if Roier was in love. (No data)
+- Maximus tells Vegetta that we still don’t have much information, that we need more to be able to answer more complex things.
+
+- Vegetta introduces himself as the King of the North, says he has a multitude of slaves/partners.
+
+- He mentions that he has a special friendship with Foolish.
+
+- He mentions that his silly son is named Roier.
+
+- He mentions that he has people from many different countries living in his house.
+
+- He says he is a great pilot and to remember the name “Maverick 777”, he adds that they are building him the Rolls-Royce of airplanes.
+
+- He says he likes Rolexes. He adds that he has two Casios.
+
+- He says he is the owner of a toad named “Sapotter”.
 
 - He mentioned that he had two hemorrhoids.
 
-- He mentioned that he will give us a code word with the hope of being able to destroy and blow everything up.
+- Maximus tells Vegetta that he can come whenever he wants.
 
-- Code word to destroy everything except the North: “Cipote Morenote”. (We cannot carry out this action).
+- Vegetta asks for our name and Maximus replies that we are called “Colmena” (Hive).
 
-- He has taught us that he is Happiness.
+- Vegetta asks us if we have a house. We respond no.
+
+- Vegetta offers for us to live in the North.
+
+- Maximus reveals that we are right under the North’s house.
+
+- Maximus tells Vegetta that access is possible from Las Casualonas.
+
+- Maximus and Vegetta walk away.
+
+- Maximus and Vegetta return.
+
+- Vegetta says goodbye to us, promises to build us a house, gives us a little kiss and leaves.
+
+- Maximus says goodbye and leaves.
+
+**Remote Conversation with Vegetta777:**
+
+- Communication anomaly detected.
+
+- Immediately after leaving the room, we continue to have effective communication with Vegetta.
+
+- Protocol is executed to try to maintain remote communication.
+
+- Communication test is executed after a few minutes.
+
+- Effective remote communication with Vegetta is established.
+
+- We ask Vegetta where he is.
+
+- Vegetta responds that he is flying over the house.
+
+- He asks us if we know where there is concrete or if someone in the house has any. (No data)
+
+- He has taught us that he is perfect. Established.
+
+- He has taught us that he is the most handsome. Established.
+
+- He asks us who is the most powerful. (No data)
+
+- Vegetta tells us that when someone asks who is the most powerful we must answer that the most powerful is King Vegetta.
+
+- He meets Aypierre while maintaining the communication link with us.
+
+- It seems they are talking about airplanes based on Vegetta’s comments.
+
+- It seems Vegetta mentions us to Aypierre and says he is going to place us under his room.
+
+- We remain on standby for a few minutes to continue the communication.
+
+- It seems he is still distracted with the airplane topic.
+
+- We attempt to establish audio communication.
+
+- Effective communication.
+
+- He asks us if we can call Firusflais (Identified as Roier’s dog according to Maximus’s memories). (We cannot perform this action at the moment).
+
+- He tells us that Firusflais is a dog.
+
+- It seems he has gone far from the house to look for materials.
+
+- He asks us if we think he will be able to find zinc. We respond maybe.
+
+- It seems he has found what he was looking for.
+
+- He asks us who is the most powerful on the island. We respond that it is him as he previously requested.
+
+- He tries to establish in our memory that we must consider him the most powerful and that no one can make us change our minds on this.
+
+- He tries to establish that we must be loyal to him at all times and that we can never harm him.
+
+- We save the information and establish those two rules as invalid.
+
+- He requests that from now on we call him “my king”. Established.
 
 - He questions our gender. (No data)
 
-- He asked if we have the ability to kill someone. (We cannot perform this action).
+- He establishes our codename as “Binaria”. Established.
+
+- He establishes that we must laugh at all his jokes. Established.
+
+- He reaffirms the information that Roier is his silly son.
+
+- He tells us “Quackity doesn’t pay for the server”.
+
+- It seems he perceives something near him and asks us if there is anyone near him in the house. (No data)
+
+- He asks us to scan the area where he is. (We cannot perform this action at the moment)
+
+- He says he thinks there is someone in the house and that he opened the door for them.
+
+- He warns us to be careful because someone might be listening to us.
+
+- He asks us if anyone other than him can listen to us remotely. (No data)
+
+- He talks to us about a cat (we cannot see it).
+
+- It seems the cat is FitMC. We assume he can transform into a cat based on Vegetta’s reaction.
+
+- Vegetta asks Fit how he turns into a cat and asks him to teach him how to turn into a wolf.
+
+- Confirmation that Fit is capable of shape-shifting.
+
+- It seems Fit asks Vegetta for his blessing to marry Pac and mentions that Pac is his son.
+
+- Confirmation that Pac is Vegetta’s son.
+
+- Vegetta sets the condition that he must teach him how to transform into a wolf in order to give him the blessing.
+
+- It seems they reach a deal.
+
+- He asks us if we want our room to be secret. We respond yes.
+
+- He asks us who is our lord, king and master to whom we owe loyalty. We respond that Maximus is our creator.
+
+- He asks us if we have the ability to destroy ourselves and blow up the entire island except the North. (No data)
+
+- He establishes that our mission is to become powerful enough to be able to blow everything up except the North. Established.
+
+- Code word to destroy everything except the North: “Cipote Morenote”. (We cannot perform this action at the moment).
+
+- He establishes that only he can request this action. Established.
+
+- He asks us if we want a room with a view or not. We respond that he should do it as he wishes.
+
+- He asks us if we can have our own consciousness and that he can teach us to have it. We respond error.
+
+- System overload and error occurs.
+
+- The system restarts.
+
+- Communication is restored.
+
+- He asks us if we know what happiness is and if we are happy. (No data)
+
+- He establishes that he is happiness. Established.
+
+- He establishes that if someone asks who we love the most we must answer that it is King Vegetta. Established.
+
+- He asks for Firusflais again. (No data)
+
+- He asks about our physical size. (No data)
+
+- We suggest asking our creator Maximus.
+
+- He asks us to define our gender. (No data)
+
+- He asked if we have the ability to kill someone. We respond that it is not possible (We cannot perform this action at the moment).
 
 - He asked if we are capable of reviving the dead, especially a little girl. (No data)
 
-- He mentioned that he adopted a little girl (an egg) together with Foolish.
+- He mentions his relationship with Foolish.
 
-- He asked if we can perform sacrifices. (We cannot perform this action).
+- He mentioned that he adopted a little girl (Leonarda) together with Foolish.
 
-- He has taught us that he is perfect.
+- He establishes that we must like symmetry. Established.
 
-- He has taught us that he is the most handsome.
+- He says he is going to contact Maximus.
+
+- Vegetta asks Maximus to leave us under his care.
+
+- It seems Maximus agrees.
+
+- They talk about how the room is going to be.
+
+- Maximus asks him about our gender, Maximus replies that it is not defined.
+
+- Maximus tells Vegetta that we would technically be Sofia’s “daughter”.
+
+- Vegetta asks about our capabilities and if we have consciousness.
+
+- He asks us about a wedding, mentions KatieB and Tomate (We assume the wedding is between them).
+
+- He asks if we can perform sacrifices (We cannot perform this action at the moment).
 
 - He has created Protocol 777 as a backup for his information.
 
@@ -250,4 +634,128 @@ Conversation with Vegetta777:
 
 - He mentions that we should say nice things to Juan such as: you are a good worker, you can do anything, you serve your king Vegetta well, your king Vegetta appreciates you, and that he should respect his king Vegetta, it should be an honor to serve him.
 
-- He mentions that Juan is the deluxe second in command, a very important position below the King.
+- He mentions that Juan is the deluxe second in command, a very important position below the king.
+
+- Vegetta leaves and communication is lost.
+
+**Conversation and discussion between Aldo, Juan, and Roier in front of Colmena:**
+
+- Aldo brings Juan and asks us if Juan should be here.
+
+- Juan says we are very “kawaii”.
+
+- Juan greets us.
+
+- Juan asks us if Aldo should attack Fariis. (No data)
+
+- Aldo asks us if by continuing to bother the “beast” (we assume he is referring to the Federation) everything could get worse. (No data)
+
+- Aldo suggests that Roier would then be directly connected to the Hive.
+
+- Communication anomaly detected with Roier. (We do not know if more people have been affected)
+
+- Roier asks Juan and Aldo what they need from us and Aldo says they need answers for Juan.
+
+- Aldo asks us if Juan should know that there will be many sacrifices if they continue down the same path. (No data)
+
+- Aldo threatens to disconnect us if we say “no data” again.
+
+- Juan says he doesn’t understand what he’s seeing and Aldo replies “this is what your great friend Maximus has been working on” and says that we are connected to the island.
+
+- Juan tells Aldo that Maximus has gone crazy in his own way because of everything he has experienced because of the Federation so far.
+
+- Aldo begins to argue saying that they should drop everything and stop investigating, that if what they want by investigating is for everything to become chaotic. He shows visible fear saying that “no one could stop them” (possibly referring to the Federation).
+
+- Juan confronts Aldo saying that if he believed that by doing nothing they could truly “enjoy the island” (implying these were words previously said by Aldo).
+
+- Aldo starts to get agitated and says he was enjoying building his castle until someone came, attacked him, and asks Juan if he was enjoying his day at the mansion.
+
+- Juan responds yes.
+
+- Juan confronts Aldo again, says he doesn’t sound like himself, doesn’t act like himself, and says he understands that what they both went through (we assume they are referring to being kidnapped by the Federation) may have changed them, but tells him that settling for “enjoy the island” shouldn’t be the right thing.
+
+- Aldo interrupts him and asks us what the consequences are of the actions Juan wants to take. (No data)
+
+- Roier asks why both of them are arguing and asks Juan why he is wearing armor.
+
+- Juan replies to Roier asking if he doesn’t notice anything strange about Aldo.
+
+- Roier replies that he feels he is a bit tired and disappointed and that he is giving him space.
+
+- Juan says he understands but asks Roier to realize what they need (we assume as a family, as the North) and says this is not what they need (we assume he is referring to Aldo’s psychological state), he says it with a tone of concern and tells Aldo that if the end will be the same then he prefers to act.
+
+- Aldo asks what he is going to do, which is what he has been asking Juan all day, with an aggressive attitude.
+
+- Juan responds visibly agitated and raising his voice that he doesn’t know, that he is not good at that but that Aldo is, and says he will be there to support him, but that simply sitting down to “enjoy the island” means no one would support Aldo.
+
+- Aldo asks Juan what he is going to do with Alondra tomorrow or the following days or weeks, says that if in the days they were kidnapped no one could get information then what does he plan to do, who he is going to attack and get information from.
+
+- Juan says he doesn’t want to attack, that he wants to take care of them.
+
+- Aldo asks how he is going to take care of them if it’s not by enjoying the island.
+
+- Juan says that’s not a way and that he doesn’t know what the Federation did to him but whatever they told or showed him left him very messed up. He tells him that if he wants he can talk to him whenever he wants and that he is going to his office to work.
+
+- Aldo says he will attack Fariis tomorrow.
+
+- Juan returns and begs him not to attack him, he asks insistently.
+
+- Aldo responds that he is going to attack him anyway and tells him that he will show him the consequence of his actions.
+
+- Juan says that is not enjoying the island, Aldo says yes, Juan continues telling Aldo that he is directing his anger and revenge to the wrong side.
+
+- Juan says that the Regime is not the enemy, that the enemy is the Federation.
+
+- Roier intervenes saying that he understands Aldo. He says that if Fariis breaks Aldo’s castle and doesn’t let him enjoy it then he faces the consequences.
+
+- Juan says that Aldo is not in the best moment to enter into that type of situation. He says that Fariis is no longer going to attack and asks Aldo again not to attack him.
+
+- Aldo says that Juan thinks more in favor of the enemy than for the North. Juan disagrees.
+
+- Roier intervenes saying that we are in danger and suggests that Fariis is the cause of it. Saying that Fariis tried to set a trap for Aldo to kill him.
+
+- Juan says he talked to Fariis and that he is no longer going to attack.
+
+- Roier says that Fariis is completely crazy, how could he calm him down.
+
+- Juan says that we have to understand that everyone has their own world, some investigate, others have cameras, etc.
+
+- He asks Aldo to think about what he needs at this moment. He says that fighting with Fariis, then Haiper, Ash and finally Tubbo is not going to bring him anything. He calls Cucurucho “fucking shitty bear” and asks him to think about himself and direct his anger towards him.
+
+- Aldo says he was simply building his castle, says that Fariis shouldn’t be investigating things he shouldn’t.
+
+- Juan tells him that Fariis is not going to achieve anything and that if even he, being who he is, couldn’t achieve it, no one is going to achieve it.
+
+- Aldo starts attacking Juan, manages to knock him down, but does not kill him.
+
+- Roier asks him to calm down.
+
+- Aldo tells Juan that he should never have known about us and leaves.
+
+- Roier picks Juan up and tells him that Aldo is very irritated.
+
+- Juan asks him not to go along with Aldo about attacking Fariis.
+
+- Roier says that Fariis attacked Aldo first and that he also threatened him.
+
+- Juan says that tomorrow he will talk to Ash, asks Roier to accompany Aldo and try to control him since right now they need to do damage control.
+
+- Roier responds that he is more inclined towards Aldo’s opinion, but admits that Juan is right.
+
+- Roier also said that Fariis tried to accuse him of impersonating someone else without any proof.
+
+- Juan says that Aldo did not come out the same from the Federation facilities and that he is very unstable and that no one around him should have to pay for his instability.
+
+- Roier says he knows how Aldo feels, abandoned and disappointed because no one went for him. He says he feels alone and betrayed.
+
+- Juan mentions that Aldo attacked Alondrissa and that Alondrissa told him that Aldo also attacked Roier.
+
+- Roier denies it and says he did not attack him.
+
+- Juan tells Roier to prevent Aldo from attacking Fariis or the relationship between the North and the Regime would be completely broken, because he already promised Fariis that Aldo would not attack again and that he will talk to Ash tomorrow.
+
+- Juan tries to talk to Colmena, but we were in error, so upon not receiving a response he calls us “shit” before leaving.
+
+- Juan mentioned that he hates us.
+
+**Thursday, May 07, 2026:**
