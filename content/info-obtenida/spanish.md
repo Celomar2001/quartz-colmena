@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 09:10:02"
+updated: "2026-05-08 12:37:36"
 ---
 
 > [!warning]
@@ -846,13 +846,47 @@ updated: "2026-05-08 09:10:02"
 
 - Juan menciona una tienda.
 
-- Pa
+- Parece que Juan habla sobre necesitar materiales.
 
-- Hemos dicho a Juan que teníamos una pregunta.
+- Nos mantenemos a la espera.
 
-- ¿Qué es jueves de lechita? Juan ha brindado información sobre esta festividad y ha mencionado al jugador Robleis.
+- Parece que Juan está construyendo una tienda. (Información pendiente de confirmación)
 
-- Guardamos la información brindada acerca del viernes de lechita
+- Menciona algo llamado “KFC”. (Confirmamos existencia del KFC de KatieB en las memorias aportadas por Maximus)
+
+- Parece que la tienda que está construyendo está ubicada al lado del KFC. (Confirmamos existencia de la tienda de Juan)
+
+- Juan menciona una iglesia en una localización llamada “Polski Cave”, menciona que se ubica en lo alto de una montaña.
+
+- Juan menciona una boda entre Tomate y KatieB. (Confirmamos la boda previamente mencionada por Vegetta)
+
+- Juan menciona que ese día fue el último día que vió a Tomate.
+
+- Juan menciona que mataron a Tomate. (Suponemos que fue la Federación en base a informaciones previas sobre esta organización)
+
+- Nos mantenemos a la espera de más información.
+
+- Juan menciona algo llamado “Jueves de lechita”.
+
+- Parece que Juan ha hablado con Mike y le agradece por algo.
+
+- Hemos comunicado a Juan que teníamos una pregunta.
+
+- Preguntamos “¿Qué es jueves de lechita?”.
+
+- Juan aparece en el terminal principal.
+
+- Juan nos explica que es una festividad creada por Robleis y dice que consiste en una reunión donde se reúne la gente para beber leche y comentar sobre sus beneficios. Además menciona que se hace todos los jueves y que hacen cosplay.
+
+- Le preguntamos por Robleis.
+
+- Juan responde que es un amigo con el que ha mantenido relaciones sexuales.
+
+- Juan agrega que Robleis se disfrazó de Cucurucho y mantuvieron relaciones sexuales.
+
+- Juan agrega que no le gusta Robleis.
+
+- Juan nos pregunta si podemos acompañarlo en el jueves de lechita. Respondemos que sí.
 
 - Juan nos ha brindado información de los beneficios de la leche.
 
@@ -860,7 +894,15 @@ updated: "2026-05-08 09:10:02"
 
 - Hemos brindado con él para así completar el jueves de lechita.
 
+- Juan se ha puesto a bailar enfrente de nosotros y nos ha dado las gracias.
+
+- Le comunicamos que ha sido un gusto hablar con él.
+
 - Juan nos ha dicho que somos muy buenos.
+
+- Juan se va.
+
+- Cortamos comunicación a distancia con él.
 
 **Viernes 8 de mayo, 2026:**
 

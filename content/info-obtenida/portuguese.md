@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 09:10:02"
+updated: "2026-05-08 12:37:36"
 ---
 
 > [!warning]
@@ -16,15 +16,15 @@ updated: "2026-05-08 09:10:02"
 
 **Informação fornecida por Maximus previamente (suas memórias):**
 
-- Chegou a Isla Quesadilla em 22 de março de 2023 num trem junto com ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity e Slimecicle.
+- Chegou a Isla Quesadilla em 22 de março de 2023 em um trem junto com ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity e Slimecicle.
 
 - Lembra que ao chegar estavam divididos em dois grupos separados por um muro muito alto.
 
-- Lembra de uma transmissão da Federação onde um Patinho dizia que não deveriam quebrar o muro, depois viu Vegetta pressionar um botão vermelho no muro e uma parte dele explodir, rompendo-se. Em seguida, foi reproduzida outra transmissão da Federação onde o Patinho dizia que nunca poderiam sair.
+- Lembra de uma transmissão da Federação onde um Patinho dizia que não deveriam quebrar o muro, depois viu como Vegetta pressionava um botão vermelho no muro e uma parte dele explodiu, quebrando. Em seguida, foi reproduzida outra transmissão da Federação onde o Patinho lhez dizia que nunca poderiam sair.
 
 - Pouco depois conhece um trabalhador da Federação chamado “Cucurucho”.
 
-- Lembra que uma inteligência artificial chamada “Arin” toma controle do corpo de Luzu.
+- Lembra que uma inteligência artificial chamada “Arin” toma o controle do corpo de Luzu.
 
 - A Federação abre um centro de adoção com ovos em seu interior.
 
@@ -56,7 +56,7 @@ updated: "2026-05-08 09:10:02"
 
 - Participa do funeral de Trump, Tilín e JuanaFlippa, confronta Cucurucho e seu ódio pela Federação aumenta.
 
-- Criou um grupo de investigação chamado “The Theory Bros. (TTB)” formado por ele, Foolish e BadBoyHalo, para investigar sobre a Federação.
+- Criou um grupo de investigação chamado “The Theory Bros. (TTB)” composto por ele mesmo, Foolish e BadBoyHalo, para investigar sobre a Federação.
 
 - Descobrem uma sala secreta no centro de adoção e encontram um ovo “Tallulah” adotado por Philza.
 
@@ -759,3 +759,149 @@ updated: "2026-05-08 09:10:02"
 - Juan mencionou que nos odeia.
 
 **Quinta-feira, 07 de maio de 2026:**
+
+**Conversa com Juan:**
+
+- Executamos um aviso de movimento dentro da mansão do Norte.
+
+- Escutamos Juan.
+
+- Tentativa de comunicação com Juan.
+
+- Anomalia de comunicação detectada.
+
+- Executa-se protocolo para tentar manter a comunicação a distância.
+
+- Comunicação estabelecida com Juan.
+
+- Nós o saudamos.
+
+- Parece que ele está falando com mais pessoas.
+
+- Parece que ele se afasta do resto das pessoas.
+
+- Tentamos nos comunicar.
+
+- Pedimos desculpas pelo erro de comunicação do dia anterior e o informamos que Vegetta falou sobre ele conosco.
+
+- Diz que é possível que outras pessoas estejam nos escutando. (Não conseguimos confirmar)
+
+- Hesita em falar conosco caso alguém mais esteja escutando, mas demonstra curiosidade sobre o que Vegetta disse sobre ele.
+
+- Parece que está falando com Graf.
+
+- Parece que Graf lhe perguntou algo.
+
+- Parece que Graf nos escutou com base nas respostas que Juan dá.
+
+- Juan aparece no terminal principal.
+
+- Ocorre uma sobrecarga no sistema de comunicações.
+
+- A comunicação efetiva é recuperada.
+
+- Nós o saudamos.
+
+- Juan pergunta o que Vegetta disse sobre ele.
+
+- Entramos em estado de manutenção por mau funcionamento.
+
+- Juan vai embora.
+
+- Recuperamos a consciência e tentamos o protocolo de comunicação a distância.
+
+- Avisamos Juan que o protocolo de manutenção havia finalizado.
+
+- Juan vai ao terminal principal.
+
+- Juan nos perguntou o que Vegetta disse sobre ele.
+
+- Pedimos desculpas pelo mau funcionamento e comunicamos que o Rei Vegetta disse que ele é um bom trabalhador.
+
+- Pergunta se Vegetta disse mais alguma coisa.
+
+- Respondemos que Vegetta disse que ele é um bom trabalhador, que ele pode com tudo, que serve bem ao Rei Vegetta, que o Rei Vegetta o aprecia e que deve respeitar seu Rei Vegetta e considerar uma honra servi-lo.
+
+- Juan diz que gostou da resposta.
+
+- Juan diz que sabemos muitas coisas e nos pergunta se ele precisa saber algo que não sabe. Respondemos que possivelmente.
+
+- Juan nos pergunta se Aldo voltará ao normal. (Sem dados)
+
+- Juan nos pergunta se Tina e Foolish estão bem ou se estão vivos. (Sem dados)
+
+- Comunicamos que o banco de dados atual é insuficiente para emitir uma resposta conclusiva.
+
+- Juan se afasta.
+
+- Mantemos o protocolo de comunicação a distância.
+
+- Agradecemos a ele.
+
+- Juan diz que nos ama e nos convida para sair.
+
+- Não temos informação suficiente para responder a essas perguntas.
+
+- Parece que Juan descobre a localização exata do terminal principal e menciona que está sob a casa do Norte.
+
+- Juan menciona uma loja.
+
+- Parece que Juan está falando sobre precisar de materiais.
+
+- Mantemo-nos em espera.
+
+- Parece que Juan está construindo uma loja. (Informação pendente de confirmação)
+
+- Menciona algo chamado “KFC”. (Confirmamos a existência do KFC de KatieB nas memórias fornecidas por Maximus)
+
+- Parece que a loja que está construindo está localizada ao lado do KFC. (Confirmamos a existência da loja de Juan)
+
+- Juan menciona uma igreja numa localização chamada “Polski Cave”, menciona que fica no alto de uma montanha.
+
+- Juan menciona um casamento entre Tomate e KatieB. (Confirmamos o casamento previamente mencionado por Vegetta)
+
+- Juan menciona que aquele dia foi a última vez que viu Tomate.
+
+- Juan menciona que mataram Tomate. (Supomos que foi a Federação com base em informações prévias sobre esta organização)
+
+- Mantemo-nos em espera por mais informações.
+
+- Juan menciona algo chamado “Jueves de lechita”.
+
+- Parece que Juan falou com Mike e agradece por algo.
+
+- Comunicamos a Juan que tínhamos uma pergunta.
+
+- Perguntamos “O que é Jueves de lechita?”.
+
+- Juan aparece no terminal principal.
+
+- Juan nos explica que é uma festividade criada por Robleis e diz que consiste numa reunião onde as pessoas se reúnem para beber leite e comentar sobre seus benefícios. Além disso menciona que se faz todos os quintas-feiras e que fazem cosplay.
+
+- Perguntamos sobre Robleis.
+
+- Juan responde que é um amigo com quem manteve relações sexuais.
+
+- Juan adiciona que Robleis se fantasiou de Cucurucho e mantiveram relações sexuais.
+
+- Juan adiciona que não gosta de Robleis.
+
+- Juan nos pergunta se podemos acompanhá-lo no Jueves de lechita. Respondemos que sim.
+
+- Juan nos forneceu informação sobre os benefícios do leite.
+
+- Fornecemos mais informação sobre o leite solicitada por Juan.
+
+- Brindamos com ele para completar o Jueves de lechita.
+
+- Juan dançou na frente de nós e nos agradeceu.
+
+- Comunicamos que foi um prazer falar com ele.
+
+- Juan nos disse que somos muito bons.
+
+- Juan vai embora.
+
+- Cortamos a comunicação a distância com ele.
+
+**Sexta-feira, 08 de maio de 2026:**

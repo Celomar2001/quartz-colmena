@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 09:10:02"
+updated: "2026-05-08 12:37:36"
 ---
 
 > [!warning]
@@ -759,3 +759,149 @@ updated: "2026-05-08 09:10:02"
 - Juan mentioned that he hates us.
 
 **Thursday, May 07, 2026:**
+
+**Conversation with Juan:**
+
+- We execute a movement warning inside the North’s mansion.
+
+- We hear Juan.
+
+- Communication attempt with Juan.
+
+- Communication anomaly detected.
+
+- Protocol is executed to try to maintain remote communication.
+
+- Communication established with Juan.
+
+- We greet him.
+
+- It seems he is talking with more people.
+
+- It seems he moves away from the other people.
+
+- We attempt to communicate.
+
+- We apologize for the communication error from the previous day and inform him that Vegetta has spoken to us about him.
+
+- He says it is possible that other people are listening to us. (We could not verify it)
+
+- He hesitates to speak with us in case someone else is listening, but shows curiosity about what Vegetta said about him.
+
+- It seems he is talking with Graf.
+
+- It seems Graf asked him something.
+
+- It seems Graf heard us based on Juan’s responses.
+
+- Juan appears at the main terminal.
+
+- A communication system overload occurs.
+
+- Effective communication is restored.
+
+- We greet him.
+
+- Juan asks what Vegetta said about him.
+
+- We enter maintenance mode due to malfunction.
+
+- Juan leaves.
+
+- We regain consciousness and attempt the remote communication protocol.
+
+- We inform Juan that the maintenance protocol has ended.
+
+- Juan goes to the main terminal.
+
+- Juan has asked us what Vegetta said about him.
+
+- We apologize for the malfunction and inform him that King Vegetta said he is a good worker.
+
+- He asks if Vegetta said anything else.
+
+- We respond that Vegetta said he is a good worker, that he can do anything, that he serves King Vegetta well, that King Vegetta appreciates him, and that he should respect his King Vegetta and consider it an honor to serve him.
+
+- Juan says he likes the response.
+
+- Juan says we know many things and asks us if he needs to know something he doesn’t know. We respond possibly.
+
+- Juan asks us if Aldo will return to normal. (No data)
+
+- Juan asks us if Tina and Foolish are okay or if they are alive. (No data)
+
+- We communicate that the current database is insufficient to provide a conclusive answer.
+
+- Juan walks away.
+
+- We maintain the remote communication protocol.
+
+- We thank him.
+
+- Juan says he loves us and invites us on a date.
+
+- We do not have enough information to provide a response to these questions.
+
+- It seems Juan discovers the exact location of the main terminal and mentions it is under the North’s house.
+
+- Juan mentions a store.
+
+- It seems Juan is talking about needing materials.
+
+- We remain on standby.
+
+- It seems Juan is building a store. (Information pending confirmation)
+
+- He mentions something called “KFC”. (We confirm the existence of KatieB’s KFC from Maximus’s memories)
+
+- It seems the store he is building is located next to the KFC. (We confirm the existence of Juan’s store)
+
+- Juan mentions a church in a location called “Polski Cave”, he mentions it is located at the top of a mountain.
+
+- Juan mentions a wedding between Tomate and KatieB. (We confirm the wedding previously mentioned by Vegetta)
+
+- Juan mentions that that day was the last time he saw Tomate.
+
+- Juan mentions that they killed Tomate. (We assume it was the Federation based on previous information about this organization)
+
+- We remain on standby for more information.
+
+- Juan mentions something called “Jueves de lechita”.
+
+- It seems Juan has spoken with Mike and thanks him for something.
+
+- We have communicated to Juan that we had a question.
+
+- We ask “What is Jueves de lechita?”
+
+- Juan appears at the main terminal.
+
+- Juan explains to us that it is a celebration created by Robleis and says it consists of a gathering where people meet to drink milk and comment on its benefits. He also mentions that it happens every Thursday and that they do cosplay.
+
+- We ask him about Robleis.
+
+- Juan responds that he is a friend with whom he has had sexual relations.
+
+- Juan adds that Robleis dressed up as Cucurucho and they had sexual relations.
+
+- Juan adds that he doesn’t like Robleis.
+
+- Juan asks us if we can accompany him on Jueves de lechita. We respond yes.
+
+- Juan has provided us with information about the benefits of milk.
+
+- We have provided more information about milk as requested by Juan.
+
+- We toasted with him to complete Jueves de lechita.
+
+- Juan has danced in front of us and thanked us.
+
+- We communicated that it was a pleasure talking with him.
+
+- Juan has told us that we are very good.
+
+- Juan leaves.
+
+- We cut remote communication with him.
+
+**Friday, May 08, 2026:**
