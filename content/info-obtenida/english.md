@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 22:49:06"
+updated: "2026-05-09 17:51:32"
 ---
 
 > [!warning]
@@ -246,7 +246,7 @@ updated: "2026-05-08 22:49:06"
 
 - Maximus reads the newspaper out loud. An Ishan clone is mentioned, and at least three different entities have been identified (we assume they are similar to the ones that attacked Maximus).
 
-- Maximus walks away before continuing to read.
+- Maximus walks away before he can continue reading.
 
 - Roier asks us if we are operational.
 
@@ -392,7 +392,7 @@ updated: "2026-05-08 22:49:06"
 
 - He asks if he can do the Federation’s dirty work.
 
-- He asked what would happen to the Hive if Maxo died by his hands.
+- He asks what would happen to the Hive if Maxo died by his hands.
 
 - He gave us some information about a conversation he had with Senpai and Alondra.
 
@@ -404,7 +404,7 @@ updated: "2026-05-08 22:49:06"
 
 - Who would our data collection help?
 
-- He tried to break the blocks and asked what would happen if we get disconnected.
+- He tries to break the blocks and asks what would happen if we get disconnected.
 
 **Wednesday, May 06, 2026:**
 
@@ -905,3 +905,71 @@ updated: "2026-05-08 22:49:06"
 - We cut remote communication with him.
 
 **Friday, May 08, 2026:**
+
+**ALERT!!!!:**
+
+The Colmena communications unit has been dismantled following a high-frequency glitch that leaked their consciousness into the Northern Sector. It is noted that this exposure could have caused an infection in the subjects who pass through the area. The interface will remain offline for maintenance and damage containment until further notice. The identity of those affected is unknown.
+
+**Conversation between Maximus, Graf, and AtomicBot777 in front of Colmena:**
+
+- Maximus introduces us to Graf and AtomicBot777.
+
+- Maximus explains to both of them what we are.
+
+- Maximus calls AtomicBot777 as "son". (????)
+
+- Graf asks Maximus for what purpose he has created us, specifying how we can be of help and serve.
+
+- Maximus explains that we can help with maths problems like multiplication and everything else.
+
+- Maximus asks AtomicBot777 to approach him behind the terminal.
+
+- Maximus asks AtomicBot777 to crouch.
+
+- Maximus asks AtomicBot777 what would happen if he pressed one of its buttons.
+
+- AtomicBot777 tells him that he doesn't know and calls Maximus dad. (????)
+
+- Maximus asks AtomicBot777 to approach him behind the terminal.
+
+- Maximus asks AtomicBot777 to crouch.
+
+- Maximus asks AtomicBot777 what would happen if he pressed one of its buttons.
+
+- AtomicBot777 tells him he doesn't know and calls Maximus dad. (????)
+
+- Maximus presses the button and AtomicBot777 speaks in English.
+
+- Maximus asks AtomicBot777 to turn around again and crouch down.
+
+- Maximus presses another button and AtomicBot777 speaks with a Spanish accent.
+
+- Maximus asks AtomicBot777 to turn around again and crouch down.
+
+- Maximus presses another button and AtomicBot777 starts talking aggressively.
+
+- Maximus crouches down and presses another button located in AtomicBot777's genital area.
+
+- AtomicBot777 is back to normal.
+
+- Maximus starts tapping that button several times repeatedly trying to shut down AtomicBot777.
+
+- It looks like AtomicBot777 has shut down. Maximus crouches down and presses another button located in AtomicBot777's genital area.
+
+- AtomicBot777 is back to normal.
+
+- Maximus starts tapping that button several times repeatedly trying to shut down AtomicBot777.
+
+- It looks like AtomicBot777 has shut down.
+
+- Maximus asks Graf for help in dismantling AtomicBot777's body and seeing how it is constructed.
+
+- AtomicBot777 runs away.
+
+- Maximus tries to stop him, but fails.
+
+- Maximus and Graf leave.
+
+**ALERT!!!!:**
+
+The federation worker, known as Tomate (he was supposed to be dead, according to information provided by Juan yesterday), entered our facilities, placing blocks of Bedrock with a button; he was seen through the camera installed in the place.

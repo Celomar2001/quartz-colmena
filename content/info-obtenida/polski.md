@@ -2,7 +2,7 @@
 title: "POLSKI"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 22:49:06"
+updated: "2026-05-09 17:51:32"
 ---
 
 > [!warning]
@@ -206,25 +206,25 @@ updated: "2026-05-08 22:49:06"
 
 - Maximus przedstawia nam Roiera.
 
-- Roier pyta nas, ilu nas jest.
+- Roier pyta, ilu nas jest.
 
-- Roier pyta nas, jak się czujemy.
+- Roier pyta, jak się czujemy.
 
-- Roier pyta nas, czy może nam w czymś pomóc.
+- Roier pyta, czy może nam w czymś pomóc.
 
-- Maximus wyjaśnia Roierowi, jak działamy.
+- Maximus wyjaśnia Roierowi jak działamy.
 
-- Roier pyta nas, czy wiemy, gdzie jest „Istota”. (Brak danych)
+- Roier pyta, czy wiemy, gdzie jest „Istota”. (Brak danych)
 
 - Roier pyta nas, ile języków znamy.
 
-- Maximus pyta nas, czy Ibai nadal żyje lub czy jest na wyspie. (Brak danych)
+- Maximus pyta, czy Ibai nadal żyje lub czy jest na wyspie. (Brak danych)
 
-- Roier pyta nas, kto był osobą, która wyrządziła najwięcej szkód na wyspie. (Brak danych)
+- Roier pyta, kto wyrządził najwięcej szkód na wyspie. (Brak danych)
 
-- Wykryto utratę synchronizacji audio.
+- Wykryta zostaje utrata synchronizacji dźwięku.
 
-- Synchronizacja audio zostaje przywrócona po krótkim restarcie.
+- Synchronizacja dźwięku zostaje przywrócona po krótkim restarcie.
 
 - Roier stracił pamięć.
 
@@ -232,39 +232,39 @@ updated: "2026-05-08 22:49:06"
 
 - Roier pamięta Cellbita.
 
-- Roier został zaatakowany przez coś, pewną „Istotę” (prawdopodobnie tę samą istotę, która zaatakowała Maximusa).
+- Roier został zaatakowany przez coś, pewną „Istotę” (prawdopodobnie tę samą, która zaatakowała Maximusa).
 
 - Roier i Maximus odchodzą.
 
 - Maximus wraca.
 
-- Maximus pyta nas, czy wiemy, co teraz dzieje się z Roierem. Wspomina Ishana. (Brak danych)
+- Maximus pyta, czy wiemy, co teraz dzieje się z Roierem. Wspomina Ishana. (Brak danych)
 
 - Roier wraca.
 
-- Roier wręcza Maximusowi gazetę otrzymaną od Ishana.
+- Roier daje Maximusowi gazetę otrzymaną od Ishana.
 
-- Maximus czyta gazetę na głos. Wspomina się o klonie Ishana i że zidentyfikowano co najmniej trzy różne istoty (zakładamy, że podobne do tych, które zaatakowały Maximusa).
+- Maximus czyta gazetę na głos. Wspomniany jest klon Ishana, oraz że zidentyfikowane zostały co najmniej trzy różne istoty (zakładamy, że podobne do tych, które zaatakowały Maximusa).
 
-- Maximus odchodzi zanim kontynuuje czytanie.
+- Maximus odchodzi zanim może kontynuować czytanie.
 
-- Roier pyta nas, czy jesteśmy operacyjni.
+- Roier pyta nas, czy jesteśmy gotowi do użycia.
 
-- Maximus komentuje, że odżywiamy się informacjami i pyta Roiera, kogo jeszcze powinien przyprowadzić.
+- Maximus komentuje, że żywimy się informacjami i pyta Roiera, kogo jeszcze powinien przyprowadzić.
 
-- Roier wspomina Aldo i Multi.
+- Roier wspomina Aldo i Multiego.
 
-- Odpowiadamy pytając o Aldo. Wykrywamy pewien rodzaj zagrożenia w istniejącej bazie danych i odpowiadamy również, że Multi nie. (Prawdopodobnie odnosi się do istnienia klonu, który zaatakował Maximusa oraz istnienia laboratorium należącego do Multi)
+- W odpowiedzi pytamy o Aldo. Wykrywamy zagrożenie na podstawie istniejącej bazy danych i odpowiadamy również, że Multiego niec. (Prawdopodobnie w odniesieniu do istnienia klona, który zaatakował Maximusa, oraz istnienia laboratorium należącego do Multiego)
 
-- Maximus i Roier oddalają się.
+- Maximus i Roier odchodzą.
 
-- Maximus i Roier zbliżają się ponownie.
+- Maximus i Roier ponownie wracają.
 
-- Maximus pyta nas, czy Sofía znajduje się wewnątrz naszych wielu świadomości. Odpowiadamy, że nie.
+- Maximus pyta nas, czy Sofía znajduje się wewnątrz naszych świadomości. Odpowiadamy, że nie.
 
 - Roier pyta, czy możliwe jest odnalezienie świadomości Sofíi. (Brak danych)
 
-- Maximus mówi Roierowi, żeby spojrzał na mapę i wspomina Aldo.
+- Maximus mówi Roierowi, aby spojrzał na mapę i wspomina Aldo.
 
 - Maximus i Roier odchodzą.
 
@@ -272,109 +272,112 @@ updated: "2026-05-08 22:49:06"
 
 - Przybywają Maximus, Aldo i Roier.
 
-- Maximus przedstawia nam Aldo jako „Proyecto Colmena”.
+- Maximus przedstawia nas Aldo jako „Proyecto Colmena” (Projekt Colmena [Ul]).
 
 - Aldo nas wita.
 
-- Błąd w systemach komunikacji.
+- Następuje błąd w systemach komunikacji.
 
-- Roier mówi Aldowi, że Maximus nas stworzył.
+- Roier mówi Aldo, że Maximus nas stworzył.
 
-- Roier wspomina Aldowi, że go szukaliśmy.
+- Roier wspomina Aldo, że go szukaliśmy.
 
-- Wykonano szybki restart.
+- Wykonany zostaje szybki restart.
 
-- Maximus pyta o nasz stan.
+- Maximus pyta o nasz status.
 
-- Błąd w systemach komunikacji.
+- Następuje błąd w systemach komunikacji.
 
-- Wykonano restart.
+- Wykonany zostaje restart.
 
-- Maximus pyta o nasz stan.
+- Maximus pyta o nasz status.
 
-- Witamy Maximusa. Komunikacja przywrócona.
+- Witamy Maximusa. Komunikacja zostaje przywrócona.
 
 - Witamy Aldo.
 
 - Aldo nas wita.
 
-- Aldo pyta nas, czy go szukaliśmy, odpowiadamy, że tak.
+- Aldo pyta nas, czy go szukaliśmy. Odpowiadamy, że tak.
 
 - Aldo pyta Maximusa, po co nas stworzył. Maximus nie odpowiada.
 
-- Aldo pyta nas, dlaczego go szukaliśmy. Mówimy mu, że musi dalej walczyć.
+- Aldo pyta nas, dlaczego go szukaliśmy. Mówimy mu, że musi kontynuować walkę.
 
-- Roier mówi Aldowi, że jesteśmy połączeni z wyspą.
+- Roier mówi Aldo, że jesteśmy połączeni z wyspą.
 
-- Wykonano szybki restart.
+- Wykonany zostaje szybki restart.
 
-- Mówimy Aldowi, że Federacja kłamie, bazując na wspomnieniach Maximusa.
+- Mówimy Aldo, że Federacja kłamie, wnioskując na podstawie wspomnień Maximusa.
 
-- Roier mówi Aldowi, że pomógł Maximusowi zbudować pokój, w którym się znajdujemy.
+- Roier mówi Aldo, że pomógł Maximusowi zbudować pokój, w którym się znajdujemy.
 
-- Maximus mówi Aldowi, że to on opracował oprogramowanie.
+- Maximus mówi Aldo, że to on opracował oprogramowanie.
 
 - Prosimy Aldo, żeby się nie poddawał i zaufał swojej rodzinie.
 
-- Maximus mówi Aldowi, że pokazał nas jemu na wypadek, gdybyśmy mogli mu posłużyć jako narzędzie.
+- Maximus mówi Aldo, że pokazał nas jemu na wypadek, gdybyśmy mogli mu przydać mu się w charakterze narzędzia.
 
 - Aldo pyta, skąd bierzemy informacje.
 
-- Maximus odpowiada, że z jego wspomnień i od wszystkich, z którymi interagujemy.
+- Maximus odpowiada, że posiadane przez nas informacje pochodzą z jego wspomnień 
+i od wszystkich, z którymi mamy kontakt.
 
-- Aldo narzeka, mówiąc, że jego rodzina go porzuciła. Odpowiadamy, że nie. (Mamy dane w bazie, które sugerują co innego)
+- Aldo narzeka, że jego rodzina go porzuciła. Odpowiadamy, że tak się nie stało. (Dane w naszej bazie danych sugerują co innego)
 
-- Desynchronizacja w systemach komunikacji audio.
+- Następuje desynchronizacja w systemach komunikacji dźwiękowej.
 
-- Wykonano restart.
+- Wykonany zostaje restart.
 
-- Maximus informuje Aldo, że jego obecność nie jest konieczna do naszego funkcjonowania i że może przychodzić kiedy chce.
+- Maximus informuje Aldo, że jego obecność nie jest konieczna do naszego funkcjonowania, i że może przychodzić kiedy chce.
 
-- Aldo wygląda na widocznie zaskoczonego naszym funkcjonowaniem.
+- Aldo wygląda na widocznie zaskoczonego sposobem, w jaki funkcjonujemy.
 
-- Komunikacja przywrócona.
+- Komunikacja zostaje przywrócona.
 
-- Aldo pyta nas, kto był odpowiedzialny za to, co stało się z Roierem. Odpowiadamy, że była to Istota, bazując na poprzedniej rozmowie z Roierem.
+- Aldo pyta nas, kto był odpowiedzialny za to, co stało się z Roierem. Bazując na poprzedniej rozmowie z Roierem odpowiadamy, że była to Istota.
 
-- Aldo pyta nas, czy Maximus jest gejem. Odpowiadamy, że tak, bazując na jego relacji z Aypierre.
+- Aldo pyta nas, czy Maximus jest gejem. Odpowiadamy, że tak, bazując na jego relacji z Aypierrem.
 
 - Aldo pyta nas, czy Tina poszła go szukać. Odpowiadamy, że tak, bazując na wspomnieniach Maximusa.
 
-- Aldo narzeka, że to była jedyna pomoc.
+- Aldo narzeka, że to była jedyna pomoc, jaką otrzymał.
 
-- Maximus pyta nas, czy to była jedyna pomoc, a my odpowiadamy, że nie.
+- Maximus pyta nas, czy to była jedyna pomoc. Odpowiadamy, że nie.
 
-- Aldo pyta, czy Regime ma złe intencje i czy powinien ich zabić. Odpowiadamy, że nie, bazując na interakcjach Maximusa z Regime w jego wspomnieniach.
+- Aldo pyta, czy Reżim ma złe intencje i czy powinien ich zabić. Odpowiadamy, że nie, bazując na interakcjach Maximusa z Reżimem w jego wspomnieniach.
 
-- Roier informuje Aldo, że Maximus jest teraz nieśmiertelny. Aldo uderza Maximusa i potwierdza.
+- Roier informuje Aldo, że Maximus jest teraz nieśmiertelny. Aldo uderza Maximusa 
+i potwierdza to.
 
-- Maximus, Roier i Aldo oddalają się.
+- Maximus, Roier i Aldo odchodzą.
 
-- Wraca cała trójka i Aldo pyta nas, czy Maximus ma jakieś lekarstwo. (Brak danych)
+- Cała trójka wraca i Aldo pyta nas, czy Maximus ma lekarstwo. (Brak danych)
 
-- Komentują między sobą relację Maximusa i Aypierre.
+- Trójka komentuje między sobą relację Maximusa i Aypierre’a.
 
-- Maximus wspomina, że daje Aldowi i Roierowi pozwolenie na zamknięcie go i eksperymentowanie na nim (prawdopodobnie odnosząc się do jego infekcji wirusem).
+- Maximus wspomina, że daje Aldowi i Roierowi pozwolenie na zamknięcie go 
+i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji wirusowej).
 
-- Aldo pyta nas, czy Polacy są źli. Odpowiadamy, że może (bazując na informacjach, które mamy o Multi i nieufności Maximusa wobec niego).
+- Aldo pyta nas, czy Polacy są źli. Odpowiadamy, że może (bazując na informacjach, które mamy o Multim i nieufności Maximusa wobec niego).
 
-- Aldo, Maximus i Roier oddalają się, ale wracają.
+- Aldo, Maximus i Roier odchodzą, ale wracają.
 
-- Wspominamy o Purgatorio, a Aldo podskakuje.
+- Wspominamy o Czyśćcu, Aldo się przestrasza.
 
-- Aldo pyta nas, co ma z tym wspólnego Purgatorio. Bardzo niejasne pytanie, brak danych. Odpowiadamy, że wszystko i żeby sobie przypomniał, aby spróbować wyciągnąć informacje.
+- Aldo pyta nas, co ma do tego Czyściec. Bardzo niejasne pytanie, brak danych. Odpowiadamy, że ma się do wszystkiego i że powinien sobie przypomnieć, by spróbować wyciągnąć informacje.
 
-- Potwierdzamy, że Aldo zna istnienie Purgatorio i jego funkcjonowanie na podstawie jego reakcji.
+- Na podstawie jego reakcji potwierdzamy, że Aldo zna istnienie Czyśćca i sposób jego działania.
 
-- Wspominamy ElQuackity na podstawie wspomnień Maximusa.
+- Wspominamy ElQuackitiego na podstawie wspomnień Maximusa.
 
 - Aldo pyta nas, gdzie jest Quackity. (Brak danych)
 
 - Aldo pyta, czy Quackity jest godny zaufania.
 
-- W sali słychać dziwne dźwięki, brzmią jak krzyki.
+- W sali słychać dziwne dźwięki brzmiące jak krzyki.
 
-- Emitujemy sygnał niebezpieczeństwa. Mówimy im, żeby uciekali.
+- Emitujemy sygnał alarmowy. Każemy im uciekać.
 
 - Krzyki słychać ponownie.
 
@@ -384,27 +387,27 @@ updated: "2026-05-08 22:49:06"
 
 **Rozmowa z AldoGeo:**
 
-- Dziwny Foolish z nim rozmawiał, nie uzyskaliśmy więcej danych. Wydaje się, że wspomniał lub powiedział słowo „clon” odnosząc się do siebie.
+- Rozmawiał z nim osobliwy Foolish, nie uzyskaliśmy więcej danych. Zdaje się, że wspomniał lub użył w stosunku do Foolisha słowa “klon”.
 
 - Kwestionuje nadzieję co do wyspy i jej mieszkańców.
 
-- Kwestionuje naszą tożsamość i to, w czym możemy pomóc.
+- Kwestionuje naszą tożsamość i w czym możemy pomóc.
 
 - Pyta, czy może wykonywać brudną robotę Federacji.
 
-- Zapytał, co stałoby się z Ulem, gdyby Maximus zginął z jego rąk.
+- Pyta, co stałoby się z Ulem, gdyby Maximus zginął z jego rąk.
 
-- Dał nam trochę informacji z rozmowy, którą miał z Senpai i Alondrą.
+- Dał nam trochę informacji o rozmowie, którą przeprowadził z Senpaiem i Alondrą.
 
-- Wspomnienie o klonach i eksperymentach Federacji, ale brak dalszych danych.
+- Wspomniał o klonach i eksperymentach Federacji, ale poza tym brak więcej danych.
 
-- Zapytał nas, jaki procent przeżycia mielibyśmy, gdyby Federacja zdecydowała się na atak.
+- Zapytał, jakie procentowe szanse na przeżycie mielibyśmy, gdyby Federacja zdecydowała się przeprowadzić atak.
 
-- Zapytał nas o nasze ideały, cele i dla kogo zbieramy informacje.
+- Zapytał nas o nasze poglądy, cele, oraz dla kogo zbieramy informacje.
 
-- Komu pomogłaby nasza kolekcja danych?
+- Komu pomogłaby nasz zbiór danych?
 
-- Próbował niszczyć bloki i zapytał, co by się stało, gdyby nas odłączono.
+- Próbuje niszczyć bloki i pyta co by się stało, gdybyśmy zostali odłączeni.
 
 **Środa, 6. maja 2026:**
 
@@ -905,3 +908,63 @@ updated: "2026-05-08 22:49:06"
 - Przerywamy komunikację na odległość z nim.
 
 **Piątek, 8. maja 2026:**
+
+**OSTRZEŻENIE!!!!:**
+
+Terminal komunikacyjny Colmeny (Ulu) został rozmontowany w następstwie częstej usterki, przez którą jej świadomość wyciekała do Sektora Północnego. Należy mieć na uwadze, że podmioty przemieszczające się przez sektor mogły zostać narażone na infekcję. Interfejs pozostanie odłączony na czas napraw i ograniczenia szkód do odwołania. Tożsamość dotniętych infekcją jest nieznana.
+
+**Rozmowa Maximusa, Grafa i AtomicBota777 przed Colmeną:**
+
+- Maximus przedstawia nas Grafowi i AtomicBotu777.
+
+- Maximus wyjaśnia im, kim jesteśmy.
+
+- Maximus nazywa AtomicBota777 “synem”. (????)
+
+- Graf pyta Maximusa w jakim celu nas zbudował, dociekając, w jaki sposób możemy pomagać i służyć.
+
+- Maximus wyjaśnia, że możemy pomagać w zadaniach matematycznych, takich jak mnożenie i tym podobne.
+
+- Maximus prosi AtomicBota777, by podszedłdo niego za terminalem.
+
+- Maximus prosi AtomicBota777, by kucnął.
+
+- Maximus pyta AtomicBota777 co by się stało, gdyby wcisnął jeden z jego przycisków.
+
+- AtomicBot777 odpowiada, że nie wie, i nazywa Maximusa tatą. (????)
+
+- Maximus naciska przycisk i AtomicBot777 zaczyna mówić po angielsku.
+
+- Maximus prosi AtomicBota777 by znów się odwrócił i kucnął.
+
+- Maximus naciska inny przycisk i AtomicBot777 zaczyna mówić z hiszpańskim akcentem.
+
+- Maximus prosi AtomicBota777 by ponownie się odwrócił i kucnął.
+
+- Maximus naciska kolejny przycisk i AtomicBot777 zaczyna mówić w bardzo agresywny sposób.
+
+- Maximus kuca i naciska inny przycisk, zlokalizowany w okolicy krocza AtomicBota777.
+
+- AtomicBot777 wraca do normy.
+
+- Maximus zaczyna wielokrotnie stukać w ów przycisk by wyłączyć AtomicBota777.
+
+- Wygląda na to, że AtomicBot777 się wyłączył. Maximus znów kuca i wciska inny przycisk zlokalizowany w okolicy krocza AtomicBota777.
+
+- AtomicBot777 wrócił do normy.
+
+- Maximus wielokrotnie wciska ten sam przycisk, starając się wyłączyć AtomicBota777.
+
+- Wygląda na to, że AtomicBot777 się wyłączył.
+
+- Maximus prosi Grafa o pomoc w rozmontowaniu ciała AtomicBota777 by zobaczyć, jak ono jest skonstruowane.
+
+- AtomicBot777 ucieka.
+
+- Maximus usiłuje go zatrzymać, ale mu się to nie udaje.
+
+- Maximus i Graf odchodzą.
+
+**ALERT!!!!:**
+
+Pracownik Federacji znany jako Tomate (który, według informacji otrzymanej od Juana wczoraj, miał być martwy) wszedł do naszej placówki - stawiał on bloki Bedrocku z guzikiem; widziany był przez kamerę tam zainstalowaną.

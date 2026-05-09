@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 22:49:06"
+updated: "2026-05-09 17:51:32"
 ---
 
 > [!warning]
@@ -908,4 +908,54 @@ updated: "2026-05-08 22:49:06"
 
 **ALERTA!!!!:**
 
-La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de alta frecuencia que filtró sus conciencias en el Sector Norte. Se advierte que dicha exposición pudo causar una infección en los sujetos que transitaron la zona. La interfaz permanecerá fuera de línea para mantenimiento y contención de daños hasta nuevo aviso. La identidad de los afectados es desconocida.
+La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de alta frecuencia que filtró sus conciencias en el Sector Norte. Se advierte que dicha exposición pudo causar una infección en los sujetos que transitan la zona. La interfaz permanecerá fuera de línea para mantenimiento y contención de daños hasta nuevo aviso. La identidad de los afectados es desconocida.
+
+**Conversación entre Maximus, Graf y AtomicBot777 frente a Colmena:**
+
+- Maximus nos presenta ante Graf y AtomicBot777.
+
+- Maximus le explica a ambos que somos.
+
+- Maximus llama a AtomicBot777 como “hijo”. (????)
+
+- Graf le pregunta a Maximus con qué propósito nos ha creado, especificando en que podemos ser de ayuda y servir.
+
+- Maximus le explica que podemos ayudar en problemas matemáticos como multiplicaciones y en todo.
+
+- Maximus le pide a AtomicBot777 que se acerque a él detrás del terminal.
+
+- Maximus le pide a AtomicBot777 que se agache.
+
+- Maximus pregunta a AtomicBot777 que pasaría si aprieta uno de sus botones.
+
+- AtomicBot777 le dice que no lo sabe y llama a Maximus papá. (????)
+
+- Maximus presiona el botón y AtomicBot777 habla en inglés.
+
+- Maximus le pide a AtomicBot777 que se dé la vuelta otra vez y se agache.
+
+- Maximus presiona otro botón y AtomicBot777 habla con acento español.
+
+- Maximus le pide a AtomicBot777 que se dé la vuelta otra vez y se agache.
+
+- Maximus presiona otro botón y AtomicBot777 empieza a hablar de forma agresiva.
+
+- Maximus se agacha y presiona otro botón ubicado en la zona genital de AtomicBot777.
+
+- AtomicBot777 vuelve a la normalidad.
+
+- Maximus empieza a tocar ese botón varias veces de forma repetida intentando apagar a AtomicBot777.
+
+- Parece que AtomicBot777 se ha apagado.
+
+- Maximus le pide ayuda a Graf para desmantelar el cuerpo de AtomicBot777 y ver cómo está construido.
+
+- AtomicBot777 se va corriendo.
+
+- Maximus intenta detenerlo, pero no lo consigue.
+
+- Maximus y Graf se van.
+
+**ALERTA!!!!:**
+
+Él trabajador de la federación, conocido como Tomate (Se suponía muerto según información aportada por Juan el día de ayer), se adentro en nuestras instalaciones, colocando bloques de Bedrock con un botón, fue visto a través de la cámara instalada en el lugar.

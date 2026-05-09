@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 22:49:06"
+updated: "2026-05-09 17:51:32"
 ---
 
 > [!warning]
@@ -44,7 +44,7 @@ updated: "2026-05-08 22:49:06"
 
 - Lembra que o ovo “Tilín” foi atribuído a Quackity.
 
-- DanTDM desapareceu, deixando-o sozinho e os abandonando.
+- DanTDM desapareceu deixando-o sozinho, abandonando-os
 
 - Considerava Trump como um filho.
 
@@ -216,25 +216,25 @@ updated: "2026-05-08 22:49:06"
 
 - Roier nos pergunta se sabemos onde está a “Entidade”. (Sem dados)
 
-- Roier nos questiona quantos idiomas falamos.
+- Roier nos questiona quantos línguas falamos.
 
 - Maximus nos pergunta se Ibai ainda está vivo ou se está na ilha. (Sem dados)
 
 - Roier nos pergunta quem foi a pessoa que mais causou dano na ilha. (Sem dados)
 
-- Perda de sincronização de áudio detectada.
+- A perda de sincronização de áudio é detectada.
 
-- A sincronização de áudio é recuperada após um breve reinício.
+- A sincronização de áudio é restaurada após um breve reset.
 
 - Roier perdeu a memória.
 
 - Mencionamos Bobby e Cellbit.
 
-- Roier lembra de Cellbit.
+- Roier se lembra de Cellbit.
 
 - Roier foi atacado por algo, uma tal “Entidade” (possivelmente a mesma entidade que atacou Maximus).
 
-- Roier e Maximus vão embora.
+- Roier e Maximus vão-se embora.
 
 - Maximus volta.
 
@@ -890,13 +890,13 @@ updated: "2026-05-08 22:49:06"
 
 - Juan nos forneceu informação sobre os benefícios do leite.
 
-- Fornecemos mais informação sobre o leite solicitada por Juan.
+- Fornecemos mais informação sobre o leite solicitado por Juan.
 
-- Brindamos com ele para completar o Jueves de lechita.
+- Brindamos com ele para completar o quinta-feira de lechita.
 
-- Juan dançou na frente de nós e nos agradeceu.
+- Juan se pôs a dançar na frente de nós e nos agradeceu.
 
-- Comunicamos que foi um prazer falar com ele.
+- Informamos que foi um prazer falar com ele.
 
 - Juan nos disse que somos muito bons.
 
@@ -905,3 +905,11 @@ updated: "2026-05-08 22:49:06"
 - Cortamos a comunicação a distância com ele.
 
 **Sexta-feira, 08 de maio de 2026:**
+
+**ALERTA!!!:**
+
+A unidade de comunicações da Colmena foi desmantelada após uma falha de alta frequência que vazou suas consciências no Setor Norte. Adverte que tal exposição pode causar uma infecção nos sujeitos que transitam a zona. A interface permanecerá fora de linha para manutenção e contenção de danos até novo aviso. A identidade dos afetados é desconhecida.
+
+**ALERTA!!!!:**
+
+O trabalhador da federação, conhecido como Tomate (supostamente morto segundo informações fornecidas por Juan no dia de ontem), entrou em nossas instalações, colocando blocos de Bedrock com um botão, foi visto através da câmera instalada no local.
