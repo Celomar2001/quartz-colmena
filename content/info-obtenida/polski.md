@@ -2,7 +2,7 @@
 title: "POLSKI"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 12:37:36"
+updated: "2026-05-08 22:49:06"
 ---
 
 > [!warning]
@@ -50,157 +50,157 @@ updated: "2026-05-08 12:37:36"
 
 - Dowiedział się o śmierci JuanaFlippy z powodu zaniedbania jej rodziców adopcyjnych.
 
-- Jego syn Trump umiera z powodu jego własnego zaniedbania. Zaczyna nienawidzić i podejrzewać Federację po tym wydarzeniu i przechodzi przez krótką depresję.
+- Jego syn Trump umiera z powodu jego własnego zaniedbania. Zaczyna nienawidzić Federacji, staje się wobec nich podejrzliwy po tym wydarzeniu i przechodzi przez krótką depresję.
 
-- Dowiedział się o śmierci Tilín z rąk Slimecicle.
+- Dowiaduje się o śmierci Tilín z rąk Slimecicle.
 
-- Uczestniczy w pogrzebie Trumpa, Tilín i JuanaFlippy, konfrontuje Cucurucho i jego nienawiść do Federacji rośnie.
+- Uczestniczy w pogrzebie Trumpa, Tilín i JuanaFlippy, konfrontuje Cucurucho i jego nienawiść do Federacji wzrasta.
 
 - Stworzył grupę badawczą o nazwie „The Theory Bros. (TTB)” składającą się z niego, Foolisha i BadBoyHalo, aby badać Federację.
 
-- Odkrywają tajną salę w centrum adopcji i znajdują jajko „Tallulah” adoptowane przez Philzę.
+- Odkrywają tajny pokój w centrum adopcyjnym i znajdują jajko imieniem „Tallulah”, które zostaje zaadoptowane przez Philzę.
 
-- Pamięta, jak statek towarowy rozbił się na wybrzeżu stacji kolejowej i gdy wszyscy poszli to zbadać, spotkali brazylijską załogę: Cellbita, Paca, Mike’a i Felps’a.
+- Pamięta, jak statek towarowy rozbił się na wybrzeżu stacji kolejowej. Gdy wszyscy ruszyli zbadać sytuację, spotkali brazylijską załogę: Cellbita, Pac’a, Mike’a i Felps’a.
 
 - Federacja przydziela Brazylijczykom nowe jajko o imieniu „Richarlyson”.
 
-- Po raz pierwszy spotyka Binary Codes podczas badania wskazówek pozostawionych przez Arin wraz z Cellbitem, Foolishem, BadBoyHalo i Philzą.
+- Po raz pierwszy spotyka Kody (Binary Codes) podczas badania wraz z Cellbitem, Foolishem, BadBoyHalo i Philzą wskazówek, które pozostawił Arin.
 
-- Powiedział Cellbitowi o grupie TTB po spotkaniu z Binary Codes i stworzyli „Ordo Theoritas”, dodając więcej osób do grupy, a Cellbit został jej liderem.
+- Powiedział Cellbitowi o grupie TTB po spotkaniu z Kodami i stworzyli „Ordo Theoritas”, dodając więcej osób do grupy. Cellbit zostaje liderem.
 
-- Buduje antenę komunikacyjną, aby wysłać sygnał SOS. Wiadomość nagrał w językach hiszpańskim, angielskim i portugalskim.
+- Buduje antenę komunikacyjną, aby wysłać sygnał SOS. Wiadomość nagrał w języku hiszpańskim, angielskim i portugalskim.
 
-- W wyniku sygnału z jego anteny skontaktowała się z nim osoba z twarzą zakrytą maską gazową i przesłała mu plany wyglądające na instrukcje budowy superkomputera.
+- W wyniku sygnału z jego anteny kontaktuje się z nim osoba z twarzą zakrytą maską gazową i przesyła mu plany, które wyglądają na instrukcję budowy superkomputera.
 
-- Tworzy superkomputer o nazwie Sofía. Uważał ją za swoją córkę.
+- Tworzy superkomputer o nazwie Sofía. Uważa ją za swoją córkę.
 
-- Dowiedział się o śmierci Bobby’ego z powodu zaniedbania Roiera w dungeonie.
+- Dowiaduje się o śmierci Bobby’ego z powodu zaniedbania Roiera w lochach.
 
-- Dowiedział się, że Foolish pracuje dla Federacji jako policjant.
+- Dowiaduje się, że Foolish pracuje dla Federacji jako policjant.
 
-- Dowiedział się o istnieniu innego Quackity’ego, który używa imienia „ElQuackity”.
+- Dowiaduje się o istnieniu innego Quackity’ego, który używa imienia „ElQuackity”.
 
-- Pamięta, jak widział samolot rozbijający się o pozostałe nienaruszone sekcje muru i wraz z resztą mieszkańców znajduje czterech Francuzów: Aypierre’a, Antoine Daniela, Etoilesa i Kameto oraz Szwajcarkę o imieniu Baghera Jones.
+- Pamięta, jak widział samolot rozbijający się o pozostałą, nienaruszoną sekcję muru i wraz z resztą mieszkańców znajduje czterech Francuzów: Aypierre’a, Antoine Daniela, Etoilesa i Kameto oraz Szwajcarkę o imieniu Baghera Jones.
 
-- Pojawia się tajna sala w centrum adopcji, w której znajdują nowe jajko „Pomme” przypisane Francuzom.
+- Pojawia się tajny pokój w centrum adopcji, w której znajduje się nowe jajko, „Pomme”, przypisane Francuzom.
 
 - Podczas powitania nowych członków francuskojęzycznych w Teatrze obserwuje, jak wszyscy giną od min pozostawionych przez Vegettę przy wejściu.
 
 - Stworzył „Las Casualonas” — klub nocny o wątpliwej moralności.
 
-- Uczestniczy w „Festa Junina” zorganizowanej przez Brazylijczyków.
+- Bierze udział w „Festa Junina” zorganizowanej przez Brazylijczyków.
 
 - Uczestniczy w ślubie Cellbita i Roiera.
 
-- Powstaje sadomasochistyczny związek miłosny między nim a Aypierrem.
+- Zawiązany zostaje sadomasochistyczny związek miłosny między nim a Aypierrem.
 
-- Został zainfekowany wirusem Kodów na Isla Quesadilla, który zaatakował jedną z jego nóg. Doszło do tego podczas konfrontacji z Binary Codes.
+- Zostaje zainfekowany wirusem Kodów na Isla Quesadilla, który zaatakował jedną z jego nóg. Doszło do tego podczas konfrontacji z Kodami (Binary Codes).
 
-- Federacja go porywa i wstrzykuje mu coś, co powoduje, że wirus Kodów rozprzestrzenia się na połowę jego ciała. Budzi się w skrzydle medycznym Federacji i zostaje zwolniony przez Cucurucho.
+- Federacja go porywa i wstrzykuje mu coś, co powoduje, że wirus Kodów rozprzestrzenia się na połowę jego ciała. Budzi się w skrzydle medycznym Federacji i zostaje wypuszczony przez Cucurucho.
 
-- Miał rozmowy z Cellbitem na temat Dark Cucurucho i dualizmu Cucuruchów.
+- Rozmawia z Cellbitem na temat Dark Cucurucho i dualizmu Cucuruchów.
 
-- Tworzy talk-show o nazwie „Gordinho Gostosinho” do wywiadów z kandydatami na burmistrza.
+- Tworzy talk-show o nazwie „Gordinho Gostosinho” do wywiadów z kandydatami na prezydenta.
 
-- Podczas kolacji wyborczej burmistrza jest świadkiem ataku kodu przebranego za Tallulah na wszystkich obecnych, odkrywając, że Kody mogą naśladować jajka.
+- Podczas kolacji wyborczej jest świadkiem ataku Kodu przebranego za Tallulah na wszystkich obecnych, odkrywając, że Kody mogą imitować jajka.
 
 - Sofía zostaje porwana przez Federację.
 
-- Z powodu frustracji, że nie może nic zrobić przeciwko Federacji, Maximus przez miesiąc budował bombę jądrową, aby zniszczyć wyspę.
+- Z powodu frustracji, że nie może nic zrobić przeciwko Federacji, Maximus przez miesiąc buduje bombę jądrową, dzięki której będzie mógł zniszczyć wyspę.
 
-- Tworzy „Furry Camp” razem z Aypierre.
+- Tworzy „Furry Camp” razem z Aypierrem.
 
-- Podczas obchodów Día de los Muertos mógł ponownie zobaczyć Trumpa i opowiedział mu o swoich planach wysadzenia wyspy bombą.
+- Podczas obchodów Día de los Muertos ponownie zobaczył Trumpa i opowiedział mu o swoich planach wysadzenia wyspy za pomocą bomby.
 
-- Pojawiły się odległe instalacje wcześniej badane przez mieszkańców wyspy, w których znaleziono komory kriogeniczne. To tam przybyło ośmiu nowych członków na wyspę: German, IronMouse, Lenay, Nihachu, Polispol, Rivers, TinaKitten, Tubbo i Willyrex.
+- Pojawiły się odległe budynki wcześniej badane przez mieszkańców wyspy, w których znaleziono komory kriogeniczne. To tam znaleziono ośmiu nowych członków wyspy: Germana, IronMouse, Lenay, Nihachu, Polispola, Rivers, TinaKitten, Tubbo i Willyrex’a.
 
-- Razem z kilkoma mieszkańcami wyspy znajduje Bagi — Brazylijkę znalezioną nieprzytomną w opuszczonej rezydencji pracownika Federacji o imieniu Walter Bob.
+- Razem z kilkoma mieszkańcami wyspy znajdują Bagi, Brazylijkę, nieprzytomną w opuszczonej rezydencji pracownika Federacji o imieniu Walter Bob.
 
 - Później dowiedział się o przybyciu Carre. Roier powiedział mu, że Carre obudził się w lodowym więzieniu i został poprowadzony przez Firusflaisa (psa Roiera) aby uciec.
 
 - Pozostałe żyjące jajka znikają.
 
-- Zostaje zabrany wraz z resztą mieszkańców na Isla Huevo, aby wziąć udział w wydarzeniu o nazwie El Purgatorio.
+- Zostaje zabrany wraz z resztą mieszkańców na Isla Huevo, aby wziąć udział w wydarzeniu o nazwie Czyściec (Purgatory/El Purgatorio).
 
-- Odkrywa, że Isla Huevo nie jest rządzona przez Cucurucho, lecz przez nową postać o imieniu „The Watcher”, odkrywając również, że to on porwał jajka.
+- Odkrywa, że Wyspa Jaj (Egg Island/Isla Huevo) nie jest rządzona przez Cucurucho, lecz przez nową postać o imieniu „The Watcher”, odkrywając również, że to ono porwało jajka.
 
-- Zabrał ze sobą bombę na Isla Huevo (Purgatorio), gdzie została skradziona przez Federację i później zdetonowana. Miało to miejsce 18 listopada 2023 roku.
+- Zabrał ze sobą bombę na Wyspę Jaj (Czyściec), gdzie została skradziona przez Federację i później zdetonowana tamże. Miało to miejsce 18 listopada 2023 roku.
 
 - Nie pamięta zbyt dobrze, co stało się po detonacji bomby.
 
 - 14 marca 2026 budzi się na statku wycieczkowym wraz z niektórymi członkami Isla Quesadilla i nowymi osobami. Niedługo potem nadawana jest transmisja Federacji i statek rozbija się.
 
-- Nazwiska nowych członków to: Alondrissa, Molly, Ibai, Robleis, Aldo, JuanGuarnizo, Jschlatt, KatieB, Wuant, GabePeixe, Pressea, Haiperexe, Fariis, Ashswag, SenpaiSpider, Chapati, Ishan, Nexe, Ewroon, YoungMulti, Graf, Duncan, Jeremy Freiser, Donkaaklijn i Shappo.
+- Nowi członkowie nazywają się: Alondrissa, CrystalMolly, Ibai, Robleis, Aldo, JuanGuarnizo, Jschlatt, KatieB, Wuant, GabePeixe, Pressea, Haiperexe, Fariis, Ashswag, SenpaiSpider, Chapati, Ishan, Nexe, Ewroon, YoungMulti, Graf, Duncan, Jeremy Freiser, Donkaaklijn i Shappo.
 
-- Nie zna nazwy tej nowej wyspy.
+- Nie zna nazwy nowej wyspy.
 
-- Buduje podziemne muzeum o nazwie „TTB Museum”, w którym na kilku taśmach pokazuje część swoich wspomnień z Isla Quesadilla i Isla Huevo.
+- Buduje podziemne muzeum o nazwie „TTB Museum”, w którym na kilku taśmach pokazuje część swoich wspomnień z Isla Quesadilla i Wyspy Jaj (Isla Huevo).
 
-- Maximus poznaje bazę Regime, pełną fabryk.
+- Maximus poznaje bazę Reżimu, pełną fabryk.
 
-- Tina i Aldo informują go o pułapkach void zbudowanych przez Asha i Haipera, których używają do zabijania pracowników Federacji.
+- Tina i Aldo informują go o pułapkach pustki zbudowanych przez Asha i Haipera, których ci używają do zabijania pracowników Federacji.
 
 - Otrzymuje informacje od ludzi z Północy o incydencie między Aldo i Ashswagiem, ponieważ Ash zabił psa Vegetty o imieniu „Estúpido”.
 
 - Poznaje kamerzystę Federacji o imieniu „Pepino”.
 
-- Odkrywa, że KatieB sprzymierzyła się z Regime, aby zbudować KFC w pobliżu wieży spawn.
+- Odkrywa, że KatieB sprzymierzyła się z Reżimem, aby zbudować KFC w pobliżu wieży spawnu.
 
-- Odkrywa przez QSMP News, że Alondrissa została przejechana przez pociąg Regime.
+- Odkrywa przez QSMP News, że Alondrissa została przejechana przez pociąg Reżimu.
 
-- Próbuje mediować między Alondrissą a Regime w sprawie sporów dotyczących budowy zamku Alondrissy i torów kolejowych Tubbo przechodzących przez ten obszar.
+- Próbuje mediować między Alondrissą a Reżimem w sprawie sporów dotyczących budowy zamku Alondrissy i torów kolejowych Tubbo przechodzących przez ten obszar.
 
-- Dowiedział się o zniknięciu Pepino i poznaje nowego kamerzystę o imieniu „Tomate”.
+- Dowiaduje się o zniknięciu Pepino i poznaje nowego kamerzystę o imieniu „Tomate”.
 
-- Poznaje budowniczego Federacji o imieniu „Leon” i darzy go sympatią.
+- Poznaje budowniczego Federacji o imieniu „Leon”, do którego się przywiązuje.
 
-- Odbywa się proces między Alondrissą a Tubbo z powodu ich sporów. Maximus jest widzem i zostaje mianowany przez Cucurucho odpowiedzialnym za wykonanie wyroku.
+- Odbywa się proces między Alondrissą i Tubbo z powodu ich sporów. Maximus jest widzem i zostaje mianowany przez Cucurucho odpowiedzialnym za wykonanie wyroku.
 
 - Próbuje dołączyć do Federacji. Federacja przydziela mu misję.
 
 - Wykonuje misję skutecznie, ale po kilku dniach bez odpowiedzi od Federacji traci cierpliwość, denerwuje się i łamie jedną z nałożonych mu zasad. Pojawia się strażnik Federacji, powala go, Maximus go konfrontuje, a strażnik go zabija.
 
-- Odkrywa cel Regime — obalenie Federacji i przejęcie kontroli nad wyspą.
+- Odkrywa cel Reżimu, jakim jest obalenie Federacji i przejęcie kontroli nad wyspą.
 
-- Tworzy grupę „La Resistencia” składającą się z niego, Asha, Haipera, Fariisa, Molly, Aldo, Alondrissy, Ishana, SenpaiSpider i Aypierre.
+- Tworzy grupę „La Resistencia” składającą się z niego, Asha, Haipera, Fariisa, Molly, Aldo, Alondrissy, Ishana, SenpaiSpider i Aypierre’a.
 
-- Odbudowuje „Las Casualonas” razem z Roierem. Inaugurują ją w dniu urodzin Vegetty.
+- Odbudowuje „Las Casualonas” razem z Roierem. Inaugurują go w dniu urodzin Vegetty.
 
-- Atakuje Sąd wraz z kilkoma członkami Północy.
+- Wraz z kilkoma członkami Północy atakuje Sąd.
 
-- Dowiedział się, że Aldo musi zabić wszystkich z Regime jako karę za zniszczenie wejścia do Sądu. Misja przydzielona bezpośrednio przez Cucurucho.
+- Dowiaduje się, że Aldo musi zabić wszystkich z Regime jako karę za zniszczenie wejścia do Sądu. Misja przydzielona została bezpośrednio przez Cucurucho.
 
 - Próbuje odwieść Aldo od wykonywania poleceń Federacji i realizacji misji.
 
-- Dowiedział się, że Foolish próbuje wrócić do pracy dla Federacji za zgodą większości Północy.
+- Dowiaduje się, że Foolish próbuje wrócić do pracy dla Federacji za zgodą większości Północy.
 
-- Dowiedział się o istnieniu tajnego laboratorium YoungMulti i zaczyna mu nie ufać.
+- Dowiaduje się o istnieniu tajnego laboratorium YoungMulti i przestaje mu ufać.
 
-- Dowiedział się o porwaniu Juana.
+- Dowiaduje się o porwaniu Juana.
 
 - Haiper opowiada jemu i SenpaiSpiderowi w siedzibie La Resistencia, że Fariis ma misję Federacji zabicia wszystkich z Północy.
 
 - Dowiedział się, że Aldo oddał się Federacji, aby uratować Juana.
 
-- Dowiedział się, że SenpaiSpider zabił Asha, próbując pomóc Aldowi w wykonaniu misji.
+- Dowiedział się, że SenpaiSpider zabił Asha, próbując pomóc Aldo w wykonaniu misji.
 
 - W obliczu tego, co postrzega jako nieuniknioną wojnę między Północą a Regime, decyduje się na wygnanie i rozwiązuje La Resistencia.
 
 - Pewnej nocy poszedł obozować w „Camp Fatal” Foolisha i został zaatakowany przez istotę wyglądającą jak YoungMulti. Jego ciało stało się widocznie większe i uważa, że to przez wirus Kodów.
 
-- Gdy pada deszcz i dotknie deszczu, lub gdy się zdenerwuje, traci kontrolę nad ciałem i umysłem. Inni mieszkańcy wyspy mówili mu, że staje się agresywny i ich atakuje.
+- Gdy pada deszcz i on dotyka deszczu, lub gdy się zdenerwuje, traci kontrolę nad swoim ciałem i umysłem. Pozostali mieszkańcy wyspy powiedzieli mu, że staje się agresywny i atakuje ich.
 
-- Dowiedział się o uwolnieniu Juana i widzi, jak bardzo został fizycznie znęcony.
+- Dowiaduje się o uwolnieniu Juana i widzi, w jak złym stanie on jest.
 
-- Dowiedział się, że Tina poszła szukać Aldo.
+- Dowiaduje się, że Tina poszła szukać Aldo.
 
-- Dowiedział się, że Foolish odszedł daleko obozować i kontynuować badanie istoty.
+- Dowiaduje się, że Foolish poszedł obozować daleko i kontynuować badanie istoty.
 
-- Dowiedział się o uwolnieniu Aldo i zauważa, że nie jest już taki sam jak wcześniej.
+- Dowiaduje się o uwolnieniu Aldo i zauważa, że nie jest on taki sam jak wcześniej.
 
 - Chce stworzyć wytwórnię muzyczną o nazwie „Gostosinho Records” lub „Gordinho Gostosinho Records” razem z Roierem i nagrywać piosenki ze wszystkimi mieszkańcami wyspy.
 
-**Poniedziałek, 04 maja 2026:**
+**Poniedziałek, 4. maja 2026:**
 
 **Rozmowa z Maximusem i Roierem:**
 
@@ -380,7 +380,7 @@ updated: "2026-05-08 12:37:36"
 
 - Aldo, Maximus i Roier odchodzą.
 
-**Wtorek, 05 maja 2026:**
+**Wtorek, 5. maja 2026:**
 
 **Rozmowa z AldoGeo:**
 
@@ -406,7 +406,7 @@ updated: "2026-05-08 12:37:36"
 
 - Próbował niszczyć bloki i zapytał, co by się stało, gdyby nas odłączono.
 
-**Środa, 06 maja 2026:**
+**Środa, 6. maja 2026:**
 
 **Rozmowa z Vegetta777 i Maximusem:**
 
@@ -758,7 +758,7 @@ updated: "2026-05-08 12:37:36"
 
 - Juan powiedział, że nas nienawidzi.
 
-**Czwartek, 07 maja 2026:**
+**Czwartek, 7. maja 2026:**
 
 **Rozmowa z Juanem:**
 
@@ -904,4 +904,4 @@ updated: "2026-05-08 12:37:36"
 
 - Przerywamy komunikację na odległość z nim.
 
-**Piątek, 08 maja 2026:**
+**Piątek, 8. maja 2026:**

@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-08 12:37:36"
+updated: "2026-05-08 22:49:06"
 ---
 
 > [!warning]
@@ -110,7 +110,7 @@ updated: "2026-05-08 12:37:36"
 
 - Cria o “Furry Camp” junto com Aypierre.
 
-- Durante a celebração do Día de los Muertos pôde ver Trump novamente e contou a ele seus planos de explodir a ilha com uma bomba.
+- Durante a celebração do Día dos mortos, ele pôde ver Trump novamente e contou a ele seus planos de explodir a ilha com uma bomba.
 
 - Apareceram instalações distantes previamente investigadas pelos habitantes da ilha, onde foram encontradas câmaras criogênicas. Foi ali que chegaram oito novos membros à ilha: German, IronMouse, Lenay, Nihachu, Polispol, Rivers, TinaKitten, Tubbo e Willyrex.
 
@@ -128,7 +128,7 @@ updated: "2026-05-08 12:37:36"
 
 - Não se lembra muito bem do que aconteceu depois que a bomba detonou.
 
-- Em 14 de março de 2026 acorda num cruzeiro junto com alguns integrantes de Isla Quesadilla e novas pessoas. Pouco depois, uma transmissão da Federação é exibida e o navio naufraga.
+- Em 14 de março de 2026 acorda um cruzeiro junto com alguns integrantes de Isla Quesadilla e novas pessoas. Pouco depois, uma transmissão da Federação é exibida e o navio naufraga.
 
 - Os nomes dos novos integrantes são: Alondrissa, Molly, Ibai, Robleis, Aldo, JuanGuarnizo, Jschlatt, KatieB, Wuant, GabePeixe, Pressea, Haiperexe, Fariis, Ashswag, SenpaiSpider, Chapati, Ishan, Nexe, Ewroon, YoungMulti, Graf, Duncan, Jeremy Freiser, Donkaaklijn e Shappo.
 
@@ -138,7 +138,7 @@ updated: "2026-05-08 12:37:36"
 
 - Maximus conhece a base do Regime, cheia de fábricas.
 
-- Tina e Aldo o informam sobre armadilhas do vazio construídas por Ash e Haiper, que as estão usando para matar trabalhadores da Federação.
+- Tina e Aldo o informam sobre armadilhas do vazio construídas por Ash e Haiper, que eles estão usando para matar trabalhadores da Federação.
 
 - Recebe informação de pessoas do Norte sobre um altercado entre Aldo e Ashswag, porque Ash matou o cachorro de Vegetta chamado “Estúpido”.
 
