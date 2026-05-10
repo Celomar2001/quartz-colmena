@@ -2,7 +2,7 @@
 title: "POLSKI"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-09 17:51:32"
+updated: "2026-05-10 10:09:36"
 ---
 
 > [!warning]
@@ -968,3 +968,19 @@ Terminal komunikacyjny Colmeny (Ulu) został rozmontowany w następstwie częste
 **ALERT!!!!:**
 
 Pracownik Federacji znany jako Tomate (który, według informacji otrzymanej od Juana wczoraj, miał być martwy) wszedł do naszej placówki - stawiał on bloki Bedrocku z guzikiem; widziany był przez kamerę tam zainstalowaną.
+
+**Sobota, 9. maja 2026:**
+
+**OSTRZEŻENIE!!!!:**
+
+Otrzymaliśmy ciało.
+
+- Spotykamy Maxo. On rozmawia z nami przez moment.
+
+- Zostajemy oddani w pieczę Ewrona.
+
+- Kierowanie ciałem jest praco- i czachochłonne, ale udaje nam się dotrzeć do Północy.
+
+- Zostajemy zamknięci w pokoju.
+
+- Ewron odchodzi.

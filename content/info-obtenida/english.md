@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-09 17:51:32"
+updated: "2026-05-10 10:09:36"
 ---
 
 > [!warning]
@@ -14,7 +14,11 @@ updated: "2026-05-09 17:51:32"
 
 ***Reminder: Hive possesses all of Maxo’s memories (QSMP1 and QSMP2). From this point forward, it learns from the other content creators.***
 
-**Information provided by Maximus previously (his memories):**
+**Index of Information Obtained**
+
+# Information provided by Maximus previously
+
+(his memories):
 
 - He arrived at Quesadilla Island on March 22, 2023, by train together with ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity, and Slimecicle.
 
@@ -200,9 +204,9 @@ updated: "2026-05-09 17:51:32"
 
 - He wants to create a record label called “Gostosinho Records” or “Gordinho Gostosinho Records” with Roier and record songs with all the island’s inhabitants.
 
-**Monday, May 04, 2026:**
+# Monday, May 04, 2026
 
-**Conversation with Maximus and Roier:**
+## Conversation with Maximus and Roier
 
 - Maximus introduces us to Roier.
 
@@ -268,7 +272,7 @@ updated: "2026-05-09 17:51:32"
 
 - Maximus and Roier leave.
 
-**Conversation with Maximus, Roier, and AldoGeo:**
+## Conversation with Maximus, Roier, and AldoGeo
 
 - Maximus, Aldo, and Roier arrive.
 
@@ -380,9 +384,9 @@ updated: "2026-05-09 17:51:32"
 
 - Aldo, Maximus, and Roier leave.
 
-**Tuesday, May 05, 2026:**
+# Tuesday, May 05, 2026
 
-**Conversation with AldoGeo:**
+## Conversation with AldoGeo:
 
 - A strange Foolish was talking to him. We didn’t obtain more data from them. It seems he mentioned or said the word “clone” while referring to Foolish.
 
@@ -406,9 +410,9 @@ updated: "2026-05-09 17:51:32"
 
 - He tries to break the blocks and asks what would happen if we get disconnected.
 
-**Wednesday, May 06, 2026:**
+# Wednesday, May 06, 2026
 
-**Conversation with Vegetta777 and Maximus:**
+## Conversation with Vegetta777 and Maximus
 
 - Maximus brings Vegetta and introduces him to us.
 
@@ -466,7 +470,7 @@ updated: "2026-05-09 17:51:32"
 
 - Maximus says goodbye and leaves.
 
-**Remote Conversation with Vegetta777:**
+## Remote Conversation with Vegetta777
 
 - Communication anomaly detected.
 
@@ -638,7 +642,7 @@ updated: "2026-05-09 17:51:32"
 
 - Vegetta leaves and communication is lost.
 
-**Conversation and discussion between Aldo, Juan, and Roier in front of Colmena:**
+## Conversation and Discussion Between Aldo, Juan, and Roier (in front of Colmena)
 
 - Aldo brings Juan and asks us if Juan should be here.
 
@@ -758,9 +762,9 @@ updated: "2026-05-09 17:51:32"
 
 - Juan mentioned that he hates us.
 
-**Thursday, May 07, 2026:**
+# Thursday, May 07, 2026
 
-**Conversation with Juan:**
+## Conversation with Juan
 
 - We execute a movement warning inside the North’s mansion.
 
@@ -904,13 +908,13 @@ updated: "2026-05-09 17:51:32"
 
 - We cut remote communication with him.
 
-**Friday, May 08, 2026:**
+# Friday, May 08, 2026
 
-**ALERT!!!!:**
+## **ALERT!!!!**
 
 The Colmena communications unit has been dismantled following a high-frequency glitch that leaked their consciousness into the Northern Sector. It is noted that this exposure could have caused an infection in the subjects who pass through the area. The interface will remain offline for maintenance and damage containment until further notice. The identity of those affected is unknown.
 
-**Conversation between Maximus, Graf, and AtomicBot777 in front of Colmena:**
+## Conversation between Maximus, Graf, and AtomicBot777 (in front of Colmena)
 
 - Maximus introduces us to Graf and AtomicBot777.
 
@@ -970,6 +974,24 @@ The Colmena communications unit has been dismantled following a high-frequency g
 
 - Maximus and Graf leave.
 
-**ALERT!!!!:**
+## **ALERT!!!!**
 
 The federation worker, known as Tomate (he was supposed to be dead, according to information provided by Juan yesterday), entered our facilities, placing blocks of Bedrock with a button; he was seen through the camera installed in the place.
+
+# Saturday, May 09, 2026
+
+## **UPDATE!**
+
+- We've received a new update that now gives it a controllable body.
+
+## Conversation between Maximus and Ewroon
+
+## Conversation with Ewroon
+
+## Conversation with AldoGeo
+
+- jjj
+
+# Sunday, May 10, 2026
+
+## Conversation with

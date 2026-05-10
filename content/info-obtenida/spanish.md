@@ -2,19 +2,23 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-09 17:51:32"
+updated: "2026-05-10 10:09:36"
 ---
 
 > [!warning]
 > Este archivo fue generado automáticamente desde Google Docs.
 
-**INFORMACIÓN OBTENIDA - PROYECTO COLMENA**
+**INFORMACIÓN OBTENIDA -  PROYECTO COLMENA**
 
-**MES DE MAYO**
+**MONTH OF MAY**
 
-***Recordatorio: Colmena posee toda la memoria de Maxo (QSMP1 y QSMP2) de ahí en adelante, aprende de los demás cc.***
+***Recuerda: “La Colmena”  tiene todos los recuerdos de Maxo (QSMP1 y QSMP2). A partir de ahora, aprende de otros creadores de contenido.***
 
-**Información proporcionada por Maximus previamente (sus memorias)**
+**Índice de la información Obtenida**
+
+# Información Proporcionada por Maximus  Previamente
+
+(sus memorias)
 
 - Llegó a Isla Quesadilla el 22 de marzo de 2023 en un tren junto a ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity y Slimecicle.
 
@@ -200,9 +204,9 @@ updated: "2026-05-09 17:51:32"
 
 - Quiere crear una discográfica llamada “Gostosinho Records” o “Gordinho Gostosinho Records” junto con Roier y grabar canciones junto a todos los habitantes de la isla.
 
-**Lunes 04 de mayo, 2026**
+# Lunes 04 de mayo 2026
 
-**Conversación con Maximus y Roier:**
+## Conversación con Maximus y Roier
 
 - Maximus nos presenta a Roier.
 
@@ -268,7 +272,7 @@ updated: "2026-05-09 17:51:32"
 
 - Maximus y Roier se van.
 
-**Conversación con Maximus, Roier y AldoGeo:**
+## Conversación con Maximus, Roier y AldoGeo
 
 - Llegan Maximus, Aldo y Roier.
 
@@ -380,9 +384,9 @@ updated: "2026-05-09 17:51:32"
 
 - Aldo, Maximus y Roier se van.
 
-**Martes 05 de mayo, 2026**
+# Martes 05 de mayo 2026
 
-**Conversación con AldoGeo**:
+## Conversación con AldoGeo:
 
 - Un Foolish extraño hablaba con él, no obtuvimos más datos de ellos, parece ser que comentó o dijo la palabra “clon” refiriéndose a él.
 
@@ -406,9 +410,9 @@ updated: "2026-05-09 17:51:32"
 
 - Intentó picar los bloques y nos preguntó qué pasaría si nos desconectan.
 
-**Miércoles 06 de mayo, 2026**
+# Miércoles 06 de mayo 2026
 
-**Conversación con Vegetta777 y Maximus:**
+## Conversación con Vegetta777 y Maximus:
 
 - Maximus trae a Vegetta y nos lo presenta
 
@@ -466,7 +470,7 @@ updated: "2026-05-09 17:51:32"
 
 - Maximus se despide y se va.
 
-**Conversación con Vegetta777 a distancia:**
+## Conversación con Vegetta777 (a distancia)
 
 - Anomalía de comunicación detectada.
 
@@ -638,7 +642,7 @@ updated: "2026-05-09 17:51:32"
 
 - Vegetta se va y se pierde la comunicación.
 
-**Conversación y discusión de  Aldo, Juan y Roier frente a colmena:**
+## Conversación y Discusión de Aldo, Juan y Roier (Frente a Colmena)
 
 - Aldo trae a Juan y nos pregunta si Juan debería estar aquí.
 
@@ -758,9 +762,9 @@ updated: "2026-05-09 17:51:32"
 
 - Juan mencionó que nos odia.
 
-**Jueves 07 de mayo, 2026**:
+# Jueves 07 de mayo 2026
 
-**Conversación con Juan:**
+## Conversación con Juan
 
 - Ejecutamos una advertencia de movimiento dentro de la mansión del Norte.
 
@@ -904,13 +908,13 @@ updated: "2026-05-09 17:51:32"
 
 - Cortamos comunicación a distancia con él.
 
-**Viernes 8 de mayo, 2026:**
+# Viernes 08 de mayo 2026
 
-**ALERTA!!!!:**
+## **ALERTA!**
 
 La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de alta frecuencia que filtró sus conciencias en el Sector Norte. Se advierte que dicha exposición pudo causar una infección en los sujetos que transitan la zona. La interfaz permanecerá fuera de línea para mantenimiento y contención de daños hasta nuevo aviso. La identidad de los afectados es desconocida.
 
-**Conversación entre Maximus, Graf y AtomicBot777 frente a Colmena:**
+## Conversación entre Maximus, Graf y AtomicBot777 (Frente a Colmena)
 
 - Maximus nos presenta ante Graf y AtomicBot777.
 
@@ -956,6 +960,77 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Maximus y Graf se van.
 
-**ALERTA!!!!:**
+## **ALERTA!**
 
 Él trabajador de la federación, conocido como Tomate (Se suponía muerto según información aportada por Juan el día de ayer), se adentro en nuestras instalaciones, colocando bloques de Bedrock con un botón, fue visto a través de la cámara instalada en el lugar.
+
+# Sábado 09 de mayo 2026
+
+## **ACTUALIZACIÓN!**
+
+- Hemos obtenido una nueva actualización con la cual ahora posee un cuerpo controlable.
+
+- Hemos salido del spawn con éxito.
+
+- Hemos interactuado con Maximus “Nuestro Padre”. Este ha comentado que ha robado los planos para su cuerpo del robot de roier.
+
+- Maximus comenta a la colmena que debe ir a por tabaco.
+Colmena  observa un cartel de “Se busca a Shappo”.
+
+- Hemos agarrado el cartel de “Se busca a Shappo”.
+
+- Intentamos andar a duras penas.
+
+- Hemos observado la tienda de Concreto.
+
+- Maximus va agregar la actualización de soltar objetos.
+
+- Actualización de soltar, añadida a nuestros sistemas
+
+- Tenemos la misión de intentar talar un árbol.
+
+- Por torpeza, hemos roto algunos bloques de la mansión.
+
+- Maximus nos a dado prestada su mochila de araña.
+
+- Hemos investigado varias habitaciones de la mansión.
+
+- Nuestros niveles de baterian se agotaron y fuimos a dormir a la habitación del usuario Juan, Maximus nos llevó de vuelta a nuestra cama.
+
+## Conversación entre Maximus y Ewroon
+
+- Maximus ha traído a Erwon, para que la colmena lo conozca.
+
+- Colmena consigue hablar con Erwon con algunas palabras.
+
+- Maximus nos a dejado a cargo de Erwon.
+
+## Conversación con Ewroon
+
+- Erwon pega con un palo a Colmena.
+
+- Erwon nos ha matado dos veces.
+
+- Conseguimos subirnos a un bote.
+
+- Erwon, nos lleva al norte teletransportandose en un bote.
+
+- Intentamos buscar la habitación de Maximus con ayuda de Erwon.
+
+- Conseguimos llegar a la habitación.
+
+- Hemos guardado un punto de respawn en la cama que nos ha dado Erwon.
+
+## Conversación con AldoGeo
+
+- Nos ha dicho Aldo que le digamos a Maximus que el pico nos lo dio Erwon.
+
+- Hemos visto a Aldo, nos ha dado bombas, un pico y nos ha enseñado un tren.
+
+- Aldo nos a atropellado con el tren.
+
+- Aldo nos ha pegado, y hemos activado la función de “Activación de alarma” que parece que el usuario Aldo lo a confundido con un modo “autodestrucción o destrucción”.
+
+# Domingo 10 de mayo 2026
+
+## Conversación

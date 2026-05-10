@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-09 17:51:32"
+updated: "2026-05-10 10:09:36"
 ---
 
 > [!warning]
