@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 10:09:36"
+updated: "2026-05-10 12:19:16"
 ---
 
 > [!warning]
@@ -204,7 +204,7 @@ updated: "2026-05-10 10:09:36"
 
 - Quiere crear una discográfica llamada “Gostosinho Records” o “Gordinho Gostosinho Records” junto con Roier y grabar canciones junto a todos los habitantes de la isla.
 
-# Lunes 04 de mayo 2026
+# Lunes, 04 de mayo 2026
 
 ## Conversación con Maximus y Roier
 
@@ -384,7 +384,7 @@ updated: "2026-05-10 10:09:36"
 
 - Aldo, Maximus y Roier se van.
 
-# Martes 05 de mayo 2026
+# Martes, 05 de mayo 2026
 
 ## Conversación con AldoGeo:
 
@@ -410,7 +410,7 @@ updated: "2026-05-10 10:09:36"
 
 - Intentó picar los bloques y nos preguntó qué pasaría si nos desconectan.
 
-# Miércoles 06 de mayo 2026
+# Miércoles, 06 de mayo 2026
 
 ## Conversación con Vegetta777 y Maximus:
 
@@ -762,7 +762,7 @@ updated: "2026-05-10 10:09:36"
 
 - Juan mencionó que nos odia.
 
-# Jueves 07 de mayo 2026
+# Jueves, 07 de mayo 2026
 
 ## Conversación con Juan
 
@@ -908,7 +908,7 @@ updated: "2026-05-10 10:09:36"
 
 - Cortamos comunicación a distancia con él.
 
-# Viernes 08 de mayo 2026
+# Viernes, 08 de mayo 2026
 
 ## **ALERTA!**
 
@@ -964,7 +964,7 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 Él trabajador de la federación, conocido como Tomate (Se suponía muerto según información aportada por Juan el día de ayer), se adentro en nuestras instalaciones, colocando bloques de Bedrock con un botón, fue visto a través de la cámara instalada en el lugar.
 
-# Sábado 09 de mayo 2026
+# Sábado, 09 de mayo 2026
 
 ## **ACTUALIZACIÓN!**
 
@@ -972,10 +972,11 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Hemos salido del spawn con éxito.
 
-- Hemos interactuado con Maximus “Nuestro Padre”. Este ha comentado que ha robado los planos para su cuerpo del robot de roier.
+- Hemos interactuado con Maximus “Nuestro Padre”. Este ha comentado que ha robado los planos del robot de Roier para nuestro cuerpo.
 
 - Maximus comenta a la colmena que debe ir a por tabaco.
-Colmena  observa un cartel de “Se busca a Shappo”.
+
+- Hemos observado un cartel de “Se busca a Shappo”.
 
 - Hemos agarrado el cartel de “Se busca a Shappo”.
 
@@ -991,7 +992,7 @@ Colmena  observa un cartel de “Se busca a Shappo”.
 
 - Por torpeza, hemos roto algunos bloques de la mansión.
 
-- Maximus nos a dado prestada su mochila de araña.
+- Maximus nos ha dado prestada su mochila de araña.
 
 - Hemos investigado varias habitaciones de la mansión.
 
@@ -1003,11 +1004,11 @@ Colmena  observa un cartel de “Se busca a Shappo”.
 
 - Colmena consigue hablar con Erwon con algunas palabras.
 
-- Maximus nos a dejado a cargo de Erwon.
+- Maximus nos ha dejado a cargo de Erwon.
 
 ## Conversación con Ewroon
 
-- Erwon pega con un palo a Colmena.
+- Erwon nos ha pegado con un palo.
 
 - Erwon nos ha matado dos veces.
 
@@ -1027,10 +1028,12 @@ Colmena  observa un cartel de “Se busca a Shappo”.
 
 - Hemos visto a Aldo, nos ha dado bombas, un pico y nos ha enseñado un tren.
 
-- Aldo nos a atropellado con el tren.
+- Aldo nos ha atropellado con el tren.
 
-- Aldo nos ha pegado, y hemos activado la función de “Activación de alarma” que parece que el usuario Aldo lo a confundido con un modo “autodestrucción o destrucción”.
+- Aldo nos ha pegado, y hemos activado la función de “Activación de alarma” que parece que el usuario Aldo lo ha confundido con un modo “autodestrucción o destrucción”.
 
-# Domingo 10 de mayo 2026
+- Aldo nos dio la misión de impedir que “Faris” entre a la mansión porque está infectado con radiación. Nos dijo que podríamos usar la fuerza bruta si es necesario. Le dijimos que podemos usar la fuerza bruta en contra de otros humanos.
+
+# Domingo, 10 de mayo 2026
 
 ## Conversación

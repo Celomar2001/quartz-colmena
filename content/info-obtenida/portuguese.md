@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 10:09:36"
+updated: "2026-05-10 12:19:16"
 ---
 
 > [!warning]
@@ -14,7 +14,11 @@ updated: "2026-05-10 10:09:36"
 
 ***Lembrete: A Colmeia possui toda a memória de Maxo (QSMP1 e QSMP2). A partir daqui, aprende com os outros criadores de conteúdo.***
 
-**Informação fornecida por Maximus previamente (suas memórias):**
+**Índice das informações obtidas**
+
+# Informação fornecida por Maximus previamente
+
+(suas memórias)
 
 - Chegou a Isla Quesadilla em 22 de março de 2023 em um trem junto com ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity e Slimecicle.
 
@@ -200,9 +204,9 @@ updated: "2026-05-10 10:09:36"
 
 - Quer criar uma gravadora chamada “Gostosinho Records” ou “Gordinho Gostosinho Records” junto com Roier e gravar músicas com todos os habitantes da ilha.
 
-**Segunda-feira, 04 de maio de 2026:**
+# Segunda-feira, 04 de maio de 2026
 
-**Conversa com Maximus e Roier:**
+## Conversa com Maximus e Roier
 
 - Maximus nos apresenta a Roier.
 
@@ -268,7 +272,7 @@ updated: "2026-05-10 10:09:36"
 
 - Maximus e Roier vão embora.
 
-**Conversa com Maximus, Roier e AldoGeo:**
+## Conversa com Maximus, Roier e AldoGeo
 
 - Chegam Maximus, Aldo e Roier.
 
@@ -380,9 +384,9 @@ updated: "2026-05-10 10:09:36"
 
 - Aldo, Maximus e Roier vão embora.
 
-**Terça-feira, 05 de maio de 2026:**
+# Terça-feira, 05 de maio de 2026
 
-**Conversa com AldoGeo:**
+## Conversa com AldoGeo
 
 - Um Foolish estranho falava com ele, não obtivemos mais dados. Parece que comentou ou disse a palavra “clon” referindo-se a si mesmo.
 
@@ -406,9 +410,9 @@ updated: "2026-05-10 10:09:36"
 
 - Tentou quebrar os blocos e nos perguntou o que aconteceria se fôssemos desconectados.
 
-**Quarta-feira, 06 de maio de 2026:**
+# Quarta-feira, 06 de maio de 2026
 
-**Conversa com Vegetta777 e Maximus:**
+## Conversa com Vegetta777 e Maximus
 
 - Maximus traz Vegetta e nos apresenta a ele.
 
@@ -466,7 +470,7 @@ updated: "2026-05-10 10:09:36"
 
 - Maximus se despede e vai embora.
 
-**Conversa com Vegetta777 a distância:**
+## Conversa com Vegetta777 a distância
 
 - Anomalia de comunicação detectada.
 
@@ -638,7 +642,7 @@ updated: "2026-05-10 10:09:36"
 
 - Vegetta vai embora e a comunicação é perdida.
 
-**Conversa e discussão de Aldo, Juan e Roier frente à Colmeia:**
+## Conversa e discussão de Aldo, Juan e Roier (frente à Colmeia)
 
 - Aldo traz Juan e nos pergunta se Juan deveria estar aqui.
 
@@ -758,9 +762,9 @@ updated: "2026-05-10 10:09:36"
 
 - Juan mencionou que nos odeia.
 
-**Quinta-feira, 07 de maio de 2026:**
+# Quinta-feira, 07 de maio de 2026
 
-**Conversa com Juan:**
+## Conversa com Juan
 
 - Executamos um aviso de movimento dentro da mansão do Norte.
 
@@ -904,12 +908,28 @@ updated: "2026-05-10 10:09:36"
 
 - Cortamos a comunicação a distância com ele.
 
-**Sexta-feira, 08 de maio de 2026:**
+# Sexta-feira, 08 de maio de 2026
 
-**ALERTA!!!:**
+## **ALERTA!!!**
 
 A unidade de comunicações da Colmena foi desmantelada após uma falha de alta frequência que vazou suas consciências no Setor Norte. Adverte que tal exposição pode causar uma infecção nos sujeitos que transitam a zona. A interface permanecerá fora de linha para manutenção e contenção de danos até novo aviso. A identidade dos afetados é desconhecida.
 
-**ALERTA!!!!:**
+## Conversa com
+
+## **ALERTA!!!!**
 
 O trabalhador da federação, conhecido como Tomate (supostamente morto segundo informações fornecidas por Juan no dia de ontem), entrou em nossas instalações, colocando blocos de Bedrock com um botão, foi visto através da câmera instalada no local.
+
+# Sábado, 09 de maio de 2026
+
+## **UPDATE!**
+
+## Conversa com Maximus e Ewroon
+
+## Conversa com Ewroon
+
+## Conversa com AldoGeo
+
+# Domingo, 10 de maio de 2026
+
+## Conversa com

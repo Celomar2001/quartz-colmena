@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 10:09:36"
+updated: "2026-05-10 12:19:16"
 ---
 
 > [!warning]
@@ -12,9 +12,13 @@ updated: "2026-05-10 10:09:36"
 
 **MOIS DE MAI**
 
-**Rappel : La Ruche possède toute la mémoire de Maxo (QSMP1 et QSMP2). À partir de maintenant, elle apprend des autres créateurs de contenu.**
+***Rappel : La Ruche possède toute la mémoire de Maxo (QSMP1 et QSMP2). À partir de maintenant, elle apprend des autres créateurs de contenu.***
 
-**Informations fournies par Maximus précédemment (ses souvenirs) :**
+**Index des informations recueillies**
+
+# Informations fournies par Maximus précédemment
+
+(ses souvenirs)
 
 - Il est arrivé sur Isla Quesadilla le 22 mars 2023 en train avec ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity et Slimecicle.
 
@@ -200,9 +204,9 @@ updated: "2026-05-10 10:09:36"
 
 - Il veut créer un label discographique nommé « Gostosinho Records » ou « Gordinho Gostosinho Records » avec Roier et enregistrer des chansons avec tous les habitants de l’île.
 
-**Lundi 04 mai 2026:**
+# Lundi 04 mai 2026
 
-**Conversation avec Maximus et Roier :**
+## Conversation avec Maximus et Roier
 
 - Maximus nous présente Roier.
 
@@ -268,7 +272,7 @@ updated: "2026-05-10 10:09:36"
 
 - Maximus et Roier s’en vont.
 
-**Conversation avec Maximus, Roier et AldoGeo :**
+## Conversation avec Maximus, Roier et AldoGeo
 
 - Maximus, Aldo et Roier arrivent.
 
@@ -380,9 +384,9 @@ updated: "2026-05-10 10:09:36"
 
 - Aldo, Maximus et Roier s’en vont.
 
-**Mardi 05 mai 2026:**
+# Mardi 05 mai 2026
 
-**Conversation avec AldoGeo :**
+## Conversation avec AldoGeo
 
 - Un Foolish étrange lui parlait, nous n’avons pas obtenu plus de données. Il semble avoir mentionné ou dit le mot « clon » en parlant de lui-même.
 
@@ -406,9 +410,9 @@ updated: "2026-05-10 10:09:36"
 
 - Il a essayé de casser les blocs et nous a demandé ce qui se passerait si nous étions déconnectés.
 
-**Mercredi 06 mai 2026:**
+# Mercredi 06 mai 2026
 
-**Conversation avec Vegetta777 et Maximus :**
+## Conversation avec Vegetta777 et Maximus
 
 - Maximus amène Vegetta et nous le présente.
 
@@ -466,7 +470,7 @@ updated: "2026-05-10 10:09:36"
 
 - Maximus dit au revoir et s’en va.
 
-**Conversation avec Vegetta777 à distance :**
+## Conversation avec Vegetta777 à distance
 
 - Anomalie de communication détectée.
 
@@ -638,7 +642,7 @@ updated: "2026-05-10 10:09:36"
 
 - Vegetta s’en va et la communication est perdue.
 
-**Conversation et discussion entre Aldo, Juan et Roier devant Colmena :**
+## Conversation et discussion entre Aldo, Juan et Roier (devant Colmena)
 
 - Aldo amène Juan et nous demande si Juan devrait être ici.
 
@@ -758,9 +762,9 @@ updated: "2026-05-10 10:09:36"
 
 - Juan a mentionné qu’il nous déteste.
 
-**Jeudi 07 mai 2026 :**
+# Jeudi 07 mai 2026
 
-**Conversation avec Juan :**
+## Conversation avec Juan :
 
 - Nous exécutons un avertissement de mouvement à l’intérieur du manoir du Nord.
 
@@ -904,4 +908,26 @@ updated: "2026-05-10 10:09:36"
 
 - Nous coupons la communication à distance avec lui.
 
-**Vendredi 8 mai 2026 :**
+# Vendredi 8 mai 2026
+
+## **ALERTE!!!!**
+
+## Conversation entre Maximus, Graf et AtomicBot777 (devant Colmena)
+
+## **ALERTE!!!!**
+
+# Samedi 9 mai 2026
+
+## **UPDATE!**
+
+## Conversation entre Maximus et Ewroon
+
+## Conversation avec Ewroon
+
+## Conversation avec AldoGeo
+
+- kk
+
+# Dimanche 10 mai 2026
+
+## Conversation avec

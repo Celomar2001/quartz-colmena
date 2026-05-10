@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 10:09:36"
+updated: "2026-05-10 12:19:16"
 ---
 
 > [!warning]
@@ -18,7 +18,7 @@ updated: "2026-05-10 10:09:36"
 
 # Information provided by Maximus previously
 
-(his memories):
+(his memories)
 
 - He arrived at Quesadilla Island on March 22, 2023, by train together with ElMariana, Vegetta, Roier, Spreen, Luzu, MissaSinfonía, BadBoyHalo, DanTDM, FitMC, Foolish, Jaiden, Philza, Quackity, and Slimecicle.
 
@@ -989,8 +989,6 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 ## Conversation with Ewroon
 
 ## Conversation with AldoGeo
-
-- jjj
 
 # Sunday, May 10, 2026
 
