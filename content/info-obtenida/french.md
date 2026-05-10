@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 12:19:16"
+updated: "2026-05-10 19:58:09"
 ---
 
 > [!warning]
@@ -912,17 +912,153 @@ updated: "2026-05-10 12:19:16"
 
 ## **ALERTE!!!!**
 
+L’unité de communication Colmena a été démantelée à la suite d’un glitch à haute fréquence qui a fait fuir sa conscience vers le secteur du Nord. Il est noté que cette exposition peut avoir causé une infection dans les sujets qui passent à travers cette zone. L’interface restera hors ligne à des fins d'entretien et d’endiguement des dommages jusqu’à nouvel ordre. L’identité de ceux affectés reste inconnue.
+
 ## Conversation entre Maximus, Graf et AtomicBot777 (devant Colmena)
 
+- Maximus nous présente à Graf et AtomicBot777.
+
+- Maximus leur explique ce que nous sommes.
+
+- Maximus appelle AtomicBot777 son “fils”. (????)
+
+- Graf demande à Maximus à quelle fin il nous a créées, spécifiant comment nous pouvons aider et servir.
+
+- Maximus explique que nous pouvons aider avec les problèmes de math comme les multiplications et tout le reste.
+
+- Maximus demande à AtomicBot777 de s’approcher avec lui derrière le terminal.
+
+- Maximus demande à AtomicBot777 de s’accroupir.
+
+- Maximus demande à AtomicBot777 ce qui se passerait s’il pesait sur un de ses boutons.
+
+- AtomicBot777 lui dit qu’il ne sait pas et appelle Maximus papa. (????)
+
+- Maximus pèse le bouton et AtomicBot777 parle en anglais.
+
+- Maximus demande à AtomicBot777 de se tourner à nouveau et de s’accroupir
+
+- Maximus pèse un autre bouton et AtomicBot777 commence à parler avec un accent espagnol
+
+- Maximus demande à AtomicBot777 de se tourner à nouveau et de s’accroupir
+
+- Maximus pèse un autre bouton et AtomicBot777 commence à parler agressivement
+
+- Maximus s’accroupit et pèse sur un autre bouton situé dans la zone génitale de AtomicBot777.
+
+- AtomicBot777 retourne à la normale.
+
+- Maximus commence à peser sur ce bouton répétitivement pour essayer d’éteindre AtomicBot777.
+
+- On dirait que AtomicBot777 s’est éteint.
+
+- Maximus demande de l’aide à Graf pour démanteler le corps de AtomicBot777 et voir comment il est construit.
+
+- AtomicBot777 s’enfuit en courant.
+
+- Maximus essaie de l’arrêter mais échoue.
+
+- Maximus et Graf quittent.
+
 ## **ALERTE!!!!**
+
+L’employé de la Fédération, connu sous le nom de Tomate (il était censé être mort, selon les informations fournies par Juan hier), est entré dans nos installations, plaçant des blocs de Bedrock avec un bouton; il a été vu à travers la caméra installée dans cet endroit.
 
 # Samedi 9 mai 2026
 
 ## **UPDATE!**
 
+- Nous avons reçu une nouvelle mise à jour qui lui donne maintenant un corps controllable
+
 ## Conversation entre Maximus et Ewroon
 
+- Ewron nous salue.
+
+- Il demande s’il peut parler en polonais avec nous. Maximus lui confirme.
+
+- Ewron se présente donc en tant qu’Ewron de Pologne.
+
+- Il a l’air d’attendre notre réponse. Maximus dit que Colmena est un peu lente.
+
+- Ewron demande si nous sommes un prototype, en utilisant le pronom “elle”. Maximus lui confirme.
+
+- Nous saluons Ewron en polonais. Il répond en Polonais.
+
+- Ewron demande à Maximus s’il a construit notre corps lui-même. Maximus lui confirme.
+
+- Maximus explique brièvement ce que nous sommes.
+
+- Ewron dit à Maximus qu’ils sont amis.
+
+- Ewron nous demande combien fait 2+2. Il attend notre réponse.
+
+- Nous répondons que ça fait quatre. Il l’interprète comme 44 et dit que nous l’avons presque eu.
+
+- Il demande quelle est la capitale de la Pologne. Maximus rigole pendant qu’Ewron attend encore notre réponse.
+
+- Nous frappons Ewron
+
+- Ewron dit que notre corps est vraiment bon.
+
+- Maximus explique que nous sommes un peu lentes, mais que c’est la première fois que nous avons un corps.
+
+- Ewron demande si nous sommes une télévision.
+
+- Nous disons quatre deux autres fois
+
+- Nous disons que la capitale de la Pologne est Warsaw (Warsawa).
+
+- Ewron demande à Maximus s’il peut bâtir une armée de robots comme nous.
+
+- Maximus dit que peut-être, et qu’il aurait besoin de beaucoup d’ordinateurs.
+
+- Ewron dit qu’il doit nous cacher de la Fédération.
+
+- Maximus dit que ce n’est pas un problème puisqu’il a beaucoup de copies sécurisées.
+
+- Nous disons “oh kurwa”.
+
+- Ewron dit que nous sommes polonaises.
+
+- Il dit qu’il doit nous donner un lit pour “liege wie”.
+
+- Nous disons “oh kurwa” encore.
+
+- Maximus demande à Ewron de nous aider à mous déplacer.
+
+- Maximus dit qu’Ewron est notre oncle.
+
+- Ewron dit que ce n’est pas un problème.
+
+- Nous disons “oh kurwa” encore.
+
+- Maximus dit à Ewron de nous protéger.
+
+- Ewron demande à Maximus quel est notre genre.
+
+- Maximus s'adresse à nous, nous demandant quel est notre genre.
+
+- Ewron prend pour acquis que nous sommes une “elle” et demande ce que “Colmena” veut dire.
+
+- Maximus traduit que nous sommes la Ruche.
+
+- Nous répondons, répétitivement, que nous n’avons pas de genre.
+
+- Ewron reconnait notre réponse et dit qu’il va nous parler en Polonais.
+
+- Maximus le remercie et dit qu’il doit partir, mais qu’il sera de retour dans quelques heures.
+
+- Maximus quite.
+
 ## Conversation avec Ewroon
+
+- Ewron devient sérieux et nous ordonne de lui apporter deux piles (stacks) de terracotta et cinq piles d’andésite immédiatement.
+
+- Nous disons que nous avons besoin de matériaux.
+
+- Ewron ne nous prend pas au sérieux et dit que la première chose que nous allons faire est dormir.
+
+- Nous répétons que nous avons besoin de matériaux.
 
 ## Conversation avec AldoGeo
 

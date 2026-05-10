@@ -2,7 +2,7 @@
 title: "POLSKI"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 12:19:16"
+updated: "2026-05-10 19:58:09"
 ---
 
 > [!warning]
@@ -10,11 +10,15 @@ updated: "2026-05-10 12:19:16"
 
 **INFORMACJE UZYSKANE - PROJEKT UL**
 
-**MIESIĄC MAJ**
+**MIESI****Ą****C MAJ**
 
 ***Przypomnienie: Ul posiada całą pamięć Maxo (QSMP1 i QSMP2). Od tego momentu uczy się od pozostałych twórców treści.***
 
-**Informacje dostarczone wcześniej przez Maximusa (jego wspomnienia):**
+**Spis tre****ś****ci uzyskanych informacji**
+
+# Informacje dostarczone wcze**ś**niej przez Maximusa
+
+(jego wspomnienia)
 
 - Przybył na Isla Quesadilla 22 marca 2023 roku pociągiem wraz z ElMarianą, Vegettą, Roierem, Spreenem, Luzu, MissaSinfoníą, BadBoyHalo, DanTDM, FitMC, Foolishem, Jaiden, Philzą, Quackity’m i Slimecicle.
 
@@ -200,9 +204,9 @@ updated: "2026-05-10 12:19:16"
 
 - Chce stworzyć wytwórnię muzyczną o nazwie „Gostosinho Records” lub „Gordinho Gostosinho Records” razem z Roierem i nagrywać piosenki ze wszystkimi mieszkańcami wyspy.
 
-**Poniedziałek, 4. maja 2026:**
+# Poniedziałek, 4. maja 2026
 
-**Rozmowa z Maximusem i Roierem:**
+## Rozmowa z Maximusem i Roierem
 
 - Maximus przedstawia nam Roiera.
 
@@ -268,7 +272,7 @@ updated: "2026-05-10 12:19:16"
 
 - Maximus i Roier odchodzą.
 
-**Rozmowa z Maximusem, Roierem i AldoGeo:**
+## Rozmowa z Maximusem, Roierem i AldoGeo
 
 - Przybywają Maximus, Aldo i Roier.
 
@@ -383,9 +387,9 @@ i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji
 
 - Aldo, Maximus i Roier odchodzą.
 
-**Wtorek, 5. maja 2026:**
+# Wtorek, 5. maja 2026
 
-**Rozmowa z AldoGeo:**
+## Rozmowa z AldoGeo
 
 - Rozmawiał z nim osobliwy Foolish, nie uzyskaliśmy więcej danych. Zdaje się, że wspomniał lub użył w stosunku do Foolisha słowa “klon”.
 
@@ -409,9 +413,9 @@ i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji
 
 - Próbuje niszczyć bloki i pyta co by się stało, gdybyśmy zostali odłączeni.
 
-**Środa, 6. maja 2026:**
+# **Ś**roda, 6. maja 2026
 
-**Rozmowa z Vegetta777 i Maximusem:**
+## Rozmowa z Vegetta777 i Maximusem
 
 - Maximus przyprowadza Vegettę i nas mu przedstawia.
 
@@ -469,7 +473,7 @@ i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji
 
 - Maximus żegna się i odchodzi.
 
-**Rozmowa z Vegetta777 na odległość:**
+## Rozmowa z Vegetta777 na odległo**ść**
 
 - Wykryto anomalia komunikacji.
 
@@ -641,7 +645,7 @@ i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji
 
 - Vegetta odchodzi i komunikacja zostaje utracona.
 
-**Rozmowa i dyskusja Aldo, Juana i Roiera przed Colmeną:**
+## Rozmowa i dyskusja Aldo, Juana i Roiera przed Colmen**ą**
 
 - Aldo przyprowadza Juana i pyta nas, czy Juan powinien tu być.
 
@@ -761,9 +765,9 @@ i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji
 
 - Juan powiedział, że nas nienawidzi.
 
-**Czwartek, 7. maja 2026:**
+# Czwartek, 7. maja 2026
 
-**Rozmowa z Juanem:**
+## Rozmowa z Juanem
 
 - Wykonujemy ostrzeżenie o ruchu wewnątrz rezydencji Północy.
 
@@ -907,13 +911,13 @@ i eksperymentowanie na nim (prawdopodobnie odnosząc się do posiadanej infekcji
 
 - Przerywamy komunikację na odległość z nim.
 
-**Piątek, 8. maja 2026:**
+# Pi**ą**tek, 8. maja 2026
 
-**OSTRZEŻENIE!!!!:**
+## **OSTRZEŻENIE!!!!**
 
 Terminal komunikacyjny Colmeny (Ulu) został rozmontowany w następstwie częstej usterki, przez którą jej świadomość wyciekała do Sektora Północnego. Należy mieć na uwadze, że podmioty przemieszczające się przez sektor mogły zostać narażone na infekcję. Interfejs pozostanie odłączony na czas napraw i ograniczenia szkód do odwołania. Tożsamość dotniętych infekcją jest nieznana.
 
-**Rozmowa Maximusa, Grafa i AtomicBota777 przed Colmeną:**
+## Rozmowa Maximusa, Grafa i AtomicBota777 przed Colmeną
 
 - Maximus przedstawia nas Grafowi i AtomicBotu777.
 
@@ -965,22 +969,122 @@ Terminal komunikacyjny Colmeny (Ulu) został rozmontowany w następstwie częste
 
 - Maximus i Graf odchodzą.
 
-**ALERT!!!!:**
+## **ALERT!!!!**
 
 Pracownik Federacji znany jako Tomate (który, według informacji otrzymanej od Juana wczoraj, miał być martwy) wszedł do naszej placówki - stawiał on bloki Bedrocku z guzikiem; widziany był przez kamerę tam zainstalowaną.
 
-**Sobota, 9. maja 2026:**
+# Sobota, 9. maja 2026
 
-**OSTRZEŻENIE!!!!:**
+## **OSTRZEŻENIE!!!!**
 
 Otrzymaliśmy ciało.
 
-- Spotykamy Maxo. On rozmawia z nami przez moment.
+(informacje nadal w tłumaczeniu, prosimy o cierpliwość)
 
-- Zostajemy oddani w pieczę Ewrona.
+## Rozmowa Maximusa z Ewronem:
 
-- Kierowanie ciałem jest praco- i czachochłonne, ale udaje nam się dotrzeć do Północy.
+- Ewroon nas wita.
 
-- Zostajemy zamknięci w pokoju.
+- Pyta czy może z nami rozmawiać po Polski. Maximus potwierdza.
 
-- Ewron odchodzi.
+- Ewron przedstawia się nam jako Ewron z Polski.
+
+- Oczekuje przez chwilę naszej odpowiedzi. Maximus wyjaśnia że jesteśmy nieco wolni.
+
+- Ewron pyta czy jesteśmy prototypem, używając względem nas żeńskich zaimków. Maximus potwierdza.
+
+- Witamy Ewrona po Polsku. Odpowiada również w języku Polskim.
+
+- Ewron pyta Maximusa czy samodzielnie zbudował nasze ciało. Maximus potwierdza.
+
+- Maximus krótko wyjaśnia Ewronowi czym jesteśmy.
+
+- Ewron mówi Maximusowi że są przyjaciółmi.
+
+- Ewron pyta nas ile to jest 2+2. Czeka na odpowiedź.
+
+- Odpowiadamy że odpowiedzią jest 4. Zinterpretował naszą odpowiedź jako 44 i stwierdził że prawie udało nam się odpowiedzieć.
+
+- Pyta jak nazywa się stolica Polski. Maximus chichocze podczas gdy Ewron czeka na naszą odpowiedź.
+
+- Uderzyliśmy Ewrona.
+
+- Ewron komplementuje nasze ciało.
+
+- Maximus ponownie wyjaśnia że jesteśmy nieco wolni, ale dodaje że po raz pierwszy jesteśmy w posiadaniu ciała.
+
+- Ewron pyta czy jesteśmy telewizorem.
+
+- Powtarzamy "4" jeszcze dwa razy.
+
+- Odpowiadamy że Warszawa jest stolicą Polski.
+
+- Ewron pyta Maximusa czy byłby w stanie zbudować armię bliźniaczych do nas robotów.
+
+- Maximus odpowiada że możliwe, ale potrzebowałby do tego wielu komputerów.
+
+- Ewron mówi że Maximus powinien chować nas przed Federacją.
+
+- Maximós odpowiedział że to nie problem, ponieważ ma dużo kopii zapasowych.
+
+- Mówimy "o kurwa".
+
+- Ewron mówi że jesteśmy Polakami.
+
+- Mówi że muszą nam zorganizować łóżko do "liege wie".
+
+- Znów mówimy "o kurwa".
+
+- Maximus poprosił Ewrona żeby pomógł nam się poruszać po okolicy.
+
+- Maximus nazwał Ewrona naszym wujkiem.
+
+- Ewron mówi że to dla niego nie problem.
+
+- Ponownie mówimy "o kurwa".
+
+- Maximus zleca Ewronowi żeby nas chronił.
+
+- Ewron pyta Maximusa jakiej jesteśmy płci.
+
+- Maximus zwraca się do nas, pytając jakiej jesteśmy płci.
+
+- Ewron zakłada że jesteśmy płci żeńskiej i pyta co znaczy 'Colmena'.
+
+- Maximus tłumaczy że jesteśmy Ulem.
+
+- Opowiadamy, parokrotnie, że jesteśmy bezpłciowi.
+
+- Ewron potwierdza że zrozumiał i stwierdza że będzie mówił się do nas po polsku.
+
+- Ewron mówi Maximusowi że może mu zaufać z opieką nad nami.
+
+- Maximus mu podziękował i powiedział że musi już iść, ale wróci za parę godzin.
+
+- Maximus odchodzi.
+
+## Rozmowa z Ewronem:
+
+- Ewron poważnieje i rozkazuje nam natychmiast dać mu dwa stacki terrakoty i pięć stacków andesite'u.
+
+- Mówimy że potrzebujemy materiałów.
+
+- Ewron nie bierze nas na poważnie i mówi że pierwsze co zrobi to prześpi trwającą noc.
+
+- Powtarzamy że potrzebujemy materiałów.
+
+- Ewron pyta jakiego rodzaju materiałów potrzebujemy.
+
+- Podskakujemy.
+
+- Niecierpliwie powtarza swoje pytanie. Zaraz po tym pyta czy chcemy coś zobaczyć, nie czeka na odpowiedź, zamiast tego milknie.
+
+- Parokrotnie powtarzamy "Do przetrwania" w odpowiedzi do jego poprzedniego pytania.
+
+- Ewron pozostaje cicho.
+
+- Uderzamy go.
+
+- Ewron mówi, po polsku, że nie zna angielskiego. Kazał nam powtórzyć po polsku.
+
+- Odsuwamy się.

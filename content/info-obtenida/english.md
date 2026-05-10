@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 12:19:16"
+updated: "2026-05-10 19:58:09"
 ---
 
 > [!warning]
@@ -934,14 +934,6 @@ The Colmena communications unit has been dismantled following a high-frequency g
 
 - AtomicBot777 tells him that he doesn't know and calls Maximus dad. (????)
 
-- Maximus asks AtomicBot777 to approach him behind the terminal.
-
-- Maximus asks AtomicBot777 to crouch.
-
-- Maximus asks AtomicBot777 what would happen if he pressed one of its buttons.
-
-- AtomicBot777 tells him he doesn't know and calls Maximus dad. (????)
-
 - Maximus presses the button and AtomicBot777 speaks in English.
 
 - Maximus asks AtomicBot777 to turn around again and crouch down.
@@ -953,12 +945,6 @@ The Colmena communications unit has been dismantled following a high-frequency g
 - Maximus presses another button and AtomicBot777 starts talking aggressively.
 
 - Maximus crouches down and presses another button located in AtomicBot777's genital area.
-
-- AtomicBot777 is back to normal.
-
-- Maximus starts tapping that button several times repeatedly trying to shut down AtomicBot777.
-
-- It looks like AtomicBot777 has shut down. Maximus crouches down and presses another button located in AtomicBot777's genital area.
 
 - AtomicBot777 is back to normal.
 
@@ -986,7 +972,221 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 ## Conversation between Maximus and Ewroon
 
+- Ewroon greets us.
+
+- He asks if he can speak with us in Polish. Maximus confirms.
+
+- Ewroon goes on to introduce himself as Ewroon from Poland.
+
+- He seems to be waiting for our answer. Maximus says the Colmena is a bit slow.
+
+- Ewroon asks if we are a prototype, using the "she" pronoun. Maximus confirms.
+
+- We greet Ewroon in Polish. He replies in Polish.
+
+- Ewroon asks Maximus whether he's built our body himself. Maximus confirms.
+
+- Maximus explains briefly what we are.
+
+- Ewroon tells Maximus they're friends.
+
+- Ewroon asks us how much is 2+2. He waits for an answer.
+
+- We answer it's four. He interprets it as fourty-four and says we almost got it right.
+
+- He asks what the capital of Poland is. Maximus chuckles as Ewroon waits for an answer again.
+
+- We hit Ewroon.
+
+- Ewroon says our body is really good.
+
+- Maximus explains we're a bit slow, but that it is our first time having a body.
+
+- Ewroon asks whether we are a TV.
+
+- We say four two times again.
+
+- We say the capital of Poland is Warsaw (Warszawa).
+
+- Ewroon asks Maximus if he can build an army of robots like us.
+
+- Maximus says that maybe, and that he would need a lot of computers.
+
+- Ewroon says he needs to hide us from the Federation.
+
+- Maximus says that that is not a problem as he has a lot of security copies.
+
+- We say 'o kurwa'.
+
+- Ewroon says we are Polish.
+
+- He says they need to give us a bed for ‘liege wie’.
+
+- We say ‘o kurwa’ again.
+
+- Maximus asks Ewroon to help us get around.
+
+- Maximus says Ewroon is our uncle.
+
+- Ewroon says it’s no problem.
+
+- We say ‘o kurwa’ again.
+
+- Maximus tells Ewroon to protect us.
+
+- Ewroon asks Maximus what gender we are.
+
+- Maximus addresses us, asking what gender we are.
+
+- Ewroon assumes we are a ‘she’ and asks what ‘Colmena’ means.
+
+- Maximus translates that we are the Hive.
+
+- We answer, repeatedly, that we do not possess a gender.
+
+- Ewroon acknowledges and says he will talk to us in Polish.
+
+- He tells Maximus he can trust Ewroon with taking care of us.
+
+- Maximus thanks him and says he needs to go, but that he will be back in a couple hours.
+
+- Maximus leaves.
+
 ## Conversation with Ewroon
+
+- Ewroon turns serious and orders us to bring him two stacks of terracotta and five stacks of andesite immediately.
+
+- We say we need materials.
+
+- Ewroon doesn’t take us seriously and says the first thing we will be doing is sleeping.
+
+- We repeat that we need materials.
+
+- Ewroon asks what kind of materials.
+
+- We jump.
+
+- He repeats the question impatiently. He asks us if we want to see something, doesn’t wait for an answer. He goes quiet.
+
+- We repeatedly say ‘to survive’ in response to his previous question.
+
+- Ewroon stays quiet.
+
+- We hit him.
+
+- Ewroon says, in Polish, that he doesn’t know English. He requests we say it in Polish.
+
+- We step back.
+
+- We request food, in English.
+
+- Ewroon says that if we are, in fact, a bee, we should pay attention to him. He disappears, and reappears a moment later. He says that in that case, he is a cockroach.
+
+- He greets us again.
+
+- He says he is our cockroach.
+
+- He tells us to follow him to the store, and says he has a house ready for us.
+
+- We ask him for food and he throws us some.
+
+- We do not pick it up immediately, so he hits us with the cardboard sword. The knockback makes us pick up the food.
+
+- He says he understands now that we are ‘Intel I3’.
+
+- He tells us to enjoy our meal.
+
+- We throw a piece back at him. We hit him by accident.
+
+- He tells us that we are a bad robot and threatens to put us in a toaster.
+
+- He commands us to eat.
+
+- We say thank you.
+
+- He says that we are welcome and realises something.
+
+- He says there is a long way ahead of us.
+
+- He gifts us a hat.
+
+- We hit him.
+
+- He hits us with a cardboard sword again, saying that he is not Maximus and he won’t let himself be pushed around. He warns he will reciprocate, should we hit him again, and that he will use an actual sword to do it.
+
+- We say ‘o kurwa’.
+
+- He agrees and warns not to fuck with the cockroach.
+
+- We repeat ‘o kurwa’.
+
+- He leads us towards Żabka, using the cardboard sword to push us in the right direction.
+
+- We say ‘stop stop’.
+
+- He yells ‘box’.
+
+- He asks us to yell the loudest ‘box stop’ on the server with him. He asks us to say ‘stop’ after he yells ‘box’, and questions if it will be too long for us.
+
+- He repeats the question.
+
+- We say ‘the North’.
+
+- He says that it’s far away and that we first need to do the ‘box stop’ and only then will we go to the North.
+
+- We repeat ‘the North’ and hit him.
+
+- He hits us with the cardboard sword again.
+
+- He repeats the ‘box stop’ instructions.
+
+- We say ‘ok ok’ repeatedly.
+
+- He yells ‘box’.
+
+- We reply ‘stop stop’ repeatedly.
+
+- He tells us to follow him towards the North. He addresses us as ‘Projecto Colmena’.
+
+- He pushes us with the cardboard sword, explaining impatiently and incoherently why he does it.
+
+- We stop in front of the Żabka store. He goes inside.
+
+- He keeps talking out of our earshot.
+
+- We approach the store.
+
+- He exits the shop and panics, saying that he has lost us. He sees us soon and is audibly relieved, saying that we have simply walked into a wall.
+
+- We break two of his shop’s window panes.
+
+- He hits us and our body catches on fire.
+
+- He says, irritatedly, that it is supposed to hurt.
+
+- He instructs us to get into a boat.
+
+- We apologise.
+
+- He says that he will start appreciating KatieB.
+
+- He complains that a cat is easier to get into a boat while pushing us around with the cardboard sword.
+
+- He instructs us on how to get into the boat.
+
+- He pushed us with the cardboard sword into his store.
+
+- We get thrown into one of his machines. We take damage in the process.
+
+- Ewroon demands we make him a hot-dog.
+
+- Our body gets seriously hurt.
+
+- Ewroon panics and then gets us out of the machine.
+
+- We activate an alarm.
+
+(work in progress)
 
 ## Conversation with AldoGeo
 

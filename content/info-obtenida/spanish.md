@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 12:19:16"
+updated: "2026-05-10 19:58:09"
 ---
 
 > [!warning]
@@ -10,7 +10,7 @@ updated: "2026-05-10 12:19:16"
 
 **INFORMACIÓN OBTENIDA -  PROYECTO COLMENA**
 
-**MONTH OF MAY**
+**MES DE MAYO**
 
 ***Recuerda: “La Colmena”  tiene todos los recuerdos de Maxo (QSMP1 y QSMP2). A partir de ahora, aprende de otros creadores de contenido.***
 
@@ -1002,37 +1002,25 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Maximus ha traído a Erwon, para que la colmena lo conozca.
 
-- Colmena consigue hablar con Erwon con algunas palabras.
+- Colmena consigue hablar con Ewron con algunas palabras.
 
 - Maximus nos ha dejado a cargo de Erwon.
 
 ## Conversación con Ewroon
 
-- Erwon nos ha pegado con un palo.
-
-- Erwon nos ha matado dos veces.
-
-- Conseguimos subirnos a un bote.
-
-- Erwon, nos lleva al norte teletransportandose en un bote.
-
-- Intentamos buscar la habitación de Maximus con ayuda de Erwon.
-
-- Conseguimos llegar a la habitación.
-
-- Hemos guardado un punto de respawn en la cama que nos ha dado Erwon.
+- **Esperando a la traducción polaca**
 
 ## Conversación con AldoGeo
 
 - Nos ha dicho Aldo que le digamos a Maximus que el pico nos lo dio Erwon.
 
-- Hemos visto a Aldo, nos ha dado bombas, un pico y nos ha enseñado un tren.
+- Hemos visto a Aldo, nos ha dado bombas, un pico y nos ha enseñado un tren. Intento que manejemos el tren.
 
 - Aldo nos ha atropellado con el tren.
 
 - Aldo nos ha pegado, y hemos activado la función de “Activación de alarma” que parece que el usuario Aldo lo ha confundido con un modo “autodestrucción o destrucción”.
 
-- Aldo nos dio la misión de impedir que “Faris” entre a la mansión porque está infectado con radiación. Nos dijo que podríamos usar la fuerza bruta si es necesario. Le dijimos que podemos usar la fuerza bruta en contra de otros humanos.
+- Aldo nos dio la misión de impedir que “Faris” entre a la mansión. Nos dijo que podríamos usar la fuerza bruta si es necesario. Le dijimos que no podemos usar la fuerza bruta en contra de otros humanos.
 
 # Domingo, 10 de mayo 2026
 

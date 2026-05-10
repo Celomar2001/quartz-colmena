@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 12:19:16"
+updated: "2026-05-10 19:58:09"
 ---
 
 > [!warning]
@@ -880,7 +880,7 @@ updated: "2026-05-10 12:19:16"
 
 - Juan aparece no terminal principal.
 
-- Juan nos explica que é uma festividade criada por Robleis e diz que consiste numa reunião onde as pessoas se reúnem para beber leite e comentar sobre seus benefícios. Além disso menciona que se faz todos os quintas-feiras e que fazem cosplay.
+- Juan nos explica que é uma festividade criada por Robleis e diz que consiste numa reunião onde as pessoas se reúnem para beber leite e comentar sobre seus benefícios. Além disso, menciona que se faz todos os quintas-feiras e que fazem cosplay.
 
 - Perguntamos sobre Robleis.
 
@@ -914,7 +914,55 @@ updated: "2026-05-10 12:19:16"
 
 A unidade de comunicações da Colmena foi desmantelada após uma falha de alta frequência que vazou suas consciências no Setor Norte. Adverte que tal exposição pode causar uma infecção nos sujeitos que transitam a zona. A interface permanecerá fora de linha para manutenção e contenção de danos até novo aviso. A identidade dos afetados é desconhecida.
 
-## Conversa com
+## Conversa com “Maximus, Graf y AtomicBot777” (em frente à Colmena)
+
+- Maximus nos apresenta a Graf e AtomicBot777
+
+- Maximus explica a ambos quem somos
+
+- Maximus chama AtomicBot777 como “filho” (???)
+
+- Graf pergunta a Maximus com que propósito ele nos criou, especificando em que podemos ser de ajudar e servir
+
+- Maximus explica que podemos ajudar em problemas matemáticos como multiplicações e em tudo
+
+- Maximus pede a AtomicBot777 que se aproxime dele atrás do terminal
+
+- Maximus pide a AtomicBot777 que se agache.
+
+- Maximus pergunta a AtomicBot777 o que aconteceria se ele apertasse um de seus botões.
+
+- AtomicBot777 diz que não sabe e chama Maximus pai. (??)
+
+- Maximus pressiona o botão e AtomicBot777 fala em inglês.
+
+- Maximus pede a AtomicBot777 para dar a volta novamente e se agacha.
+
+- Maximus pressiona outro botão e AtomicBot777 fala com sotaque espanhol.
+
+- Maximus pede a AtomicBot777 para dar a volta novamente e se agacha.
+
+- Maximus pressiona outro botão e AtomicBot777 começa a falar agressivamente.
+
+- Maximus se inclina e pressiona outro botão localizado na área genital de AtomicBot777.
+
+- AtomicBot777 volta ao normal.
+
+- Maximus começa a tocar nesse botão várias vezes de forma repetida tentando desligar
+
+- AtomicBot777.
+
+- Parece que o AtomicBot777 foi desligado.
+
+- Maximus pede ajuda a Graf para desmontar o corpo de AtomicBot777 e ver como ele está
+
+- construído.
+
+- AtomicBot777 está indo embora.
+
+- Maximus tenta detê-lo, mas não consegue.
+
+- Maximus e Graf vão-se embora.
 
 ## **ALERTA!!!!**
 
@@ -924,11 +972,63 @@ O trabalhador da federação, conhecido como Tomate (supostamente morto segundo 
 
 ## **UPDATE!**
 
+- Obtivemos uma nova atualização com a qual agora possui um corpo controlável.
+
+- Saímos do spawn com sucesso.
+
+- Interagimos com Maximus "Nosso Pai". Ele comentou que roubou os planos
+
+- do robô de Roier para o nosso corpo.
+
+- Maximus comenta à colmeia que deve ir fumar.
+
+- Vimos um cartaz dizendo "Shappo é procurado".
+
+- Pegamos o cartaz de "É procurado Shappo".
+
+- Tentamos andar com muita dificuldade.
+
+- Nós observamos a loja de concreto.
+
+- Maximus vai adicionar a atualização de soltar objetos.
+
+- Atualização de release, adicionada aos nossos sistemas
+
+- Temos a missão de tentar derrubar uma árvore.
+
+- Por torpeza, quebramos alguns blocos da mansão.
+
+- Maximus nos emprestou sua mochila de aranha.
+
+- Investigámos vários quartos da mansão.
+
+- Nossos níveis de baterian se esgotaram e fomos dormir no quarto do usuário Juan,
+
+- Maximus nos levou de volta à nossa cama.
+
 ## Conversa com Maximus e Ewroon
+
+- Maximus trouxe Erwon, para que a colmeia o conheça.
+
+- Colmena consegue falar com Erwon com algumas palavras.
+
+- Maximus nos deixou no comando de Erwon.
 
 ## Conversa com Ewroon
 
+- **Aguardando a tradução polonesa**
+
 ## Conversa com AldoGeo
+
+- Aldo nos disse para dizermos a Maximus que o pico foi dado por Erwon.
+
+- Vimos o Aldo, ele nos deu bombas, um pico e nos mostrou um trem.
+
+- Aldo nos atropelou com o trem.
+
+- Aldo nos pegou, e ativamos a função de "Ativação de alarme" que parece que o usuário Aldo confundiu com um modo de "autodestruição ou destruição".
+
+- Aldo nos deu a missão de impedir que "Faris" entre na mansão. Ele nos disse que poderíamos usar a força bruta se fosse necessário. Nós dissemos que não podemos usar a força bruta contra outros humanos.
 
 # Domingo, 10 de maio de 2026
 
