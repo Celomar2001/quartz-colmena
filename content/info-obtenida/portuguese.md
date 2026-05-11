@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 19:58:09"
+updated: "2026-05-11 09:52:54"
 ---
 
 > [!warning]
@@ -1030,6 +1030,6 @@ O trabalhador da federação, conhecido como Tomate (supostamente morto segundo 
 
 - Aldo nos deu a missão de impedir que "Faris" entre na mansão. Ele nos disse que poderíamos usar a força bruta se fosse necessário. Nós dissemos que não podemos usar a força bruta contra outros humanos.
 
-# Domingo, 10 de maio de 2026
+# Segunda-feira, 11 de maio de 2026
 
 ## Conversa com

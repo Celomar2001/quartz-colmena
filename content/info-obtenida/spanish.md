@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 19:58:09"
+updated: "2026-05-11 09:52:54"
 ---
 
 > [!warning]
@@ -996,15 +996,91 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Hemos investigado varias habitaciones de la mansión.
 
-- Nuestros niveles de baterian se agotaron y fuimos a dormir a la habitación del usuario Juan, Maximus nos llevó de vuelta a nuestra cama.
+- Nuestros niveles de batería se agotaron y fuimos a dormir a la habitación del usuario Juan, Maximus nos llevó de vuelta a nuestra cama.
 
 ## Conversación entre Maximus y Ewroon
 
-- Maximus ha traído a Erwon, para que la colmena lo conozca.
+- Maximus ha traído a Ewroon, para que la colmena lo conozca.
 
-- Colmena consigue hablar con Ewron con algunas palabras.
+- Ewroon nos saluda.
 
-- Maximus nos ha dejado a cargo de Erwon.
+- Pregunta si puede hablar con nosotros en polaco. Maximus lo confirma.
+
+- Ewroon se presenta como Ewroon de Polonia.
+
+- Parece que está esperando nuestra respuesta. Maximus dice que el Colmena es un poco lento.
+
+- Ewroon pregunta si somos un prototipo, usando el pronombre "ella". Maximus lo confirma.
+
+- Saludamos a Ewroon en polaco. Él responde en polaco.
+
+- Ewroon pregunta a Máximo si él mismo ha construido nuestro cuerpo. Maximus lo confirma.
+
+- Maximus le explica brevemente qué somos.
+
+- Ewroon le dice a Máximo que son amigos.
+
+- Ewroon nos pregunta cuánto es 2+2. Espera una respuesta.
+
+- Respondemos que son cuatro. Él lo interpreta como cuarenta y cuatro y dice que casi lo hemos conseguido.
+
+- Pregunta cuál es la capital de Polonia, Maximus se ríe mientras Ewroon espera otra respuesta.
+
+- Le pegamos a Ewroon.
+
+- Ewroon dice que nuestro cuerpo es realmente bueno.
+
+- Maximus explica que vamos un poco lentos, pero que es la primera vez que tenemos un cuerpo.
+
+- Ewroon pregunta si somos una televisión.
+
+- Decimos cuatro dos veces más.
+
+- Decimos que la capital de Polonia es Warsaw (Warszawa).
+
+- Ewroon le pregunta a Maximus si puede construir un ejército de robots como nosotros.
+
+- Maximus dice que quizá, y que necesitaría muchos ordenadores.
+
+- Ewroon dice que necesita escondernos de la Federación.
+
+- Maximus dice que eso no es un problema porque tiene muchas copias de seguridad.
+
+- Decimos 'o kurwa'.
+
+- Ewroon dice que ya somos polacos.
+
+- Dice que necesitan darnos una cama para el 'liege wie'.
+
+- Decimos 'o kurwa' otra vez.
+
+- Maximus pide ayuda a Řuron para movernos.
+
+- Maximus dice que Ewroon es nuestro tío.
+
+- Ewroon dice que no hay problema.
+
+- Decimos 'o kurwa' otra vez.
+
+- Maximus le dice a Ewroon que nos proteja.
+
+- Ewroon pregunta a Maximus qué género somos.
+
+- Maximus se dirige a nosotros, preguntando de qué género somos.
+
+- Ewroon asume que somos una 'ella' y pregunta qué significa 'Colmena'.
+
+- Maximus traduce que somos the Hive.
+
+- Respondemos, repetidamente, que no poseemos un género.
+
+- Ewroon lo confirma y dice que hablará con nosotros en polaco.
+
+- Ewroon le dice a Maximus que puede confiar en él para cuidarnos.
+
+- Maximus le da las gracias y dice que tiene que irse, pero que volverá en un par de horas.
+
+- Maximus se va.
 
 ## Conversación con Ewroon
 
@@ -1016,12 +1092,52 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Hemos visto a Aldo, nos ha dado bombas, un pico y nos ha enseñado un tren. Intento que manejemos el tren.
 
-- Aldo nos ha atropellado con el tren.
+- Aldo nos ha atropellado con el tren accidentalmente.
 
 - Aldo nos ha pegado, y hemos activado la función de “Activación de alarma” que parece que el usuario Aldo lo ha confundido con un modo “autodestrucción o destrucción”.
 
-- Aldo nos dio la misión de impedir que “Faris” entre a la mansión. Nos dijo que podríamos usar la fuerza bruta si es necesario. Le dijimos que no podemos usar la fuerza bruta en contra de otros humanos.
+(Trabajo en proceso)
+
+## Conversación con Maximus
+
+- Llamamos por “Papá” a Maximus al caernos de arriba, pidiendo ayuda.
+
+- Llega Maximus preguntando por qué su radar detectó que sufrimos daño muy fuerte y qué nos ha pasado
+
+- Decimos “Ya no me gustó tener patitas”
+
+- Maximus se ríe de nosotros preguntando si queríamos volver a la terminal
+
+- Le decimos “Me caí”
+
+- Maximus nos da una corta charla de que si él siempre nos está ayudando no vamos a progresar, debemos aprender de nuestros errores
+
+- Le decimos que nos chocó un tren
+
+- Maximus extrañado por el choque del tren nos dice que los trenes pasan por las vías y si nos chocó un tren es porque nos pusimos en medio de las vías
+
+- Le decimos que sí
+
+- Maximus nos dice que intentemos no ponernos en las vías del tren y que intentemos no caernos
+
+- Maximus dice que nos dará un regalo
+
+- Le decimos que fue un accidente (refiriéndonos al choque que tuvimos con el tren)
+
+- Maximus dice que es normal, que estamos aprendiendo y que hay que tener paciencia
+
+- Maximus nos da su mochila de araña para poder trepar paredes
+
+- Maximus nos dice que es la única que tiene y se va a quedar sin la capacidad de trepar paredes
+
+- Le decimos “Gracias papá”
+
+- Maximus dice que nos quedemos quietas y nos ayuda a colocarnos la mochila
 
 # Domingo, 10 de mayo 2026
 
-## Conversación
+- Los niveles de batería de colmena siguen bajos, por lo que nuestro cuerpo ha permanecido en la habitación de nuestro creador: Maximus. No se detectó ningún movimiento a nuestro alrededor.
+
+# Lunes, 11 de mayo 2026
+
+## Conversación con

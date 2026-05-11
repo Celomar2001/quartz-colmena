@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 19:58:09"
+updated: "2026-05-11 09:52:54"
 ---
 
 > [!warning]
@@ -1064,53 +1064,31 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - Ewroon asks what kind of materials.
 
-- We jump.
-
 - He repeats the question impatiently. He asks us if we want to see something, doesn’t wait for an answer. He goes quiet.
 
 - We repeatedly say ‘to survive’ in response to his previous question.
 
-- Ewroon stays quiet.
-
-- We hit him.
-
 - Ewroon says, in Polish, that he doesn’t know English. He requests we say it in Polish.
 
-- We step back.
-
-- We request food, in English.
+- We step back. We request food, in English.
 
 - Ewroon says that if we are, in fact, a bee, we should pay attention to him. He disappears, and reappears a moment later. He says that in that case, he is a cockroach.
 
-- He greets us again.
-
-- He says he is our cockroach.
+- He greets us again and says he is our cockroach.
 
 - He tells us to follow him to the store, and says he has a house ready for us.
 
-- We ask him for food and he throws us some.
+- We ask him for food and he throws us some. We do not pick it up immediately, so he hits us with the cardboard sword. The knockback makes us pick up the food.
 
-- We do not pick it up immediately, so he hits us with the cardboard sword. The knockback makes us pick up the food.
+- He says he understands now that we are ‘Intel I3’. He tells us to enjoy our meal.
 
-- He says he understands now that we are ‘Intel I3’.
-
-- He tells us to enjoy our meal.
-
-- We throw a piece back at him. We hit him by accident.
-
-- He tells us that we are a bad robot and threatens to put us in a toaster.
+- We throw a piece back at him. We hit him by accident. He tells us that we are a bad robot and threatens to put us in a toaster.
 
 - He commands us to eat.
 
 - We say thank you.
 
-- He says that we are welcome and realises something.
-
-- He says there is a long way ahead of us.
-
 - He gifts us a hat.
-
-- We hit him.
 
 - He hits us with a cardboard sword again, saying that he is not Maximus and he won’t let himself be pushed around. He warns he will reciprocate, should we hit him again, and that he will use an actual sword to do it.
 
@@ -1121,10 +1099,6 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 - We repeat ‘o kurwa’.
 
 - He leads us towards Żabka, using the cardboard sword to push us in the right direction.
-
-- We say ‘stop stop’.
-
-- He yells ‘box’.
 
 - He asks us to yell the loudest ‘box stop’ on the server with him. He asks us to say ‘stop’ after he yells ‘box’, and questions if it will be too long for us.
 
@@ -1138,31 +1112,19 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - He hits us with the cardboard sword again.
 
-- He repeats the ‘box stop’ instructions.
-
-- We say ‘ok ok’ repeatedly.
-
-- He yells ‘box’.
-
-- We reply ‘stop stop’ repeatedly.
-
 - He tells us to follow him towards the North. He addresses us as ‘Projecto Colmena’.
 
 - He pushes us with the cardboard sword, explaining impatiently and incoherently why he does it.
 
-- We stop in front of the Żabka store. He goes inside.
-
-- He keeps talking out of our earshot.
+- We stop in front of the Żabka store. He goes inside. He keeps talking out of our earshot.
 
 - We approach the store.
 
-- He exits the shop and panics, saying that he has lost us. He sees us soon and is audibly relieved, saying that we have simply walked into a wall.
+- He exits the shop and panics that he has lost us. He sees us soon and is audibly relieved.
 
 - We break two of his shop’s window panes.
 
 - He hits us and our body catches on fire.
-
-- He says, irritatedly, that it is supposed to hurt.
 
 - He instructs us to get into a boat.
 
@@ -1174,22 +1136,50 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - He instructs us on how to get into the boat.
 
-- He pushed us with the cardboard sword into his store.
-
-- We get thrown into one of his machines. We take damage in the process.
+- He pushed us with the cardboard sword into his store. We get thrown into one of his machines. We take damage in the process.
 
 - Ewroon demands we make him a hot-dog.
 
-- Our body gets seriously hurt.
-
-- Ewroon panics and then gets us out of the machine.
+- Our body gets seriously hurt. Ewroon panics and then gets us out of the machine.
 
 - We activate an alarm.
+
+- We get into the boat. Ewroon tells us to get out of it. We hit him, and he hits us with his sword.
+
+- Fariis47 appears. He greets Ewroon.
+
+- We and Ewroon warp to the North mansion.
+
+- He asks us whether this is our home. We do not reply and he leaves, saying that he will find us a room. We ask for food and thank him once we’re given it.
+
+- He asks us where our room is.
+
+- We answer that we want to go to Maximus’ room. He starts leading us to it.
+
+- We request he talk to us in English. He replies that Maximus must have lied to him.
+
+- He goes forward to look for Maximus’ room. He insists it is downstairs, while we repeatedly say it is on the second floor. We instruct him that it is the empty room in front of Chapati’s.
+
+- We make it to Maximus’ room.
 
 (work in progress)
 
 ## Conversation with AldoGeo
 
+- Aldo told us to tell Maximus that the pickaxe was given to us by Erwon.
+
+- We have seen Aldo, he has given us bombs, a pickaxe and has shown us a train. I try to get us to drive the train.
+
+- Aldo has accidentally run us over with the train.
+
+- Aldo has hit us, and we have activated the "Alarm Activation" function that it seems that the user Aldo has mistaken it for a "self-destruct or destruction" mode”.
+
+**(****Waiting for the Spanish translation)**
+
 # Sunday, May 10, 2026
 
-## Conversation with
+- Colmena battery levels are still low, so our body has remained in the room of our creator: Maximus. No movement was detected around us.
+
+# Monday, May 11 2026
+
+Conversation with

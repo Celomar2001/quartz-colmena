@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-10 19:58:09"
+updated: "2026-05-11 09:52:54"
 ---
 
 > [!warning]
@@ -1061,8 +1061,6 @@ L’employé de la Fédération, connu sous le nom de Tomate (il était censé �
 - Nous répétons que nous avons besoin de matériaux.
 
 ## Conversation avec AldoGeo
-
-- kk
 
 # Dimanche 10 mai 2026
 
