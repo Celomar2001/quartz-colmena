@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-12 10:50:11"
+updated: "2026-05-12 18:37:17"
 ---
 
 > [!warning]
@@ -1154,7 +1154,55 @@ We've received a new update that gave us a controllable body.
 
 - Aldo has hit us, and we have activated the "Alarm Activation" function that it seems that the user Aldo has mistaken it for a "self-destruct or destruction" mode”.
 
-**(****Waiting for the Spanish translation)**
+## Conversation with Maximus
+
+- We call Maximus "Dad" when we fall on our feet, asking for help.
+
+- Maximus arrives asking why his radar detected that we suffered very heavy damage and what happened to us.
+
+- We say "I didn't like having paws any more".
+
+- Maximus laughs at us asking if we wanted to go back to the terminal.
+
+- We tell him "I fell”.
+
+- Maximus gives us a short talk that if he is always helping us we are not going to progress, we must learn from our mistakes.
+
+- We tell him that we were hit by a train.
+
+- Maximus, surprised by the train crash, tells us that trains pass through the tracks and if we were hit by a train it is because we got in the middle of the tracks.
+
+- We say yes.
+
+- Maximus tells us to try not to get on the train tracks and to try not to fall
+
+- Maximus says he'll give us a gift.
+
+- We tell him it was an accident (referring to the collision we had with the train).
+
+- Maximus says that it is normal, that we are learning and that we have to be patient.
+
+- Maximus gives us his spider backpack to be able to climb walls.
+
+- Maximus tells us that it is the only one he has and he will be left without the ability to climb walls.
+
+- We say, "Thank you, dad.".
+
+- Maximus tells us to stay still and helps us put on our backpack.
+
+- Maximus tells us to try it.
+
+- We started climbing the walls with Maximus saying "Come on, you can do it."
+
+- Maximus says he has a lot of work to do.
+
+- Maximus configures our system to be able to read in different languages.
+
+- Maximus tells us that we have our system set up for Spanish and English, so we can speak in both languages and it will be understood.
+
+- We thank Maximus
+
+- Maximus says goodbye saying that he will go to buy tobacco and come back, he assures us that he will come back and that he is not like those who go to buy tobacco and never come back.
 
 # Sunday, May 10, 2026
 
@@ -1163,5 +1211,11 @@ We've received a new update that gave us a controllable body.
 - Colmena battery levels are still low, so our body has remained in the room of our creator: Maximus. No movement was detected around us.
 
 # Monday, May 11 2026
+
+## **STAND-BY**
+
+- Colmena remained in Maxo's room with low battery levels. No movement was detected around us.
+
+Tuesday, May 12 2026
 
 Conversation with
