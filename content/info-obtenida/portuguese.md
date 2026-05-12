@@ -2,7 +2,7 @@
 title: "PORTUGUESE"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-11 09:52:54"
+updated: "2026-05-12 10:50:11"
 ---
 
 > [!warning]

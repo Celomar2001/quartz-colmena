@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-11 09:52:54"
+updated: "2026-05-12 10:50:11"
 ---
 
 > [!warning]
@@ -966,9 +966,37 @@ L’employé de la Fédération, connu sous le nom de Tomate (il était censé �
 
 # Samedi 9 mai 2026
 
-## **UPDATE!**
+## **MISE À JOUR!**
 
-- Nous avons reçu une nouvelle mise à jour qui lui donne maintenant un corps controllable
+- Nous avons reçu une nouvelle mise à jour qui nous donne maintenant un corps controllable
+
+- Nous avons éclos du spawn avec succès.
+
+- Nous avons interagi avec Maximus “Notre Père”. Il a mentionné avoir volé les plans du robot de Roier pour notre corps.
+
+- Maximus mentionne à la ruche qu’il doit aller chercher du tabac.
+
+- Nous avons vu une affiche disant “À la recherche de Shappo”.
+
+- Nous avons ramassé une affiche disant “À la recherche de Shappo”.
+
+- Nous avons du mal à marcher.
+
+- Nous avons vu la boutique à béton.
+
+- Maximus va ajouter la mise à jour concernant le lançage d’objet.
+
+- Mise à jour concernant le lançage d’objet ajouter à notre système.
+
+- Nous avons une mission : abattre un arbre.
+
+- Nous avons maladroitement cassé des blocs dans le manoir.
+
+- Maximus nous a prêté son sac à dos araignée.
+
+- Nous avons exploré plusieurs pièces du manoir.
+
+- Nos batteries étaient déchargées, alors nous sommes allées dormir dans la chambre de Juan. Maximus nous à ramenés à notre lit.
 
 ## Conversation entre Maximus et Ewroon
 
@@ -1060,8 +1088,130 @@ L’employé de la Fédération, connu sous le nom de Tomate (il était censé �
 
 - Nous répétons que nous avons besoin de matériaux.
 
+- Ewron nous demande quel type de matériaux.
+
+- Il répète la question impatiemment. Il nous demande si nous voulons voir quelque chose, et n’attend pas notre réponse. Il devient silencieux.
+
+- Nous disons répétitivement “pour survivre” en réponse à sa question précédente.
+
+- Ewron dit, en polonais, qu’il ne connait pas l’anglais. Il demande que nous le disions en polonais.
+
+- Nous reculons d’un pas. Nous demandons de la nourriture, en anglais.
+
+- Ewron dit que si nous sommes, en effet, une abeille, nous devrions lui porter attention. Il disparaît, et réapparaît un moment plus tard. Il dit que dans ce cas, il est une coquerelle.
+
+- Il nous salue de nouveau et dit qu’il est une coquerelle.
+
+- Il nous dit de le suivre vers le magasin, et dit qu’il a une maison prête pour nous.
+
+- Nous lui demandons de la nourriture et il nous en lance. Nous ne la ramassons pas immédiatement, donc il nous frappe avec l’épée de carton. Le recul (knockback) nous fait ramasser la nourriture.
+
+- Il dit qu’il comprend maintenant que nous sommes “Intel I3”. Il nous souhaite bon appétit.
+
+- Nous lui lançons un morceau de nourriture en retour. Nous le frappons par accident. Il nous dit que nous sommes un mauvais robot et nous menace de nous mettre dans un grille-pain.
+
+- Il nous ordonne de manger.
+
+- Nous disons merci.
+
+- Il nous donne un chapeau en cadeau.
+
+- Il nous frappe avec l’épée en carton encore, en disant qu’il n’est pas Maximus et qu’il ne se laissera pas le bousculer. Il nous prévient qu’il va réciproquer, si nous le frappons encore, et qu’il utilisera une vraie épée cette fois-ci.
+
+- Nous disons “oh kurwa”.
+
+- Il acquiesce et nous prévient de ne pas plaisanter avec la coquerelle.
+
+- Nous répétons “oh kurwa”.
+
+- Il nous mène vers le Żabka, en utilisant l’épée de carton pour nous pousser dans la bonne direction.
+
+- Il nous demande de hurler le “box stop” le plus fort de tout le serveur avec lui. Il nous demande de dire “stop" après qu’il ait hurlé “box”, et se questionne sur si c’est trop long pour nous.
+
+- Il répète la question.
+
+- Nous disons “the North” (le Nord en anglais).
+
+- Il dit que c’est loin et qu’en premier nous devons faire le “box stop” avec lui, et que nous allons aller au Nord uniquement après.
+
+- Nous répétons “the North” et nous le frappons.
+
+- Il nous frappe avec l’épée en carton à nouveau.
+
+- Il nous dit de le suivre vers le Nord. Il nous appelle “Projecto Colmena”.
+
+- Il nous pousse avec l’épée en carton, en expliquant impatiemment et incohéremment pourquoi il le fait.
+
+- On s’arrête devant le Żabka. Il entre à l’intérieur du magasin. Il continue de parler hors de portée de voix.
+
+- Nous approchons le magasin.
+
+- Il sort du magasin et panique parce qu’il nous a perdues. Il nous voit et est visiblement soulagé.
+
+- Nous brisons deux de ses carreaux de vitrine de magasin.
+
+- Il nous frappe et notre corps prend feu.
+
+- Il nous donne l’ordre d'embarquer dans un bateau.
+
+- Nous nous excusons.
+
+- Il dit qu’il va commencer à apprécier KaiteB.
+
+- Il se plaint qu'un chat est plus facile à embarquer dans un bateau, tout en nous poussant avec l’épée en carton.
+
+- Il nous donne des instructions à propos de comment embarquer dans un bateau.
+
+- Il nous pousse dans son magasin avec l’épée de carton. On se fait lancer dans une de ses machines. Nous subissons du dommage à cause de ces actions.
+
+- Ewron demande que nous lui fassions un hot-dog.
+
+- Notre corps est gravement endommagé. Ewron panique et nous sort de la machine.
+
+- Nous activons une alarme.
+
+- Nous embarquons dans le bateau. Ewron nous dit de débarquer. Nous le frappons et il nous frappe avec son épée.
+
+- Fariis47 apparaît. Il salue Ewron.
+
+- Nous et Ewron nous téléportons au manoir du Nord.
+
+- Il nous demande si c’est notre maison. Nous ne lui répondons pas et il quitte, disant qu’il va nous trouver une chambre. Nous demandons de la nourriture et le remercions une fois qu'il nous en donne.
+
+- Il nous demande où est notre chambre.
+
+- Nous répondons que nous voulons aller à la chambre de Maximus. Il commence à nous y guider.
+
+- Nous demandons qu’il nous parle en anglais. Il répond que Maximus doit lui avoir menti à propos de notre capacité à parler polonais.
+
+- Il part en avant pour trouver la chambre de Maximus. Il insiste qu’elle est en bas, alors que nous répétons qu’elle est au deuxième. Nous lui expliquons que c’est la chambre vide devant celle de Chapati.
+
+- Nous nous rendons à la chambre de Maximus.
+
+- Ewron quitte.
+
 ## Conversation avec AldoGeo
 
+- Aldo nous dit de dire à Maximus que la pioche (pickaxe) nous a été donnée par Ewron.
+
+- Nous avons vu Aldo, il nous a donné des bombes, une pioche et nous a montré un train. Nous essayons de conduire le train.
+
+- Aldo nous roule dessus accidentellement avec le train.
+
+- Aldo nous a frappé, et nous avons activé la fonction “Activation d’alarme” qu’il semble que l’utilisateur Aldo méprend pour un mode “d’auto-destruction” ou “de destructions”
+
+**(En attente de la traduction anglaise)**
+
+## Conversation avec Maximus
+
+**(En attente de la traduction anglaise)**
+
 # Dimanche 10 mai 2026
+
+## **EN VEILLE**
+
+- Les niveaux de batterie de Colmena sont toujours bas, donc notre corps reste dans la chambre de notre créateur: Maximus. Aucun mouvement n'est détecté autour de nous.
+
+# Lundi 11 mai 2026
 
 ## Conversation avec

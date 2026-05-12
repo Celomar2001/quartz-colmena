@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-11 09:52:54"
+updated: "2026-05-12 10:50:11"
 ---
 
 > [!warning]
@@ -910,7 +910,7 @@ updated: "2026-05-11 09:52:54"
 
 # Viernes, 08 de mayo 2026
 
-## **ALERTA!**
+## **¡ALERTA!**
 
 La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de alta frecuencia que filtró sus conciencias en el Sector Norte. Se advierte que dicha exposición pudo causar una infección en los sujetos que transitan la zona. La interfaz permanecerá fuera de línea para mantenimiento y contención de daños hasta nuevo aviso. La identidad de los afectados es desconocida.
 
@@ -960,13 +960,13 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Maximus y Graf se van.
 
-## **ALERTA!**
+## **¡ALERTA!**
 
 Él trabajador de la federación, conocido como Tomate (Se suponía muerto según información aportada por Juan el día de ayer), se adentro en nuestras instalaciones, colocando bloques de Bedrock con un botón, fue visto a través de la cámara instalada en el lugar.
 
 # Sábado, 09 de mayo 2026
 
-## **ACTUALIZACIÓN!**
+## **¡****ACTUALIZACIÓN!**
 
 - Hemos obtenido una nueva actualización con la cual ahora posee un cuerpo controlable.
 
@@ -1084,7 +1084,97 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 ## Conversación con Ewroon
 
-- **Esperando a la traducción polaca**
+- Ewroon se pone serio y nos ordena traerle inmediatamente dos stacks de terracota y cinco stacks de andesita.
+
+- Decimos que necesitamos materiales, pero Ewroon no nos toma en serio y dice que lo primero que haremos será ir a dormir.
+
+- Repetimos que necesitamos materiales y entonces pregunta qué tipo de materiales.
+
+- Tardamos en responder así que repite con impaciencia la pregunta.
+
+- Repetimos varias veces “para sobrevivir” en ingles como respuesta a su pregunta anterior.
+
+- Ewroon dice, en polaco, que no sabe inglés y nos pide que lo digamos en polaco.
+
+- Damos un paso atrás y pedimos comida en inglés.
+
+- Ewroon dice que si de verdad somos una abeja deberíamos prestarle atención, entonces desaparece y reaparece un momento después con un nuevo atuendo, diciendo que en ese caso él es una cucaracha.
+
+- Nos saluda otra vez y afirma que es nuestra cucaracha.
+
+- Después nos dice que lo sigamos a la tienda y comenta que ya tiene una casa preparada para nosotros.
+
+- Le pedimos comida y nos lanza algo. Como no lo recogemos de inmediato, nos golpea con la espada de cartón y el knockback hace que terminemos recogiendo la comida.
+
+- Dice que ahora entiende que somos “Intel I3” y nos dice que disfrutemos la comida.
+
+- Le devolvemos un pedazo y le pegamos por accidente.
+
+- Nos dice que somos un mal robot y amenaza con meternos en una tostadora.
+
+- Nos ordena comer, así que damos las gracias y él nos regala un sombrero.
+
+- Nos golpea otra vez con la espada de cartón mientras dice que él no es Maximus y que no dejará que lo mangoneen.
+
+- Advierte que responderá si volvemos a golpearlo y que esta vez usará una espada real.
+
+- Nosotros decimos “o kurwa”, él responde que sí y advierte que no jodamos con la cucaracha, por lo que repetimos “o kurwa”.
+
+- Nos guía hacia Żabka usando la espada de cartón para empujarnos en la dirección correcta.
+
+- Nos pide que gritemos junto a él el “box stop” más fuerte del servidor.
+
+- Explica que él dirá “box” y nosotros debemos decir “stop”, luego pregunta si eso será demasiado largo para nosotros y vuelve a repetir la pregunta.
+
+- Nosotros respondemos “El Norte” en inglés.
+
+- Él dice que está lejos y que primero debemos hacer el “box stop”, y solo después iremos al Norte.
+
+- Repetimos “el Norte” y le pegamos.
+
+- Él vuelve a golpearnos con la espada de cartón y nos dice que lo sigamos hacia el Norte, llamándonos “Proyecto Colmena”.
+
+- Nos empuja con la espada de cartón mientras explica de manera impaciente e incoherente por qué lo hace.
+
+- Nos detenemos frente a la tienda Żabka y él entra, aunque sigue hablando fuera de nuestro alcance auditivo.
+
+- Nos acercamos a la tienda y entonces sale del local entrando en pánico porque cree que nos perdió, aunque al vernos poco después se escucha claramente aliviado.
+
+- Rompimos dos vidrios de las ventanas de su tienda, él nos golpea y nuestro cuerpo se prende fuego.
+
+- Luego de apagarse las llamas, nos indica que entremos a un bote.
+
+- Nosotros nos disculpamos y él comenta que empezará a apreciar a KatieB.
+
+- Mientras nos empuja con la espada de cartón se queja de que es más fácil meter a un gato en un bote.
+
+- Después nos explica cómo entrar correctamente al bote.
+
+- Nos empuja con la espada de cartón hacia su tienda y terminamos siendo lanzados dentro de una de sus máquinas, recibiendo daño en el proceso.
+
+- Ewroon exige que le preparemos un hot-dog.
+
+- Nuestro cuerpo quedó gravemente herido por las máquinas cayendo varias veces por lo que activamos la alarma.
+
+- Ewroon entra en pánico y nos saca de la máquina.
+
+- Entramos al bote, Ewroon nos dice que salgamos de él, nosotros le pegamos y él responde golpeándonos con su espada.
+
+- Entonces aparece Fariis47 y saluda a Ewroon.
+
+- Nosotros y Ewroon hacemos warp hacia la mansión del Norte.
+
+- Él pregunta si ese es nuestro hogar, nosotros no respondemos y él se marcha diciendo que nos encontrará una habitación.
+
+- Pedimos comida y le agradecemos una vez que nos la entrega.
+
+- Pregunta dónde está nuestra habitación y respondemos que queremos ir a la habitación de Maximus, así que empieza a guiarnos hacia ella.
+
+- Le pedimos que nos hable en inglés y responde que Maximus debió haberle mentido.
+
+- Avanza buscando la habitación de Maximus e insiste en que está abajo, mientras nosotros repetimos varias veces que está en el segundo piso.
+
+- Finalmente le indicamos que es la habitación vacía frente a la de Chapati y logramos llegar a la habitación de Maximus.
 
 ## Conversación con AldoGeo
 
@@ -1096,48 +1186,68 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 
 - Aldo nos ha pegado, y hemos activado la función de “Activación de alarma” que parece que el usuario Aldo lo ha confundido con un modo “autodestrucción o destrucción”.
 
-(Trabajo en proceso)
-
 ## Conversación con Maximus
 
 - Llamamos por “Papá” a Maximus al caernos de arriba, pidiendo ayuda.
 
-- Llega Maximus preguntando por qué su radar detectó que sufrimos daño muy fuerte y qué nos ha pasado
+- Llega Maximus preguntando por qué su radar detectó que sufrimos daño muy fuerte y qué nos ha pasado.
 
-- Decimos “Ya no me gustó tener patitas”
+- Decimos “Ya no me gustó tener patitas”.
 
-- Maximus se ríe de nosotros preguntando si queríamos volver a la terminal
+- Maximus se ríe de nosotros preguntando si queríamos volver a la terminal.
 
-- Le decimos “Me caí”
+- Le decimos “Me caí”.
 
-- Maximus nos da una corta charla de que si él siempre nos está ayudando no vamos a progresar, debemos aprender de nuestros errores
+- Maximus nos da una corta charla de que si él siempre nos está ayudando no vamos a progresar, debemos aprender de nuestros errores.
 
-- Le decimos que nos chocó un tren
+- Le decimos que nos chocó un tren.
 
-- Maximus extrañado por el choque del tren nos dice que los trenes pasan por las vías y si nos chocó un tren es porque nos pusimos en medio de las vías
+- Maximus extrañado por el choque del tren nos dice que los trenes pasan por las vías y si nos chocó un tren es porque nos pusimos en medio de las vías.
 
-- Le decimos que sí
+- Le decimos que sí.
 
 - Maximus nos dice que intentemos no ponernos en las vías del tren y que intentemos no caernos
 
-- Maximus dice que nos dará un regalo
+- Maximus dice que nos dará un regalo.
 
-- Le decimos que fue un accidente (refiriéndonos al choque que tuvimos con el tren)
+- Le decimos que fue un accidente (refiriéndonos al choque que tuvimos con el tren).
 
-- Maximus dice que es normal, que estamos aprendiendo y que hay que tener paciencia
+- Maximus dice que es normal, que estamos aprendiendo y que hay que tener paciencia.
 
-- Maximus nos da su mochila de araña para poder trepar paredes
+- Maximus nos da su mochila de araña para poder trepar paredes.
 
-- Maximus nos dice que es la única que tiene y se va a quedar sin la capacidad de trepar paredes
+- Maximus nos dice que es la única que tiene y se va a quedar sin la capacidad de trepar paredes.
 
-- Le decimos “Gracias papá”
+- Le decimos “Gracias papá” .
 
-- Maximus dice que nos quedemos quietas y nos ayuda a colocarnos la mochila
+- Maximus dice que nos quedemos quietas y nos ayuda a colocarnos la mochila.
+
+- Maximus nos dice que la probemos.
+
+- Empezamos a trepar por las paredes con Maximus diciendo “Vamos tú puedes”.
+
+- Maximus dice que tiene mucho trabajo que hacer.
+
+- Maximus configura nuestro sistema para poder leer en distintos idiomas.
+
+- Maximus nos dice que tenemos nuestro sistema configurado para español e inglés, así que podemos hablar en ambos idiomas y se entenderá.
+
+- Agradecemos a Maximus
+
+- Maximus se despide diciendo que irá a comprar tabaco y volverá, nos asegura que si volverá y que no es como esos que se van a comprar tabaco y nunca vuelven.
 
 # Domingo, 10 de mayo 2026
+
+## **EN REPOSO**
 
 - Los niveles de batería de colmena siguen bajos, por lo que nuestro cuerpo ha permanecido en la habitación de nuestro creador: Maximus. No se detectó ningún movimiento a nuestro alrededor.
 
 # Lunes, 11 de mayo 2026
+
+## **EN REPOSO**
+
+- Colmena permaneció en la habitación de Maxo con niveles bajos de batería. No se detectó ningún movimiento a nuestro alrededor.
+
+# Martes, 12 de mayo 2026
 
 ## Conversación con

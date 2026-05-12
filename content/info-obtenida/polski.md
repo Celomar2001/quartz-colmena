@@ -2,7 +2,7 @@
 title: "POLSKI"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-11 09:52:54"
+updated: "2026-05-12 10:50:11"
 ---
 
 > [!warning]
@@ -975,11 +975,9 @@ Pracownik Federacji znany jako Tomate (który, według informacji otrzymanej od 
 
 # Sobota, 9. maja 2026
 
-## **OSTRZEŻENIE!!!!**
+## **AKTUALIZACJA!**
 
-Otrzymaliśmy ciało.
-
-(informacje nadal w tłumaczeniu, prosimy o cierpliwość)
+Przeszliśmy aktualizację, która dała nam kontrolę nad fizycznym ciałem.
 
 ## Rozmowa Maximusa z Ewronem:
 
@@ -1073,18 +1071,122 @@ Otrzymaliśmy ciało.
 
 - Powtarzamy że potrzebujemy materiałów.
 
-- Ewron pyta jakiego rodzaju materiałów potrzebujemy.
-
-- Podskakujemy.
-
-- Niecierpliwie powtarza swoje pytanie. Zaraz po tym pyta czy chcemy coś zobaczyć, nie czeka na odpowiedź, zamiast tego milknie.
+- Ewron pyta jakiego rodzaju materiałów potrzebujemy. Niecierpliwie powtarza swoje pytanie. Zaraz po tym pyta czy chcemy coś zobaczyć, nie czeka na odpowiedź, zamiast tego milknie.
 
 - Parokrotnie powtarzamy "Do przetrwania" w odpowiedzi do jego poprzedniego pytania.
 
-- Ewron pozostaje cicho.
-
-- Uderzamy go.
-
 - Ewron mówi, po polsku, że nie zna angielskiego. Kazał nam powtórzyć po polsku.
 
-- Odsuwamy się.
+- Odsuwamy się. Po angielsku prosimy o jedzenie.
+
+- Ewron mówi, że jeśli naprawdę jesteśmy pszczołą, to powinniśmy zwrócić na niego uwagę. Znika, za moment pojawia się znów. Mówi, że w takim wypadku on jest karaluchem.
+
+- Ponownie nas wita i nazywa siebie naszym karaluchem.
+
+- Każe nam iść za sobą do sklepu oraz że ma dla nas gotowe mieszkanie.
+
+- Prosimy go o jedzenie, a on daje nam trochę. Nie udaje nam się od razu podnieść przekazanego jedzenia; Ewron uderza nas kartonowym mieczem. Siła odrzutu sprawia, że chwytamy jedzenie.
+
+- Ewron mówi, że teraz rozumie, że jesteśmy ‘Intelem I3’. Życzy nam smacznego.
+
+- Rzucamy mu kawałek naszego jedzenia. Przypadkiem go uderzamy. Ewron nazywa nas złym robotem i grozi, że wrzuci nas do tostera.
+
+- Ewron każe nam jeść.
+
+- Dziękujemy mu.
+
+- Ewron sprezentowuje nam czapkę.
+
+- Ponownie uderza nas kartonowym mieczem, mówiąc że nie jest Maximusem i nie pozwoli sobie być popychanym. Ostrzega, że jeśli go następnym razem uderzymy, to nam odda i zrobi to właściwym mieczem.
+
+- Mówimy “o kurwa”.
+
+- Zgadza się z nami i ostrzega, by nie wkurwiać karalucha.
+
+- Powtarzamy “o kurwa”.
+
+- Ewron prowadzi nas w stronę Żabki, używając kartonowego miecza, by skierować nas w odpowiednią stronę.
+
+- Proponuje, byśmy z nim zrobili najgłośniejsze “box stop” na serwerze. Mówi nam, żebyśmy powiedzieli “stop” po tym, jak on sam powie “box” i pyta, czy to dla nas nie za długie.
+
+- Ewron powtarza pytanie.
+
+- Mówimy “Północ”.
+
+- Ewron mówi, że to daleko i że najpierw musimy zrobić “box stop”, a dopiero później zabierze nas do Północy.
+
+- Powtarzamy “Północ” i uderzamy go.
+
+- Ewron ponownie uderza nas kartonowym mieczem.
+
+- Zwraca się do nas “Projecto Colmena”, każąc iść za sobą w stronę Północy.
+
+- Popycha nas kartonowym mieczem, bezładnie i niecierpliwie wyjaśniając, dlaczego to robi.
+
+- Zatrzymujemy się przed Żabką. Ewron wchodzi do środka. Wychodzi poza zasięg naszego słuchu, nie przestając mówić.
+
+- Podchodzimy bliżej sklepu.
+
+- Ewron wychodzi ze sklepu i panikuje, że nas zgubił. Krótko później nas zauważa i odczuwa słyszalną ulgę.
+
+- Niszczymy dwie szyby jego sklepu.
+
+- Ewron nas uderza i nasze ciało zaczyna się palić.
+
+- Ewron instruuje nas jak wejść do łódki.
+
+- Przepraszamy go.
+
+- Ewron mówi, że zacznie doceniać KatieB.
+
+- Narzeka, że łatwiej kota wsadzić do łódki, popychając nas cały czas kartonowym mieczem.
+
+- Ponownie instruuje nas, jak wejść do łódki.
+
+- Kartonowym mieczem wpycha nas do swojego sklepu. Zostajemy wrzuceni do jednej z jego maszyn i otrzymujemy obrażenia.
+
+- Ewron każe nam zrobić mu hot-doga.
+
+- Nasze ciało otrzymuje poważne obrażenia. Ewron panikuje i wyciąga nas z maszyny.
+
+- Aktywujemy alarm.
+
+- Wchodzimy do łódki. Ewron mówi nam, żebysmy z niej wyszli. Uderzamy go, a on uderza nas swoim mieczem.
+
+- Fariis47 pojawia się i wita się z Ewronem.
+
+- Wraz z Ewronem teleportujemy się do Willi Północy.
+
+- Ewron pyta nas, czy to jest nasz dom. Nie odpowiadamy, a on oddala się, mówiąc, że znajdzie nam pokój. Prosimy go o jedzenie i dziękujemy, gdy nam je daje.
+
+- Pyta nas, gdzie jest nasz pokój.
+
+- Odpowiadamy, że chcemy iść do pokoju Maximusa. Ewron zaczyna nas tam prowadzić.
+
+- Prosimy, by rozmawiał z nami w języku angielskim. Ewron komentuje, że Maximus go oszukał co naszej umiejętności rozmowy po polsku.
+
+- Ewron szuka pokoju Maximusa. Nalega, że jest na dole, podczas gdy my powtarzamy, że na drugim piętrze. Instruujemy go, że jest to pusty pokój naprzeciw pokoju Chapatiego.
+
+- Docieramy do pokoju Maximusa.
+
+- Ewron odchodzi.
+
+## Rozmowa z AldoGeo:
+
+- Aldo prosi, żebyśmy powiedzieli Maximusowi, że to Ewron dał nam kilof.
+
+- Spotkaliśmy się z Aldo, dał nam bomby, kilof, oraz pokazał nam pociąg. Staramy się również pokierować pociągiem.
+
+- Aldo przypadkowo potrąca nas wspomnianym pociągiem.
+
+- Aldo nas uderza, a my aktywujemy alarm. Aldo zdaje się niepoprawnie odczytać to jako tryb autodestrukcji.
+
+**(Czekamy na angielskie tłumaczenie)**
+
+# Niedziela, 10. maja 2026
+
+## **STAND-BY**
+
+- Baterie Colmeny nadal są niskie, więc nasze ciało pozostaje w pokoju naszego twórcy: Maximusa. Wokół nas nie został wykryty żaden ruch.
+
+# Poniedziałek, 11. maja 2026

@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-11 09:52:54"
+updated: "2026-05-12 10:50:11"
 ---
 
 > [!warning]
@@ -968,7 +968,7 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 ## **UPDATE!**
 
-- We've received a new update that now gives it a controllable body.
+We've received a new update that gave us a controllable body.
 
 ## Conversation between Maximus and Ewroon
 
@@ -988,15 +988,9 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - Maximus explains briefly what we are.
 
-- Ewroon tells Maximus they're friends.
-
-- Ewroon asks us how much is 2+2. He waits for an answer.
-
-- We answer it's four. He interprets it as fourty-four and says we almost got it right.
+- Ewroon asks us how much is 2+2. He waits for an answer. We answer it's four. He interprets it as fourty-four and says we almost got it right.
 
 - He asks what the capital of Poland is. Maximus chuckles as Ewroon waits for an answer again.
-
-- We hit Ewroon.
 
 - Ewroon says our body is really good.
 
@@ -1004,21 +998,15 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - Ewroon asks whether we are a TV.
 
-- We say four two times again.
-
-- We say the capital of Poland is Warsaw (Warszawa).
+- We say four two times again. We say the capital of Poland is Warsaw (Warszawa).
 
 - Ewroon asks Maximus if he can build an army of robots like us.
 
 - Maximus says that maybe, and that he would need a lot of computers.
 
-- Ewroon says he needs to hide us from the Federation.
+- Ewroon says he needs to hide us from the Federation. Maximus says that that is not a problem as he has a lot of security copies.
 
-- Maximus says that that is not a problem as he has a lot of security copies.
-
-- We say 'o kurwa'.
-
-- Ewroon says we are Polish.
+- We say 'o kurwa'. Ewroon says we are Polish.
 
 - He says they need to give us a bed for ‘liege wie’.
 
@@ -1026,27 +1014,19 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - Maximus asks Ewroon to help us get around.
 
-- Maximus says Ewroon is our uncle.
-
-- Ewroon says it’s no problem.
-
-- We say ‘o kurwa’ again.
+- Maximus says Ewroon is our uncle. Ewroon says it’s no problem. We say ‘o kurwa’ again.
 
 - Maximus tells Ewroon to protect us.
 
-- Ewroon asks Maximus what gender we are.
+- Ewroon asks Maximus what gender we are. Maximus addresses us, asking what gender we are.
 
-- Maximus addresses us, asking what gender we are.
-
-- Ewroon assumes we are a ‘she’ and asks what ‘Colmena’ means.
-
-- Maximus translates that we are the Hive.
+- Ewroon assumes we are a ‘she’ and asks what ‘Colmena’ means. Maximus translates that we are the Hive.
 
 - We answer, repeatedly, that we do not possess a gender.
 
 - Ewroon acknowledges and says he will talk to us in Polish.
 
-- He tells Maximus he can trust Ewroon with taking care of us.
+- Ewroon tells Maximus he can trust him with taking care of us.
 
 - Maximus thanks him and says he needs to go, but that he will be back in a couple hours.
 
@@ -1082,7 +1062,7 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - He says he understands now that we are ‘Intel I3’. He tells us to enjoy our meal.
 
-- We throw a piece back at him. We hit him by accident. He tells us that we are a bad robot and threatens to put us in a toaster.
+- We throw a piece of food back at him. We hit him by accident. He tells us that we are a bad robot and threatens to put us in a toaster.
 
 - He commands us to eat.
 
@@ -1136,7 +1116,7 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - He instructs us on how to get into the boat.
 
-- He pushed us with the cardboard sword into his store. We get thrown into one of his machines. We take damage in the process.
+- He pushes us with the cardboard sword into his store. We get thrown into one of his machines. We take damage in the process.
 
 - Ewroon demands we make him a hot-dog.
 
@@ -1156,19 +1136,19 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 - We answer that we want to go to Maximus’ room. He starts leading us to it.
 
-- We request he talk to us in English. He replies that Maximus must have lied to him.
+- We request he talk to us in English. He replies that Maximus must have lied to him about our ability to speak Polish.
 
 - He goes forward to look for Maximus’ room. He insists it is downstairs, while we repeatedly say it is on the second floor. We instruct him that it is the empty room in front of Chapati’s.
 
 - We make it to Maximus’ room.
 
-(work in progress)
+- Ewroon leaves.
 
 ## Conversation with AldoGeo
 
-- Aldo told us to tell Maximus that the pickaxe was given to us by Erwon.
+- Aldo tells us to tell Maximus that the pickaxe was given to us by Erwon.
 
-- We have seen Aldo, he has given us bombs, a pickaxe and has shown us a train. I try to get us to drive the train.
+- We have seen Aldo, he has given us bombs, a pickaxe and has shown us a train. We try to get us to drive the train.
 
 - Aldo has accidentally run us over with the train.
 
@@ -1177,6 +1157,8 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 **(****Waiting for the Spanish translation)**
 
 # Sunday, May 10, 2026
+
+## **STAND-BY**
 
 - Colmena battery levels are still low, so our body has remained in the room of our creator: Maximus. No movement was detected around us.
 
