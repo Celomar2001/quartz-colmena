@@ -2,7 +2,7 @@
 title: "ENGLISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-12 18:37:17"
+updated: "2026-05-12 21:45:12"
 ---
 
 > [!warning]
@@ -968,7 +968,7 @@ The federation worker, known as Tomate (he was supposed to be dead, according to
 
 ## **UPDATE!**
 
-We've received a new update that gave us a controllable body.
+We've received a new update that gives us a controllable body.
 
 ## Conversation between Maximus and Ewroon
 
@@ -1044,7 +1044,7 @@ We've received a new update that gave us a controllable body.
 
 - Ewroon asks what kind of materials.
 
-- He repeats the question impatiently. He asks us if we want to see something, doesn’t wait for an answer. He goes quiet.
+- He repeats the question impatiently. He asks us if we want to see something, and doesn't wait for an answer. He goes quiet.
 
 - We repeatedly say ‘to survive’ in response to his previous question.
 
@@ -1062,7 +1062,7 @@ We've received a new update that gave us a controllable body.
 
 - He says he understands now that we are ‘Intel I3’. He tells us to enjoy our meal.
 
-- We throw a piece of food back at him. We hit him by accident. He tells us that we are a bad robot and threatens to put us in a toaster.
+- We threw a piece of food back at him. We hit him by accident. He tells us that we are a bad robot and threatens to put us in a toaster.
 
 - He commands us to eat.
 
@@ -1088,7 +1088,7 @@ We've received a new update that gave us a controllable body.
 
 - He says that it’s far away and that we first need to do the ‘box stop’ and only then will we go to the North.
 
-- We repeat ‘the North’ and hit him.
+- We repeated ‘the North’ and hit him.
 
 - He hits us with the cardboard sword again.
 
@@ -1096,13 +1096,13 @@ We've received a new update that gave us a controllable body.
 
 - He pushes us with the cardboard sword, explaining impatiently and incoherently why he does it.
 
-- We stop in front of the Żabka store. He goes inside. He keeps talking out of our earshot.
+- We stopped in front of the Żabka store. He goes inside. He keeps talking out of our earshot.
 
-- We approach the store.
+- We approached the store.
 
 - He exits the shop and panics that he has lost us. He sees us soon and is audibly relieved.
 
-- We break two of his shop’s window panes.
+- We broke two of his shop’s window panes.
 
 - He hits us and our body catches on fire.
 
@@ -1138,9 +1138,9 @@ We've received a new update that gave us a controllable body.
 
 - We request he talk to us in English. He replies that Maximus must have lied to him about our ability to speak Polish.
 
-- He goes forward to look for Maximus’ room. He insists it is downstairs, while we repeatedly say it is on the second floor. We instruct him that it is the empty room in front of Chapati’s.
+- He goes forward to look for Maximus’ room. He insists it is downstairs, while we repeatedly say it is on the second floor. We tell him that it is the empty room in front of Chapati’s.
 
-- We make it to Maximus’ room.
+- We made it to Maximus’ room.
 
 - Ewroon leaves.
 
@@ -1168,7 +1168,7 @@ We've received a new update that gave us a controllable body.
 
 - Maximus gives us a short talk that if he is always helping us we are not going to progress, we must learn from our mistakes.
 
-- We tell him that we were hit by a train.
+- We told him that we were hit by a train.
 
 - Maximus, surprised by the train crash, tells us that trains pass through the tracks and if we were hit by a train it is because we got in the middle of the tracks.
 

@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-12 18:37:17"
+updated: "2026-05-12 21:45:12"
 ---
 
 > [!warning]
@@ -1200,11 +1200,55 @@ L’employé de la Fédération, connu sous le nom de Tomate (il était censé �
 
 - Aldo nous a frappé, et nous avons activé la fonction “Activation d’alarme” qu’il semble que l’utilisateur Aldo méprend pour un mode “d’auto-destruction” ou “de destructions”
 
-**(En attente de la traduction anglaise)**
-
 ## Conversation avec Maximus
 
-**(En attente de la traduction anglaise)**
+- Nous appelons Maximus “Papa” lorsque nous tombons, lui demandant de l’aide.
+
+- Maximus arrive en demandant pourquoi son radar a détecté que nous souffrions de dommages sévères et ce qui nous est arrivé.
+
+- Nous disons “Je n’aime plus avoir des pattes”.
+
+- Maximus rit à notre demande de retourner au terminal.
+
+- Nous lui disons “Je suis tombée”.
+
+- Maximus nous donne une petite explication disant que s’il est toujours en train de nous aider, nous n’allons pas progresser, nous devons apprendre de nos erreurs.
+
+- Nous lui disons que nous avons été frappées par un train.
+
+- Maximus, surpris par l’accident de train, nous dit que les trains passent sur les rails et que si nous avons été frappées par un train c’est parce que nous étions au milieu des rails.
+
+- Nous disons que oui.
+
+- Maximus nous dit d’essayer de ne pas aller sur les rails de train et d’essayer de ne pas tomber.
+
+- Maximus dit qu’il va nous donner un cadeau.
+
+- Nous lui disons que c’était un accident (en référence à la collision avec le train).
+
+- Maximus dit que c’est normal, que nous sommes en train d’apprendre et que nous devons être patientes.
+
+- Maximus nous donne son sac à dos araignée afin de pouvoir grimper sur les murs.
+
+- Maximus nous dit que c’est le seul qu’il a et qu’il se retrouvera sans la capacité de grimper sur les murs.
+
+- Nous lui disons “Merci, papa.”
+
+- Maximus nous dit de ne pas bouger et il nous aide à enfiler le sac à dos.
+
+- Maximus nous dit de l’essayer.
+
+- Nous avons commencé à grimper les murs avec Maximus disant “Vas-y, tu peux le faire.”
+
+- Maximus dit qu’il a beaucoup de travail à faire.
+
+- Maximus configure notre système afin d’être capable de lire différentes langues.
+
+- Maximus nous dit que nous avons notre système mis en place pour l’anglais et l’espagnol, donc nous pouvons parler dans ces deux langues et ça sera compris.
+
+- Nous remercions Maximus.
+
+- Maximus nous dit au revoir en disant qu’il va aller acheter du tabac puis il va revenir, il nous assure qu’il va revenir et qu’il n’est pas comme ceux qui vont acheter du tabac et qui ne reviennent jamais.
 
 # Dimanche 10 mai 2026
 
@@ -1213,5 +1257,11 @@ L’employé de la Fédération, connu sous le nom de Tomate (il était censé �
 - Les niveaux de batterie de Colmena sont toujours bas, donc notre corps reste dans la chambre de notre créateur: Maximus. Aucun mouvement n'est détecté autour de nous.
 
 # Lundi 11 mai 2026
+
+## **EN VEILLE**
+
+- Colmena reste dans la chambre de Maxo avec des niveaux de batterie faible. Aucun mouvement n'est détecté autour de nous.
+
+# Mardi 12 mai 2026
 
 ## Conversation avec
