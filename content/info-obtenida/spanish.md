@@ -2,7 +2,7 @@
 title: "SPANISH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-12 21:45:12"
+updated: "2026-05-13 14:43:13"
 ---
 
 > [!warning]
@@ -1249,5 +1249,11 @@ La unidad de comunicaciones de Colmena ha sido desmantelada tras una falla de al
 - Colmena permaneció en la habitación de Maxo con niveles bajos de batería. No se detectó ningún movimiento a nuestro alrededor.
 
 # Martes, 12 de mayo 2026
+
+## **EN REPOSO**
+
+- Colmena permaneció en la habitación de Maxo con niveles bajos de batería. No se detectó ningún movimiento a nuestro alrededor.
+
+# Miércoles, 13 de mayo 2026
 
 ## Conversación con

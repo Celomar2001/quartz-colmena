@@ -2,7 +2,7 @@
 title: "INFORMATION"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-12 21:45:12"
+updated: "2026-05-13 14:43:13"
 ---
 
 > [!warning]
