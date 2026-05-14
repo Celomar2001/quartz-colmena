@@ -2,7 +2,7 @@
 title: "FRENCH"
 source: "Google Docs"
 google_doc_id: "15l7Es5D8KIYMkezxIDwH3DLDKl-0zTELmOp4vVnuhwg"
-updated: "2026-05-13 14:43:13"
+updated: "2026-05-13 21:28:41"
 ---
 
 > [!warning]
@@ -1263,5 +1263,11 @@ L’employé de la Fédération, connu sous le nom de Tomate (il était censé �
 - Colmena reste dans la chambre de Maxo avec des niveaux de batterie faible. Aucun mouvement n'est détecté autour de nous.
 
 # Mardi 12 mai 2026
+
+## **EN VEILLE**
+
+- Colmena reste dans la chambre de Maxo avec des niveaux de batterie faible. Aucun mouvement n'est détecté autour de nous.
+
+# Mercredi 13 mai 2026
 
 ## Conversation avec
